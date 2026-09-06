@@ -1,0 +1,36 @@
+{
+  "baseVersion": "ca06bd9f5db15726",
+  "proposedVersion": "ca06bd9f5db15726",
+  "generatedAt": "2026-09-06T11:13:13.537Z",
+  "adds": [],
+  "updates": [
+    {
+      "priority": "P1",
+      "dataset": "boundary source metadata",
+      "reason": "Official records modified after snapshot; retrieve and review geometry before updating",
+      "districts": [
+        "WAGGA WAGGA",
+        "COOTAMUNDRA"
+      ],
+      "source": "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Administrative_Boundaries_Theme_multiCRS/FeatureServer/4"
+    }
+  ],
+  "closes": [],
+  "unchangedButReverified": [
+    {
+      "dataset": "boundary district names ONLY",
+      "source": "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Administrative_Boundaries_Theme_multiCRS/FeatureServer/4",
+      "count": 93
+    }
+  ],
+  "disputes": [],
+  "staleOrUnreachable": [
+    {
+      "priority": "P1",
+      "source": "https://www.parliament.nsw.gov.au/members-and-electorates",
+      "reason": "Parliament directory access challenge or HTTP 403"
+    }
+  ],
+  "cardInvalidations": [],
+  "proposedCards": []
+}

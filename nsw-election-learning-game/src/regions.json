@@ -1,0 +1,125 @@
+{
+  "Sydney CBD & East": [
+    "Coogee",
+    "Heffron",
+    "Maroubra",
+    "Sydney",
+    "Vaucluse"
+  ],
+  "Inner West": [
+    "Balmain",
+    "Canterbury",
+    "Drummoyne",
+    "Newtown",
+    "Strathfield",
+    "Summer Hill"
+  ],
+  "North Shore & Northern Beaches": [
+    "Davidson",
+    "Hornsby",
+    "Lane Cove",
+    "Manly",
+    "North Shore",
+    "Pittwater",
+    "Wahroonga",
+    "Wakehurst",
+    "Willoughby"
+  ],
+  "North-west Sydney": [
+    "Castle Hill",
+    "Epping",
+    "Hawkesbury",
+    "Kellyville",
+    "Ryde",
+    "Winston Hills"
+  ],
+  "Western Sydney": [
+    "Auburn",
+    "Blacktown",
+    "Blue Mountains",
+    "Granville",
+    "Londonderry",
+    "Mount Druitt",
+    "Parramatta",
+    "Penrith",
+    "Prospect",
+    "Riverstone"
+  ],
+  "South-west Sydney": [
+    "Badgerys Creek",
+    "Bankstown",
+    "Cabramatta",
+    "Camden",
+    "Campbelltown",
+    "East Hills",
+    "Fairfield",
+    "Holsworthy",
+    "Leppington",
+    "Liverpool",
+    "Macquarie Fields",
+    "Wollondilly"
+  ],
+  "Southern Sydney": [
+    "Cronulla",
+    "Heathcote",
+    "Kogarah",
+    "Miranda",
+    "Oatley",
+    "Rockdale"
+  ],
+  "Central Coast": [
+    "Gosford",
+    "Terrigal",
+    "The Entrance",
+    "Wyong"
+  ],
+  "Hunter": [
+    "Cessnock",
+    "Charlestown",
+    "Lake Macquarie",
+    "Maitland",
+    "Newcastle",
+    "Port Stephens",
+    "Swansea",
+    "Upper Hunter",
+    "Wallsend"
+  ],
+  "North Coast": [
+    "Ballina",
+    "Clarence",
+    "Coffs Harbour",
+    "Lismore",
+    "Myall Lakes",
+    "Oxley",
+    "Port Macquarie",
+    "Tweed"
+  ],
+  "New England & North West": [
+    "Northern Tablelands",
+    "Tamworth"
+  ],
+  "Central West & Far West": [
+    "Barwon",
+    "Bathurst",
+    "Dubbo",
+    "Orange"
+  ],
+  "Riverina–Murray": [
+    "Albury",
+    "Cootamundra",
+    "Murray",
+    "Wagga Wagga"
+  ],
+  "South East & Tablelands": [
+    "Bega",
+    "Goulburn",
+    "Monaro"
+  ],
+  "Illawarra & South Coast": [
+    "Keira",
+    "Kiama",
+    "Shellharbour",
+    "South Coast",
+    "Wollongong"
+  ]
+}

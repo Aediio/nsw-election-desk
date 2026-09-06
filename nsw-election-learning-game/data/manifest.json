@@ -1,0 +1,72 @@
+{
+  "contentAsOf": "2026-09-03",
+  "timezone": "Australia/Sydney",
+  "datasets": [
+    {
+      "file": "current-la-members.json",
+      "description": "All current Legislative Assembly members, electorates, parties, ministries and parliamentary offices",
+      "source": "https://www.parliament.nsw.gov.au/members-and-electorates",
+      "authority": "Parliament of NSW",
+      "retrieved": "2026-09-03",
+      "expectedRecords": 93,
+      "refresh": "every build",
+      "maxAgeDays": 14,
+      "freshnessClass": "volatile",
+      "verificationStatus": "single-source",
+      "checkedAt": "2026-09-03"
+    },
+    {
+      "file": "current-lc-members.json",
+      "description": "All current Legislative Council members, parties, ministries and parliamentary offices",
+      "source": "https://www.parliament.nsw.gov.au/members-and-electorates",
+      "authority": "Parliament of NSW",
+      "retrieved": "2026-09-03",
+      "expectedRecords": 42,
+      "refresh": "every build",
+      "maxAgeDays": 14,
+      "freshnessClass": "volatile",
+      "verificationStatus": "single-source",
+      "checkedAt": "2026-09-03"
+    },
+    {
+      "file": "seat-results-2023.json",
+      "description": "Official 2023 Legislative Assembly winner, final pair, primary votes, enrolment, turnout and informality for every district",
+      "source": "https://pastvtr.elections.nsw.gov.au/SG2301/LA/results",
+      "authority": "NSW Electoral Commission",
+      "retrieved": "2026-09-03",
+      "expectedRecords": 93,
+      "refresh": "only after an official correction",
+      "maxAgeDays": 36500,
+      "freshnessClass": "historical",
+      "verificationStatus": "single-source",
+      "checkedAt": "2026-09-03"
+    },
+    {
+      "file": "state-electoral-districts.geojson",
+      "description": "Simplified WGS84 geometry for all NSW State Electoral Districts",
+      "source": "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Administrative_Boundaries_Theme_multiCRS/FeatureServer/4",
+      "authority": "Spatial Services NSW",
+      "retrieved": "2026-09-03",
+      "expectedRecords": 93,
+      "refresh": "when the official boundary layer changes",
+      "maxAgeDays": 36500,
+      "freshnessClass": "historical",
+      "verificationStatus": "single-source",
+      "checkedAt": "2026-09-03"
+    },
+    {
+      "file": "current-pendulum.json",
+      "description": "Dated current holder, analyst margin and named non-classic opponent where supplied",
+      "source": "https://www.tallyroom.com.au/nsw2027/pendulumnsw2027",
+      "authority": "The Tally Room",
+      "retrieved": "2026-09-03",
+      "expectedRecords": 93,
+      "refresh": "every build when the analyst source has changed",
+      "warning": "Analysis, not an official result or forecast",
+      "maxAgeDays": 14,
+      "freshnessClass": "volatile",
+      "verificationStatus": "single-source",
+      "checkedAt": "2026-09-03"
+    }
+  ]
+}

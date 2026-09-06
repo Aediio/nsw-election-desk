@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#142b3f">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="NSW Election Desk">
+  <title>NSW Election Desk</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <style>/*__STYLES__*/</style>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <div class="brand-name">NSW Election Desk</div>
+        <div class="brand-meta" id="as-of-label">Loading data…</div>
+      </div>
+      <button class="icon-button" type="button" data-settings aria-label="Settings">⚙</button>
+      <button class="icon-button" id="theme-button" type="button" aria-label="Change colour theme">◐</button>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="view" id="view-today" data-view="today">
+      <article class="hero card">
+        <div class="eyebrow">Road to the 59th Parliament</div>
+        <h1>Build recall for the NSW election beat.</h1>
+        <p>Official seat facts, current parliamentary roles, an analyst watchlist and dated campaign claims — kept distinct on purpose.</p>
+        <div class="countdown"><strong id="days-count">—</strong><span>days to<br>13 March 2027</span></div>
+      </article>
+
+      <div class="stat-grid" id="today-stats" aria-label="Study status"></div><div class="section" id="learning-summary"></div>
+
+      <section class="section">
+        <div class="section-title"><h2>Choose a short run</h2><span class="small muted">Recall, reveal, rate</span></div>
+        <div class="action-grid">
+          <button class="action-card primary" type="button" data-start-mode="daily"><strong>Daily 10</strong><span>Due cards first, then mixed new material.</span></button>
+          <button class="action-card" type="button" data-start-mode="marginals"><strong>Margin watch</strong><span>Current watch seats, holders and contest baselines.</span></button>
+          <button class="action-card" type="button" data-start-mode="people"><strong>Who's who</strong><span>Members, seats, portfolios and parliamentary offices.</span></button>
+          <button class="action-card" type="button" data-map-sprint><strong>Map sprint</strong><span>Locate five electorates in a reporting region.</span></button>
+        </div>
+      </section>
+
+      <div class="today-grid section">
+        <section>
+          <div class="section-title"><h2>Seats under pressure</h2><button class="button ghost" type="button" data-open-desk="watch">All watch seats</button></div>
+          <div class="list" id="today-watchlist"></div>
+        </section>
+        <section>
+          <div class="section-title"><h2>Latest desk entry</h2><button class="button ghost" type="button" data-open-desk="campaign">Campaign ledger</button></div>
+          <div id="today-campaign"></div>
+        </section>
+      </div>
+    </section>
+
+    <section class="view" id="view-drill" data-view="drill" hidden>
+      <div class="drill-shell">
+        <div class="page-head">
+          <div><div class="eyebrow">Adaptive recall</div><h1>Drill</h1><p class="muted">Think or say the answer before revealing it. Confidence is recorded before feedback.</p></div>
+        </div>
+        <div class="chip-row" id="drill-modes" aria-label="Choose drill deck">
+          <button class="chip" type="button" data-start-mode="daily">Daily 10</button>
+          <button class="chip" type="button" data-start-mode="basics">Core facts</button>
+          <button class="chip" type="button" data-start-mode="marginals">Margins</button>
+          <button class="chip" type="button" data-start-mode="results">2023 results</button>
+          <button class="chip" type="button" data-start-mode="people">Who's who</button>
+          <button class="chip" type="button" data-start-mode="parliament">Parliament</button>
+          <button class="chip" type="button" data-start-mode="campaign">Campaign</button>
+          <button class="chip" type="button" data-start-mode="scenarios">Newsroom</button>
+        </div>
+        <div id="drill-area"></div>
+      </div>
+    </section>
+
+    <section class="view" id="view-map" data-view="map" hidden>
+      <div class="page-head">
+        <div><div class="eyebrow">Official district geometry</div><h1>Electorate map</h1><p class="muted">Explore current holders, the official 2023 result and a dated analyst margin snapshot.</p></div>
+      </div>
+      <div class="map-controls">
+        <label class="field">Reporting region<select id="map-region"></select></label>
+        <label class="field">Map layer<select id="map-layer">
+          <option value="current">Current holder</option>
+          <option value="result2023">2023 winner</option>
+          <option value="watch">Watch pressure</option>
+          <option value="turnout">2023 turnout</option>
+        </select></label>
+        <label class="field">Mode<select id="map-mode">
+          <option value="explore">Explore</option>
+          <option value="locate">Locate five seats</option>
+        </select></label>
+      </div>
+      <div class="segment-row section" aria-label="Map zoom"><button class="button" data-map-zoom="1.6" aria-label="Zoom in">+</button><button class="button" data-map-zoom="0.625" aria-label="Zoom out">−</button><button class="button" data-map-zoom="reset">Reset / Fit region</button><span class="small muted">Pinch or scroll to zoom · drag to pan</span></div>
+      <article class="map-card card">
+        <div class="map-prompt" id="map-prompt" hidden aria-live="polite"></div>
+        <div id="map-host"><svg id="electorate-map" role="group" tabindex="0" aria-labelledby="map-title map-desc"><title id="map-title">NSW state electoral districts</title><desc id="map-desc">Interactive map of the 93 NSW Legislative Assembly districts.</desc></svg></div>
+        <div class="map-legend" id="map-legend" aria-label="Map legend"></div>
+        <div class="map-index" id="map-seat-index" hidden></div>
+      </article>
+      <div class="map-detail card" id="map-detail" aria-live="polite"><p class="muted">Tap a district to inspect it. Choose a region to make small metropolitan electorates easier to select.</p></div>
+      <p class="small muted section">Boundaries: Spatial Services NSW. “Watch pressure” uses the 3 September 2026 Tally Room pendulum as an analyst snapshot, not an official forecast.</p>
+    </section>
+
+    <section class="view" id="view-directory" data-view="directory" hidden>
+      <div class="page-head">
+        <div><div class="eyebrow">Reference desk</div><h1>Directory</h1><p class="muted">Search every lower-house seat and every current NSW parliamentarian.</p></div>
+      </div>
+      <div class="segment-row" role="tablist" aria-label="Directory section">
+        <button class="segment" type="button" role="tab" aria-selected="true" data-directory-tab="seats">Seats</button>
+        <button class="segment" type="button" role="tab" aria-selected="false" data-directory-tab="people">People</button>
+        <button class="segment" type="button" role="tab" aria-selected="false" data-directory-tab="parliament">Parliament</button>
+      </div>
+
+      <section class="subview" id="directory-seats">
+        <div class="form-grid">
+          <label class="field">Search seats or members<input type="search" id="seat-search" placeholder="e.g. Penrith or Karen McKeown"></label>
+          <label class="field">Holder<select id="seat-party"><option value="">All parties</option></select></label>
+          <label class="field">Focus<select id="seat-focus"><option value="">All 93 seats</option><option value="tier1">Tier 1 watch</option><option value="tier2">Tier 1 & 2 watch</option><option value="changed">Changed since 2023</option></select></label>
+        </div>
+        <p class="small muted" id="seat-count"></p>
+        <div class="list" id="seat-list"></div>
+      </section>
+
+      <section class="subview" id="directory-people" hidden>
+        <div class="form-grid">
+          <label class="field">Search people or roles<input type="search" id="people-search" placeholder="e.g. Premier, Roads or Sharpe"></label>
+          <label class="field">House<select id="people-house"><option value="">Both houses</option><option value="Legislative Assembly">Assembly</option><option value="Legislative Council">Council</option></select></label>
+          <label class="field">Party<select id="people-party"><option value="">All parties</option></select></label>
+        </div>
+        <p class="small muted" id="people-count"></p>
+        <div class="list" id="people-list"></div>
+      </section>
+
+      <section class="subview" id="directory-parliament" hidden>
+        <div id="parliament-content"></div>
+      </section>
+    </section>
+
+    <section class="view" id="view-desk" data-view="desk" hidden>
+      <div class="page-head">
+        <div><div class="eyebrow">Reporting preparation</div><h1>Desk</h1><p class="muted">Watchlists, promises, interstate lessons and a practical reporting checklist.</p></div>
+      </div>
+      <div class="segment-row" role="tablist" aria-label="Desk section">
+        <button class="segment" type="button" role="tab" aria-selected="true" data-desk-tab="watch">Watch seats</button>
+        <button class="segment" type="button" role="tab" aria-selected="false" data-desk-tab="campaign">Campaigns</button>
+        <button class="segment" type="button" role="tab" aria-selected="false" data-desk-tab="interstate">Interstate</button>
+        <button class="segment" type="button" role="tab" aria-selected="false" data-desk-tab="kit">Reporting kit</button>
+        <button class="segment" type="button" role="tab" aria-selected="false" data-desk-tab="progress">Progress</button>
+      </div>
+
+      <section class="subview" id="desk-watch"><div id="watch-content"></div></section>
+      <section class="subview" id="desk-campaign" hidden><div id="campaign-content"></div></section>
+      <section class="subview" id="desk-interstate" hidden><div id="interstate-content"></div></section>
+      <section class="subview" id="desk-kit" hidden><div id="kit-content"></div></section>
+      <section class="subview" id="desk-progress" hidden><div id="progress-content"></div></section>
+    </section>
+  </main>
+
+  <nav class="bottom-nav" aria-label="Primary navigation">
+    <div class="bottom-nav-inner">
+      <button class="nav-button" type="button" data-nav-view="today" aria-current="page"><span class="nav-icon" aria-hidden="true">⌂</span><span>Today</span></button>
+      <button class="nav-button" type="button" data-nav-view="drill"><span class="nav-icon" aria-hidden="true">◫</span><span>Drill</span></button>
+      <button class="nav-button" type="button" data-nav-view="map"><span class="nav-icon" aria-hidden="true">◇</span><span>Map</span></button>
+      <button class="nav-button" type="button" data-nav-view="directory"><span class="nav-icon" aria-hidden="true">≡</span><span>Directory</span></button>
+      <button class="nav-button" type="button" data-nav-view="desk"><span class="nav-icon" aria-hidden="true">▤</span><span>Desk</span></button>
+    </div>
+  </nav>
+
+  <dialog id="detail-dialog" aria-labelledby="dialog-title">
+    <div class="dialog-head"><h2 id="dialog-title">Detail</h2><button class="dialog-close" type="button" aria-label="Close detail">×</button></div>
+    <div class="dialog-body" id="dialog-body"></div>
+  </dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="data:text/javascript;base64,__D3_LIBRARY_BASE64__"></script>
+  <script>/*__GAME_DATA__*/</script>
+  <script>/*__LEARNING__*/</script>
+  <script>/*__GEMINI__*/</script>
+  <script>/*__APP__*/</script>
+</body>
+</html>

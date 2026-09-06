@@ -1,0 +1,38 @@
+name: Review official source changes
+on:
+  schedule:
+    - cron: '20 21 * * 0,3'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: official-source-review
+  cancel-in-progress: false
+jobs:
+  propose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+      - run: ruby nsw-election-learning-game/src/validate.rb --source-only
+      - run: node nsw-election-learning-game/src/refresh.cjs --output refresh-output
+      - uses: actions/upload-artifact@v4
+        with:
+          name: official-source-review
+          path: refresh-output
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: codex/official-source-review
+          title: 'Review official source health and proposed changes'
+          commit-message: 'Record official source review proposal'
+          body: |
+            Review refresh-output/changes.json and REVIEW.md. Canonical data has not been changed.
+            Resolve P0 disputes first, review P1 source changes or unreachable sources, then explicitly approve any snapshot replacements.
+            Historical 2023 results must remain separate. This workflow does not use Gemini or a hosted AI key.
+          add-paths: refresh-output/

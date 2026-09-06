@@ -1,0 +1,4 @@
+const {test}=require('node:test'),assert=require('node:assert/strict'),{compare,normalizeMembers,empty}=require('../nsw-election-learning-game/src/refresh.cjs');
+test('refresh separates additions, changes, closures and reverified records',()=>{const d=compare([{id:'a',x:1},{id:'b'},{id:'c'}],[{id:'a',x:2},{id:'c'},{id:'d'}],'id');assert.equal(d.updates.length,1);assert.equal(d.adds.length,1);assert.equal(d.closes.length,1);assert.deepEqual(d.unchangedButReverified,['c']);});
+test('incomplete member snapshots fail closed',()=>assert.throws(()=>normalizeMembers([], 'Legislative Assembly'),/count/));
+test('change set supports required review fields',()=>{const r=empty('v1');for(const field of ['adds','updates','closes','unchangedButReverified','disputes','staleOrUnreachable','cardInvalidations','proposedCards'])assert(Array.isArray(r[field]));});

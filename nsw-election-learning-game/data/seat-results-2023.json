@@ -1,0 +1,6075 @@
+[
+  {
+    "name": "Albury",
+    "slug": "albury",
+    "winner2023": {
+      "display": "Justin Clancy",
+      "party": "LIB",
+      "finalPct": 66.33,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Marcus Rowland",
+      "party": "ALP",
+      "finalPct": 33.67,
+      "elected": false
+    },
+    "margin2023": 16.33,
+    "primary2023": 52.96,
+    "enrolled2023": 59834,
+    "turnout2023": 86.21,
+    "informal2023": 3.48,
+    "candidates2023": [
+      {
+        "name": "Eli Davern",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4672,
+        "primaryPct": 9.38
+      },
+      {
+        "name": "Asanki Fernando",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1263,
+        "primaryPct": 2.54
+      },
+      {
+        "name": "Marcus Rowland",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 11081,
+        "primaryPct": 22.26
+      },
+      {
+        "name": "Ross Hamilton",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1171,
+        "primaryPct": 2.35
+      },
+      {
+        "name": "Justin Clancy",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 26368,
+        "primaryPct": 52.96
+      },
+      {
+        "name": "Peter Sinclair",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 4009,
+        "primaryPct": 8.05
+      },
+      {
+        "name": "Geoffrey Robertson",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 1224,
+        "primaryPct": 2.46
+      }
+    ]
+  },
+  {
+    "name": "Auburn",
+    "slug": "auburn",
+    "winner2023": {
+      "display": "Lynda Voltz",
+      "party": "ALP",
+      "finalPct": 73.99,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Mohammed (Haseen) Zaman",
+      "party": "LIB",
+      "finalPct": 26.01,
+      "elected": false
+    },
+    "margin2023": 23.99,
+    "primary2023": 60.12,
+    "enrolled2023": 59152,
+    "turnout2023": 84.76,
+    "informal2023": 6.55,
+    "candidates2023": [
+      {
+        "name": "Lynda Voltz",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 28167,
+        "primaryPct": 60.12
+      },
+      {
+        "name": "Masoomeh Asgari",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3237,
+        "primaryPct": 6.91
+      },
+      {
+        "name": "Jamal Daoud",
+        "partyName": "",
+        "party": "",
+        "votes": 1733,
+        "primaryPct": 3.7
+      },
+      {
+        "name": "Douaihy Julie Morkos",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 3162,
+        "primaryPct": 6.75
+      },
+      {
+        "name": "Shelley Goed",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1227,
+        "primaryPct": 2.62
+      },
+      {
+        "name": "Mohammed (Haseen) Zaman",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 9327,
+        "primaryPct": 19.91
+      }
+    ]
+  },
+  {
+    "name": "Badgerys Creek",
+    "slug": "badgerys-creek",
+    "winner2023": {
+      "display": "Tanya Davies",
+      "party": "LIB",
+      "finalPct": 60.48,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Garion Thain",
+      "party": "ALP",
+      "finalPct": 39.52,
+      "elected": false
+    },
+    "margin2023": 10.48,
+    "primary2023": 51.79,
+    "enrolled2023": 60267,
+    "turnout2023": 89.85,
+    "informal2023": 3.83,
+    "candidates2023": [
+      {
+        "name": "Tanya Davies",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 26972,
+        "primaryPct": 51.79
+      },
+      {
+        "name": "Benjamin Green",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 4268,
+        "primaryPct": 8.2
+      },
+      {
+        "name": "Nick Best",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2751,
+        "primaryPct": 5.28
+      },
+      {
+        "name": "Garion Thain",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 16766,
+        "primaryPct": 32.19
+      },
+      {
+        "name": "Peter Cooper",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1321,
+        "primaryPct": 2.54
+      }
+    ]
+  },
+  {
+    "name": "Ballina",
+    "slug": "ballina",
+    "winner2023": {
+      "display": "Tamara Smith",
+      "party": "GRN",
+      "finalPct": 57.72,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Josh Booyens",
+      "party": "NAT",
+      "finalPct": 42.28,
+      "elected": false
+    },
+    "margin2023": 7.72,
+    "primary2023": 35.17,
+    "enrolled2023": 58971,
+    "turnout2023": 83.42,
+    "informal2023": 2.96,
+    "candidates2023": [
+      {
+        "name": "Peter Jenkins",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1822,
+        "primaryPct": 3.82
+      },
+      {
+        "name": "Andrew Broadley",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 10880,
+        "primaryPct": 22.79
+      },
+      {
+        "name": "Kevin Loughrey",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 3710,
+        "primaryPct": 7.77
+      },
+      {
+        "name": "Tamara Smith",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 16792,
+        "primaryPct": 35.17
+      },
+      {
+        "name": "Josh Booyens",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 14535,
+        "primaryPct": 30.45
+      }
+    ]
+  },
+  {
+    "name": "Balmain",
+    "slug": "balmain",
+    "winner2023": {
+      "display": "Kobi Shetty",
+      "party": "GRN",
+      "finalPct": 51.8,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Philippa Scott",
+      "party": "ALP",
+      "finalPct": 48.2,
+      "elected": false
+    },
+    "margin2023": 1.8,
+    "primary2023": 40.48,
+    "enrolled2023": 58785,
+    "turnout2023": 86.45,
+    "informal2023": 1.61,
+    "candidates2023": [
+      {
+        "name": "Stephen Bisgrove",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1189,
+        "primaryPct": 2.38
+      },
+      {
+        "name": "Philippa Scott",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 18555,
+        "primaryPct": 37.11
+      },
+      {
+        "name": "Kobi Shetty",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 20240,
+        "primaryPct": 40.48
+      },
+      {
+        "name": "Glen Stelzer",
+        "partyName": "Public Education Party",
+        "party": "Public Education Party",
+        "votes": 447,
+        "primaryPct": 0.89
+      },
+      {
+        "name": "Freya Leach",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 9566,
+        "primaryPct": 19.13
+      }
+    ]
+  },
+  {
+    "name": "Bankstown",
+    "slug": "bankstown",
+    "winner2023": {
+      "display": "Jihad Dib",
+      "party": "ALP",
+      "finalPct": 70.33,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Nathan Taleb",
+      "party": "LIB",
+      "finalPct": 29.67,
+      "elected": false
+    },
+    "margin2023": 20.33,
+    "primary2023": 59.38,
+    "enrolled2023": 59280,
+    "turnout2023": 82.92,
+    "informal2023": 6.65,
+    "candidates2023": [
+      {
+        "name": "Max Boddy",
+        "partyName": "",
+        "party": "",
+        "votes": 1223,
+        "primaryPct": 2.67
+      },
+      {
+        "name": "Isaac Nasedra",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2436,
+        "primaryPct": 5.31
+      },
+      {
+        "name": "Yosra Alyateem",
+        "partyName": "Informed Medical Options Party (IMOP)",
+        "party": "Informed Medical Options Party (IMOP)",
+        "votes": 1306,
+        "primaryPct": 2.85
+      },
+      {
+        "name": "Marianne Glinka",
+        "partyName": "Public Education Party",
+        "party": "Public Education Party",
+        "votes": 679,
+        "primaryPct": 1.48
+      },
+      {
+        "name": "Jihad Dib",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 27247,
+        "primaryPct": 59.38
+      },
+      {
+        "name": "Nathan Taleb",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 11379,
+        "primaryPct": 24.8
+      },
+      {
+        "name": "Luke Habib",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 725,
+        "primaryPct": 1.58
+      },
+      {
+        "name": "Dorlene Abou-Haidar",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 893,
+        "primaryPct": 1.95
+      }
+    ]
+  },
+  {
+    "name": "Barwon",
+    "slug": "barwon",
+    "winner2023": {
+      "display": "Roy Butler",
+      "party": "IND",
+      "finalPct": 65.99,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Annette Turner",
+      "party": "NAT",
+      "finalPct": 34.01,
+      "elected": false
+    },
+    "margin2023": 15.99,
+    "primary2023": 44.78,
+    "enrolled2023": 53735,
+    "turnout2023": 84.16,
+    "informal2023": 3.06,
+    "candidates2023": [
+      {
+        "name": "Joshua Roberts-Garnsey",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 6816,
+        "primaryPct": 15.55
+      },
+      {
+        "name": "Roy Butler",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 19630,
+        "primaryPct": 44.78
+      },
+      {
+        "name": "Annette Turner",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 11158,
+        "primaryPct": 25.45
+      },
+      {
+        "name": "Paul Britton",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 2983,
+        "primaryPct": 6.8
+      },
+      {
+        "name": "Thomas McBride",
+        "partyName": "Public Education Party",
+        "party": "Public Education Party",
+        "votes": 318,
+        "primaryPct": 0.73
+      },
+      {
+        "name": "Stuart Howe",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 460,
+        "primaryPct": 1.05
+      },
+      {
+        "name": "Pat Schultz",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 881,
+        "primaryPct": 2.01
+      },
+      {
+        "name": "Ben Hartley",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 1591,
+        "primaryPct": 3.63
+      }
+    ]
+  },
+  {
+    "name": "Bathurst",
+    "slug": "bathurst",
+    "winner2023": {
+      "display": "Paul Toole",
+      "party": "NAT",
+      "finalPct": 73.57,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Cameron Shaw",
+      "party": "ALP",
+      "finalPct": 26.43,
+      "elected": false
+    },
+    "margin2023": 23.57,
+    "primary2023": 57.01,
+    "enrolled2023": 59476,
+    "turnout2023": 90.45,
+    "informal2023": 2.6,
+    "candidates2023": [
+      {
+        "name": "Craig Sinclair",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 3850,
+        "primaryPct": 7.35
+      },
+      {
+        "name": "Kay Nankervis",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3595,
+        "primaryPct": 6.86
+      },
+      {
+        "name": "Burchell Wilson",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 1092,
+        "primaryPct": 2.08
+      },
+      {
+        "name": "Antony Zbik",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 1472,
+        "primaryPct": 2.81
+      },
+      {
+        "name": "Michael Begg",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 626,
+        "primaryPct": 1.19
+      },
+      {
+        "name": "Paul Toole",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 29873,
+        "primaryPct": 57.01
+      },
+      {
+        "name": "Martin Ticehurst",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 3449,
+        "primaryPct": 6.58
+      },
+      {
+        "name": "Cameron Shaw",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 8442,
+        "primaryPct": 16.11
+      }
+    ]
+  },
+  {
+    "name": "Bega",
+    "slug": "bega",
+    "winner2023": {
+      "display": "Michael Holland",
+      "party": "ALP",
+      "finalPct": 60.4,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Russell Fitzpatrick",
+      "party": "LIB",
+      "finalPct": 39.6,
+      "elected": false
+    },
+    "margin2023": 10.4,
+    "primary2023": 45.07,
+    "enrolled2023": 59759,
+    "turnout2023": 88.99,
+    "informal2023": 2.81,
+    "candidates2023": [
+      {
+        "name": "Debra Abbott",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 3802,
+        "primaryPct": 7.36
+      },
+      {
+        "name": "Greg White",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 2043,
+        "primaryPct": 3.95
+      },
+      {
+        "name": "Cathy Griff",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4322,
+        "primaryPct": 8.36
+      },
+      {
+        "name": "Karin Geiselhart",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 756,
+        "primaryPct": 1.46
+      },
+      {
+        "name": "Jeffrey Hawkins",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1199,
+        "primaryPct": 2.32
+      },
+      {
+        "name": "Russell Fitzpatrick",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 16268,
+        "primaryPct": 31.48
+      },
+      {
+        "name": "Michael Holland",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 23294,
+        "primaryPct": 45.07
+      }
+    ]
+  },
+  {
+    "name": "Blacktown",
+    "slug": "blacktown",
+    "winner2023": {
+      "display": "Stephen Bali",
+      "party": "ALP",
+      "finalPct": 69.12,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Allan Green",
+      "party": "LIB",
+      "finalPct": 30.88,
+      "elected": false
+    },
+    "margin2023": 19.12,
+    "primary2023": 55.65,
+    "enrolled2023": 58584,
+    "turnout2023": 86.83,
+    "informal2023": 4.17,
+    "candidates2023": [
+      {
+        "name": "Emma Kerin",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 2357,
+        "primaryPct": 4.84
+      },
+      {
+        "name": "Peter Foster",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 2524,
+        "primaryPct": 5.18
+      },
+      {
+        "name": "Patrick Murphy",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1022,
+        "primaryPct": 2.1
+      },
+      {
+        "name": "Allan Green",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 11637,
+        "primaryPct": 23.87
+      },
+      {
+        "name": "Leonard Hobbs",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2521,
+        "primaryPct": 5.17
+      },
+      {
+        "name": "Alexander Mishalow",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 1559,
+        "primaryPct": 3.2
+      },
+      {
+        "name": "Stephen Bali",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 27128,
+        "primaryPct": 55.65
+      }
+    ]
+  },
+  {
+    "name": "Blue Mountains",
+    "slug": "blue-mountains",
+    "winner2023": {
+      "display": "Trish Doyle",
+      "party": "ALP",
+      "finalPct": 71.89,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Sophie-Anne Bruce",
+      "party": "LIB",
+      "finalPct": 28.11,
+      "elected": false
+    },
+    "margin2023": 21.89,
+    "primary2023": 53.93,
+    "enrolled2023": 59088,
+    "turnout2023": 91.73,
+    "informal2023": 2.11,
+    "candidates2023": [
+      {
+        "name": "Trish Doyle",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 28613,
+        "primaryPct": 53.93
+      },
+      {
+        "name": "Greg Keightley",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 2285,
+        "primaryPct": 4.31
+      },
+      {
+        "name": "Michelle Palmer",
+        "partyName": "Informed Medical Options Party (IMOP)",
+        "party": "Informed Medical Options Party (IMOP)",
+        "votes": 1901,
+        "primaryPct": 3.58
+      },
+      {
+        "name": "Richard Marschall",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 948,
+        "primaryPct": 1.79
+      },
+      {
+        "name": "Sophie-Anne Bruce",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 12640,
+        "primaryPct": 23.82
+      },
+      {
+        "name": "Jenna Condie",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 6669,
+        "primaryPct": 12.57
+      }
+    ]
+  },
+  {
+    "name": "Cabramatta",
+    "slug": "cabramatta",
+    "winner2023": {
+      "display": "Tri Vo",
+      "party": "ALP",
+      "finalPct": 61.8,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Courtney Nguyen",
+      "party": "LIB",
+      "finalPct": 38.2,
+      "elected": false
+    },
+    "margin2023": 11.8,
+    "primary2023": 41.33,
+    "enrolled2023": 61468,
+    "turnout2023": 88.39,
+    "informal2023": 5.53,
+    "candidates2023": [
+      {
+        "name": "Mark Smaling",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 5046,
+        "primaryPct": 9.83
+      },
+      {
+        "name": "Davis Roz Chia",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2645,
+        "primaryPct": 5.15
+      },
+      {
+        "name": "Kate Hoang",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 8522,
+        "primaryPct": 16.6
+      },
+      {
+        "name": "Courtney Nguyen",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 11604,
+        "primaryPct": 22.61
+      },
+      {
+        "name": "Tri Vo",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 21213,
+        "primaryPct": 41.33
+      },
+      {
+        "name": "Randa Moussa",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 2299,
+        "primaryPct": 4.48
+      }
+    ]
+  },
+  {
+    "name": "Camden",
+    "slug": "camden",
+    "winner2023": {
+      "display": "Sally Quinnell",
+      "party": "ALP",
+      "finalPct": 53.0,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Peter Sidgreaves",
+      "party": "LIB",
+      "finalPct": 47.0,
+      "elected": false
+    },
+    "margin2023": 3.0,
+    "primary2023": 40.58,
+    "enrolled2023": 61874,
+    "turnout2023": 90.71,
+    "informal2023": 3.66,
+    "candidates2023": [
+      {
+        "name": "Jessie Bijok",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1868,
+        "primaryPct": 3.45
+      },
+      {
+        "name": "Garry Dollin",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 7437,
+        "primaryPct": 13.75
+      },
+      {
+        "name": "Emily Rivera",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3136,
+        "primaryPct": 5.8
+      },
+      {
+        "name": "Sally Quinnell",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 21945,
+        "primaryPct": 40.58
+      },
+      {
+        "name": "Peter Sidgreaves",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 19686,
+        "primaryPct": 36.41
+      }
+    ]
+  },
+  {
+    "name": "Campbelltown",
+    "slug": "campbelltown",
+    "winner2023": {
+      "display": "Greg Warren",
+      "party": "ALP",
+      "finalPct": 73.29,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Gypshouna Paudel",
+      "party": "LIB",
+      "finalPct": 26.71,
+      "elected": false
+    },
+    "margin2023": 23.29,
+    "primary2023": 53.7,
+    "enrolled2023": 58129,
+    "turnout2023": 86.16,
+    "informal2023": 4.71,
+    "candidates2023": [
+      {
+        "name": "Rosa (Rosetta) Sicari",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 2339,
+        "primaryPct": 4.9
+      },
+      {
+        "name": "Matt Twaddell",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1866,
+        "primaryPct": 3.91
+      },
+      {
+        "name": "Gypshouna Paudel",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 8104,
+        "primaryPct": 16.98
+      },
+      {
+        "name": "Jayden Rivera",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2876,
+        "primaryPct": 6.03
+      },
+      {
+        "name": "Howard Jones",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 867,
+        "primaryPct": 1.82
+      },
+      {
+        "name": "Greg Warren",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 25629,
+        "primaryPct": 53.7
+      },
+      {
+        "name": "Tofick Galiell",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 549,
+        "primaryPct": 1.15
+      },
+      {
+        "name": "Adam Zahra",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 5498,
+        "primaryPct": 11.52
+      }
+    ]
+  },
+  {
+    "name": "Canterbury",
+    "slug": "canterbury",
+    "winner2023": {
+      "display": "Sophie Cotsis",
+      "party": "ALP",
+      "finalPct": 75.78,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Nemr Boumansour",
+      "party": "LIB",
+      "finalPct": 24.22,
+      "elected": false
+    },
+    "margin2023": 25.78,
+    "primary2023": 59.84,
+    "enrolled2023": 58548,
+    "turnout2023": 86.54,
+    "informal2023": 4.71,
+    "candidates2023": [
+      {
+        "name": "Sophie Cotsis",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 28892,
+        "primaryPct": 59.84
+      },
+      {
+        "name": "Joe Sinacori",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1379,
+        "primaryPct": 2.86
+      },
+      {
+        "name": "Kacey King",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1376,
+        "primaryPct": 2.85
+      },
+      {
+        "name": "Bradley Schott",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4354,
+        "primaryPct": 9.02
+      },
+      {
+        "name": "Vanessa Hadchiti",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 3941,
+        "primaryPct": 8.16
+      },
+      {
+        "name": "Nemr Boumansour",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 8341,
+        "primaryPct": 17.28
+      }
+    ]
+  },
+  {
+    "name": "Castle Hill",
+    "slug": "castle-hill",
+    "winner2023": {
+      "display": "Mark Hodges",
+      "party": "LIB",
+      "finalPct": 60.9,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Tina Cartwright",
+      "party": "ALP",
+      "finalPct": 39.1,
+      "elected": false
+    },
+    "margin2023": 10.9,
+    "primary2023": 50.7,
+    "enrolled2023": 60394,
+    "turnout2023": 90.62,
+    "informal2023": 2.38,
+    "candidates2023": [
+      {
+        "name": "My Trinh",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 3642,
+        "primaryPct": 6.82
+      },
+      {
+        "name": "Nathan Organ",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1352,
+        "primaryPct": 2.53
+      },
+      {
+        "name": "Tina Cartwright",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 15159,
+        "primaryPct": 28.37
+      },
+      {
+        "name": "Eric Claus",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1403,
+        "primaryPct": 2.63
+      },
+      {
+        "name": "Tina Kordrostami",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4786,
+        "primaryPct": 8.96
+      },
+      {
+        "name": "Mark Hodges",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 27085,
+        "primaryPct": 50.7
+      }
+    ]
+  },
+  {
+    "name": "Cessnock",
+    "slug": "cessnock",
+    "winner2023": {
+      "display": "Clayton Barr",
+      "party": "ALP",
+      "finalPct": 73.39,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Quintin King",
+      "party": "ON",
+      "finalPct": 26.61,
+      "elected": false
+    },
+    "margin2023": 23.39,
+    "primary2023": 48.73,
+    "enrolled2023": 62098,
+    "turnout2023": 88.59,
+    "informal2023": 4.06,
+    "candidates2023": [
+      {
+        "name": "Andrew Fenwick",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 6294,
+        "primaryPct": 11.92
+      },
+      {
+        "name": "Ash Barnham",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 5877,
+        "primaryPct": 11.13
+      },
+      {
+        "name": "Graham Jones",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1215,
+        "primaryPct": 2.3
+      },
+      {
+        "name": "Quintin King",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 8059,
+        "primaryPct": 15.27
+      },
+      {
+        "name": "Victoria Davies",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 2141,
+        "primaryPct": 4.06
+      },
+      {
+        "name": "Llynda Nairn",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3476,
+        "primaryPct": 6.59
+      },
+      {
+        "name": "Clayton Barr",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 25719,
+        "primaryPct": 48.73
+      }
+    ]
+  },
+  {
+    "name": "Charlestown",
+    "slug": "charlestown",
+    "winner2023": {
+      "display": "Jodie Harrison",
+      "party": "ALP",
+      "finalPct": 71.09,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Jack Antcliff",
+      "party": "LIB",
+      "finalPct": 28.91,
+      "elected": false
+    },
+    "margin2023": 21.09,
+    "primary2023": 57.44,
+    "enrolled2023": 60974,
+    "turnout2023": 89.57,
+    "informal2023": 2.99,
+    "candidates2023": [
+      {
+        "name": "Jodie Harrison",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 30432,
+        "primaryPct": 57.44
+      },
+      {
+        "name": "Jack Antcliff",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 13178,
+        "primaryPct": 24.87
+      },
+      {
+        "name": "Marie Rolfe",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 2593,
+        "primaryPct": 4.89
+      },
+      {
+        "name": "Greg Watkinson",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 6778,
+        "primaryPct": 12.79
+      }
+    ]
+  },
+  {
+    "name": "Clarence",
+    "slug": "clarence",
+    "winner2023": {
+      "display": "Richie Williamson",
+      "party": "NAT",
+      "finalPct": 64.25,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Leon Ankersmit",
+      "party": "ALP",
+      "finalPct": 35.75,
+      "elected": false
+    },
+    "margin2023": 14.25,
+    "primary2023": 49.55,
+    "enrolled2023": 57265,
+    "turnout2023": 88.79,
+    "informal2023": 3.76,
+    "candidates2023": [
+      {
+        "name": "Mark Rayner",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 3708,
+        "primaryPct": 7.58
+      },
+      {
+        "name": "Greg Clancy",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3739,
+        "primaryPct": 7.64
+      },
+      {
+        "name": "Debrah Novak",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 3433,
+        "primaryPct": 7.02
+      },
+      {
+        "name": "Richie Williamson",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 24247,
+        "primaryPct": 49.55
+      },
+      {
+        "name": "Leon Ankersmit",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 10700,
+        "primaryPct": 21.87
+      },
+      {
+        "name": "Brett Duroux",
+        "partyName": "",
+        "party": "",
+        "votes": 725,
+        "primaryPct": 1.48
+      },
+      {
+        "name": "Nicki Levi",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1320,
+        "primaryPct": 2.7
+      },
+      {
+        "name": "George Keller",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1061,
+        "primaryPct": 2.17
+      }
+    ]
+  },
+  {
+    "name": "Coffs Harbour",
+    "slug": "coffs-harbour",
+    "winner2023": {
+      "display": "Gurmesh Singh",
+      "party": "NAT",
+      "finalPct": 63.24,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Tony Judge",
+      "party": "ALP",
+      "finalPct": 36.76,
+      "elected": false
+    },
+    "margin2023": 13.24,
+    "primary2023": 51.43,
+    "enrolled2023": 57830,
+    "turnout2023": 87.58,
+    "informal2023": 2.8,
+    "candidates2023": [
+      {
+        "name": "Tony Judge",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 10263,
+        "primaryPct": 20.85
+      },
+      {
+        "name": "Gurmesh Singh",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 25319,
+        "primaryPct": 51.43
+      },
+      {
+        "name": "Ruth Cully",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 842,
+        "primaryPct": 1.71
+      },
+      {
+        "name": "Tihema Elliston",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 2917,
+        "primaryPct": 5.93
+      },
+      {
+        "name": "Sally Townley",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 5978,
+        "primaryPct": 12.14
+      },
+      {
+        "name": "Kellie Pearce",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1096,
+        "primaryPct": 2.23
+      },
+      {
+        "name": "Tim Nott",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2814,
+        "primaryPct": 5.72
+      }
+    ]
+  },
+  {
+    "name": "Coogee",
+    "slug": "coogee",
+    "winner2023": {
+      "display": "Marjorie O'Neill",
+      "party": "ALP",
+      "finalPct": 62.29,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Muenster Kylie Von",
+      "party": "LIB",
+      "finalPct": 37.71,
+      "elected": false
+    },
+    "margin2023": 12.29,
+    "primary2023": 45.21,
+    "enrolled2023": 59486,
+    "turnout2023": 83.94,
+    "informal2023": 1.86,
+    "candidates2023": [
+      {
+        "name": "Lluisa Murray",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1058,
+        "primaryPct": 2.16
+      },
+      {
+        "name": "Muenster Kylie Von",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 16121,
+        "primaryPct": 32.9
+      },
+      {
+        "name": "Marjorie O'Neill",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 22153,
+        "primaryPct": 45.21
+      },
+      {
+        "name": "Alicia Mosquera",
+        "partyName": "Informed Medical Options Party (IMOP)",
+        "party": "Informed Medical Options Party (IMOP)",
+        "votes": 924,
+        "primaryPct": 1.89
+      },
+      {
+        "name": "Rafaela Pandolfini",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 7927,
+        "primaryPct": 16.18
+      },
+      {
+        "name": "Simon Garrod",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 821,
+        "primaryPct": 1.68
+      }
+    ]
+  },
+  {
+    "name": "Cootamundra",
+    "slug": "cootamundra",
+    "winner2023": {
+      "display": "Steph Cooke",
+      "party": "NAT",
+      "finalPct": 82.08,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Chris Dahlitz",
+      "party": "ALP",
+      "finalPct": 17.92,
+      "elected": false
+    },
+    "margin2023": 32.08,
+    "primary2023": 70.57,
+    "enrolled2023": 56016,
+    "turnout2023": 89.24,
+    "informal2023": 2.29,
+    "candidates2023": [
+      {
+        "name": "Robert Young",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1113,
+        "primaryPct": 2.28
+      },
+      {
+        "name": "Steph Cooke",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 34470,
+        "primaryPct": 70.57
+      },
+      {
+        "name": "Chris Dahlitz",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 6566,
+        "primaryPct": 13.44
+      },
+      {
+        "name": "Chris O'Rourke",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 618,
+        "primaryPct": 1.27
+      },
+      {
+        "name": "Jake Cullen",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 4209,
+        "primaryPct": 8.62
+      },
+      {
+        "name": "Brian Fisher",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 674,
+        "primaryPct": 1.38
+      },
+      {
+        "name": "Jeffrey Passlow",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 1198,
+        "primaryPct": 2.45
+      }
+    ]
+  },
+  {
+    "name": "Cronulla",
+    "slug": "cronulla",
+    "winner2023": {
+      "display": "Mark Speakman",
+      "party": "LIB",
+      "finalPct": 63.79,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Paul Constance",
+      "party": "ALP",
+      "finalPct": 36.21,
+      "elected": false
+    },
+    "margin2023": 13.79,
+    "primary2023": 54.18,
+    "enrolled2023": 58926,
+    "turnout2023": 91.41,
+    "informal2023": 2.32,
+    "candidates2023": [
+      {
+        "name": "Paul Constance",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 14468,
+        "primaryPct": 27.5
+      },
+      {
+        "name": "Catherine Dyson",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4585,
+        "primaryPct": 8.71
+      },
+      {
+        "name": "Craig Ibbotson",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 3197,
+        "primaryPct": 6.08
+      },
+      {
+        "name": "Domna Giannakis",
+        "partyName": "Informed Medical Options Party (IMOP)",
+        "party": "Informed Medical Options Party (IMOP)",
+        "votes": 845,
+        "primaryPct": 1.61
+      },
+      {
+        "name": "Richard Moran",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1012,
+        "primaryPct": 1.92
+      },
+      {
+        "name": "Mark Speakman",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 28505,
+        "primaryPct": 54.18
+      }
+    ]
+  },
+  {
+    "name": "Davidson",
+    "slug": "davidson",
+    "winner2023": {
+      "display": "Matt Cross",
+      "party": "LIB",
+      "finalPct": 63.93,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Karyn Edelstein",
+      "party": "ALP",
+      "finalPct": 36.07,
+      "elected": false
+    },
+    "margin2023": 13.93,
+    "primary2023": 54.14,
+    "enrolled2023": 59865,
+    "turnout2023": 91.06,
+    "informal2023": 2.19,
+    "candidates2023": [
+      {
+        "name": "Matt Cross",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 28865,
+        "primaryPct": 54.14
+      },
+      {
+        "name": "Janine Kitson",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 6080,
+        "primaryPct": 11.4
+      },
+      {
+        "name": "Caroline Atkinson",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 6060,
+        "primaryPct": 11.37
+      },
+      {
+        "name": "Andrew Wills",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1397,
+        "primaryPct": 2.62
+      },
+      {
+        "name": "Karyn Edelstein",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 10917,
+        "primaryPct": 20.47
+      }
+    ]
+  },
+  {
+    "name": "Drummoyne",
+    "slug": "drummoyne",
+    "winner2023": {
+      "display": "Pasqua Stephanie Di",
+      "party": "LIB",
+      "finalPct": 51.3,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Julia Little",
+      "party": "ALP",
+      "finalPct": 48.7,
+      "elected": false
+    },
+    "margin2023": 1.3,
+    "primary2023": 47.5,
+    "enrolled2023": 58939,
+    "turnout2023": 89.61,
+    "informal2023": 2.23,
+    "candidates2023": [
+      {
+        "name": "Pasqua Stephanie Di",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 24526,
+        "primaryPct": 47.5
+      },
+      {
+        "name": "Patrick Conaghan",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1782,
+        "primaryPct": 3.45
+      },
+      {
+        "name": "Charles Jago",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 5149,
+        "primaryPct": 9.97
+      },
+      {
+        "name": "Julia Little",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 20182,
+        "primaryPct": 39.08
+      }
+    ]
+  },
+  {
+    "name": "Dubbo",
+    "slug": "dubbo",
+    "winner2023": {
+      "display": "Dugald Saunders",
+      "party": "NAT",
+      "finalPct": 68.57,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Josh Black",
+      "party": "ALP",
+      "finalPct": 31.43,
+      "elected": false
+    },
+    "margin2023": 18.57,
+    "primary2023": 54.31,
+    "enrolled2023": 57922,
+    "turnout2023": 88.29,
+    "informal2023": 3.12,
+    "candidates2023": [
+      {
+        "name": "Josh Black",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 10859,
+        "primaryPct": 21.92
+      },
+      {
+        "name": "Kate Richardson",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 7035,
+        "primaryPct": 14.2
+      },
+      {
+        "name": "Robyn Thomas",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 1761,
+        "primaryPct": 3.55
+      },
+      {
+        "name": "Dugald Saunders",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 26907,
+        "primaryPct": 54.31
+      },
+      {
+        "name": "Mark Littlejohn",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 2197,
+        "primaryPct": 4.43
+      },
+      {
+        "name": "Anthony Nugent",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 785,
+        "primaryPct": 1.58
+      }
+    ]
+  },
+  {
+    "name": "East Hills",
+    "slug": "east-hills",
+    "winner2023": {
+      "display": "Kylie Wilkinson",
+      "party": "ALP",
+      "finalPct": 51.74,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Wendy Lindsay",
+      "party": "LIB",
+      "finalPct": 48.26,
+      "elected": false
+    },
+    "margin2023": 1.74,
+    "primary2023": 43.93,
+    "enrolled2023": 59684,
+    "turnout2023": 88.7,
+    "informal2023": 4.81,
+    "candidates2023": [
+      {
+        "name": "Kylie Wilkinson",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 22140,
+        "primaryPct": 43.93
+      },
+      {
+        "name": "Chris Brogan",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 2679,
+        "primaryPct": 5.32
+      },
+      {
+        "name": "Wendy Lindsay",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 21996,
+        "primaryPct": 43.65
+      },
+      {
+        "name": "Natalie Hanna",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3578,
+        "primaryPct": 7.1
+      }
+    ]
+  },
+  {
+    "name": "Epping",
+    "slug": "epping",
+    "winner2023": {
+      "display": "Dominic Perrottet",
+      "party": "LIB",
+      "finalPct": 54.76,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Alan Mascarenhas",
+      "party": "ALP",
+      "finalPct": 45.24,
+      "elected": false
+    },
+    "margin2023": 4.76,
+    "primary2023": 48.94,
+    "enrolled2023": 58728,
+    "turnout2023": 90.7,
+    "informal2023": 2.4,
+    "candidates2023": [
+      {
+        "name": "Phil Bradley",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 5489,
+        "primaryPct": 10.56
+      },
+      {
+        "name": "Alan Mascarenhas",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 17599,
+        "primaryPct": 33.85
+      },
+      {
+        "name": "Victor Waterson",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1322,
+        "primaryPct": 2.54
+      },
+      {
+        "name": "Bradley Molloy",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1045,
+        "primaryPct": 2.01
+      },
+      {
+        "name": "Dominic Perrottet",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 25439,
+        "primaryPct": 48.94
+      },
+      {
+        "name": "Carmen Terceiro",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1091,
+        "primaryPct": 2.1
+      }
+    ]
+  },
+  {
+    "name": "Fairfield",
+    "slug": "fairfield",
+    "winner2023": {
+      "display": "David Saliba",
+      "party": "ALP",
+      "finalPct": 70.89,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Aaryen Pillai",
+      "party": "LIB",
+      "finalPct": 29.11,
+      "elected": false
+    },
+    "margin2023": 20.89,
+    "primary2023": 51.14,
+    "enrolled2023": 60115,
+    "turnout2023": 85.21,
+    "informal2023": 7.08,
+    "candidates2023": [
+      {
+        "name": "Severino Lovero",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 3219,
+        "primaryPct": 6.76
+      },
+      {
+        "name": "Hikmat Odesh",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 4891,
+        "primaryPct": 10.28
+      },
+      {
+        "name": "David Saliba",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 24340,
+        "primaryPct": 51.14
+      },
+      {
+        "name": "Jacob Potkonyak",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 1841,
+        "primaryPct": 3.87
+      },
+      {
+        "name": "Monika Ball",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2615,
+        "primaryPct": 5.49
+      },
+      {
+        "name": "Aaryen Pillai",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 9675,
+        "primaryPct": 20.33
+      },
+      {
+        "name": "Robyn Leggatt",
+        "partyName": "Public Education Party",
+        "party": "Public Education Party",
+        "votes": 1017,
+        "primaryPct": 2.14
+      }
+    ]
+  },
+  {
+    "name": "Gosford",
+    "slug": "gosford",
+    "winner2023": {
+      "display": "Liesl Tesch",
+      "party": "ALP",
+      "finalPct": 65.39,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Dee Bocking",
+      "party": "LIB",
+      "finalPct": 34.61,
+      "elected": false
+    },
+    "margin2023": 15.39,
+    "primary2023": 50.4,
+    "enrolled2023": 58134,
+    "turnout2023": 86.94,
+    "informal2023": 3.02,
+    "candidates2023": [
+      {
+        "name": "Haren Hilary Van",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4553,
+        "primaryPct": 9.29
+      },
+      {
+        "name": "Dee Bocking",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 13881,
+        "primaryPct": 28.32
+      },
+      {
+        "name": "Liesl Tesch",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 24703,
+        "primaryPct": 50.4
+      },
+      {
+        "name": "Ineka Soetens",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 806,
+        "primaryPct": 1.64
+      },
+      {
+        "name": "Lisa Bellamy",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1668,
+        "primaryPct": 3.4
+      },
+      {
+        "name": "Emily McCallum",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1336,
+        "primaryPct": 2.73
+      },
+      {
+        "name": "Larry Freeman",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 2071,
+        "primaryPct": 4.22
+      }
+    ]
+  },
+  {
+    "name": "Goulburn",
+    "slug": "goulburn",
+    "winner2023": {
+      "display": "Wendy Tuckerman",
+      "party": "LIB",
+      "finalPct": 51.29,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Michael Pilbrow",
+      "party": "ALP",
+      "finalPct": 48.71,
+      "elected": false
+    },
+    "margin2023": 1.29,
+    "primary2023": 40.84,
+    "enrolled2023": 57607,
+    "turnout2023": 90.84,
+    "informal2023": 2.97,
+    "candidates2023": [
+      {
+        "name": "Michael Pilbrow",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 18028,
+        "primaryPct": 35.51
+      },
+      {
+        "name": "Margaret Logan",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1532,
+        "primaryPct": 3.02
+      },
+      {
+        "name": "Wendy Tuckerman",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 20737,
+        "primaryPct": 40.84
+      },
+      {
+        "name": "Andrew Wood",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 6891,
+        "primaryPct": 13.57
+      },
+      {
+        "name": "Gregory John Olsen",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3587,
+        "primaryPct": 7.06
+      }
+    ]
+  },
+  {
+    "name": "Granville",
+    "slug": "granville",
+    "winner2023": {
+      "display": "Julia Finn",
+      "party": "ALP",
+      "finalPct": 71.5,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Anm Masum",
+      "party": "LIB",
+      "finalPct": 28.5,
+      "elected": false
+    },
+    "margin2023": 21.5,
+    "primary2023": 55.79,
+    "enrolled2023": 62236,
+    "turnout2023": 83.17,
+    "informal2023": 5.94,
+    "candidates2023": [
+      {
+        "name": "Charbel Saad",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 3907,
+        "primaryPct": 8.02
+      },
+      {
+        "name": "Janet Castle",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2755,
+        "primaryPct": 5.66
+      },
+      {
+        "name": "Julia Finn",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 27163,
+        "primaryPct": 55.79
+      },
+      {
+        "name": "Rohan Laxmanalal",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1304,
+        "primaryPct": 2.68
+      },
+      {
+        "name": "John Hadchiti",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 3792,
+        "primaryPct": 7.79
+      },
+      {
+        "name": "Anm Masum",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 9766,
+        "primaryPct": 20.06
+      }
+    ]
+  },
+  {
+    "name": "Hawkesbury",
+    "slug": "hawkesbury",
+    "winner2023": {
+      "display": "Robyn Preston",
+      "party": "LIB",
+      "finalPct": 59.83,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Amanda Kotlash",
+      "party": "ALP",
+      "finalPct": 40.17,
+      "elected": false
+    },
+    "margin2023": 9.83,
+    "primary2023": 43.78,
+    "enrolled2023": 61167,
+    "turnout2023": 90.81,
+    "informal2023": 4.26,
+    "candidates2023": [
+      {
+        "name": "Susane Popovski",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 5476,
+        "primaryPct": 10.3
+      },
+      {
+        "name": "Angela Maguire",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 2275,
+        "primaryPct": 4.28
+      },
+      {
+        "name": "Eddie Dogramaci",
+        "partyName": "The Small Business Party",
+        "party": "The Small Business Party",
+        "votes": 2025,
+        "primaryPct": 3.81
+      },
+      {
+        "name": "Amanda Kotlash",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 13532,
+        "primaryPct": 25.45
+      },
+      {
+        "name": "Danielle Wheeler",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3977,
+        "primaryPct": 7.48
+      },
+      {
+        "name": "Elissa Carrey",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1125,
+        "primaryPct": 2.12
+      },
+      {
+        "name": "Robyn Preston",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 23283,
+        "primaryPct": 43.78
+      },
+      {
+        "name": "Tony Pettitt",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1486,
+        "primaryPct": 2.79
+      }
+    ]
+  },
+  {
+    "name": "Heathcote",
+    "slug": "heathcote",
+    "winner2023": {
+      "display": "Maryanne Stuart",
+      "party": "ALP",
+      "finalPct": 59.95,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Lee Evans",
+      "party": "LIB",
+      "finalPct": 40.05,
+      "elected": false
+    },
+    "margin2023": 9.95,
+    "primary2023": 44.2,
+    "enrolled2023": 58415,
+    "turnout2023": 92.51,
+    "informal2023": 2.44,
+    "candidates2023": [
+      {
+        "name": "Maryanne Stuart",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 23301,
+        "primaryPct": 44.2
+      },
+      {
+        "name": "Lee Evans",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 18122,
+        "primaryPct": 34.37
+      },
+      {
+        "name": "Cooper Riach",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 6571,
+        "primaryPct": 12.46
+      },
+      {
+        "name": "Matthew Bragg",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1369,
+        "primaryPct": 2.6
+      },
+      {
+        "name": "Sean Ambrose",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 1926,
+        "primaryPct": 3.65
+      },
+      {
+        "name": "Arielle Perkett",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1434,
+        "primaryPct": 2.72
+      }
+    ]
+  },
+  {
+    "name": "Heffron",
+    "slug": "heffron",
+    "winner2023": {
+      "display": "Ron Hoenig",
+      "party": "ALP",
+      "finalPct": 73.29,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Francis Devine",
+      "party": "LIB",
+      "finalPct": 26.71,
+      "elected": false
+    },
+    "margin2023": 23.29,
+    "primary2023": 49.72,
+    "enrolled2023": 56304,
+    "turnout2023": 82.59,
+    "informal2023": 2.86,
+    "candidates2023": [
+      {
+        "name": "Rachel Evans",
+        "partyName": "Socialist Alliance",
+        "party": "Socialist Alliance",
+        "votes": 878,
+        "primaryPct": 1.94
+      },
+      {
+        "name": "Linda Paull",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1252,
+        "primaryPct": 2.77
+      },
+      {
+        "name": "Francis Devine",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 9597,
+        "primaryPct": 21.25
+      },
+      {
+        "name": "Sarina Kilham",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1538,
+        "primaryPct": 3.4
+      },
+      {
+        "name": "Philipa Veitch",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 8559,
+        "primaryPct": 18.95
+      },
+      {
+        "name": "Ron Hoenig",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 22458,
+        "primaryPct": 49.72
+      },
+      {
+        "name": "Ann Godfrey",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 889,
+        "primaryPct": 1.97
+      }
+    ]
+  },
+  {
+    "name": "Holsworthy",
+    "slug": "holsworthy",
+    "winner2023": {
+      "display": "Tina Ayyad",
+      "party": "LIB",
+      "finalPct": 50.37,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Mick Maroney",
+      "party": "ALP",
+      "finalPct": 49.63,
+      "elected": false
+    },
+    "margin2023": 0.37,
+    "primary2023": 41.91,
+    "enrolled2023": 58054,
+    "turnout2023": 87.8,
+    "informal2023": 4.28,
+    "candidates2023": [
+      {
+        "name": "Tina Ayyad",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 20449,
+        "primaryPct": 41.91
+      },
+      {
+        "name": "Mick Maroney",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 19284,
+        "primaryPct": 39.52
+      },
+      {
+        "name": "Deborah Swinbourn",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 2174,
+        "primaryPct": 4.46
+      },
+      {
+        "name": "Chris Kerle",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2719,
+        "primaryPct": 5.57
+      },
+      {
+        "name": "James Ingarfill",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 4165,
+        "primaryPct": 8.54
+      }
+    ]
+  },
+  {
+    "name": "Hornsby",
+    "slug": "hornsby",
+    "winner2023": {
+      "display": "Matt Kean",
+      "party": "LIB",
+      "finalPct": 58.04,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Melissa Hoile",
+      "party": "ALP",
+      "finalPct": 41.96,
+      "elected": false
+    },
+    "margin2023": 8.04,
+    "primary2023": 43.29,
+    "enrolled2023": 60291,
+    "turnout2023": 92.01,
+    "informal2023": 2.36,
+    "candidates2023": [
+      {
+        "name": "Jeffrey Grimshaw",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 2125,
+        "primaryPct": 3.92
+      },
+      {
+        "name": "Steve Busch",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 4298,
+        "primaryPct": 7.93
+      },
+      {
+        "name": "Benjamin Caswell",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1557,
+        "primaryPct": 2.87
+      },
+      {
+        "name": "Justin Thomas",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 918,
+        "primaryPct": 1.69
+      },
+      {
+        "name": "Tania Salitra",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 7738,
+        "primaryPct": 14.29
+      },
+      {
+        "name": "Matt Kean",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 23451,
+        "primaryPct": 43.29
+      },
+      {
+        "name": "Adrian Dignam",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 661,
+        "primaryPct": 1.22
+      },
+      {
+        "name": "Melissa Hoile",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 13418,
+        "primaryPct": 24.77
+      }
+    ]
+  },
+  {
+    "name": "Keira",
+    "slug": "keira",
+    "winner2023": {
+      "display": "Ryan Park",
+      "party": "ALP",
+      "finalPct": 74.15,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Noah Shipp",
+      "party": "LIB",
+      "finalPct": 25.85,
+      "elected": false
+    },
+    "margin2023": 24.15,
+    "primary2023": 57.85,
+    "enrolled2023": 57630,
+    "turnout2023": 89.56,
+    "informal2023": 3.08,
+    "candidates2023": [
+      {
+        "name": "Kit Docker",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 7297,
+        "primaryPct": 14.59
+      },
+      {
+        "name": "Ryan Park",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 28938,
+        "primaryPct": 57.85
+      },
+      {
+        "name": "Andrew Anthony",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 2867,
+        "primaryPct": 5.73
+      },
+      {
+        "name": "Noah Shipp",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 10924,
+        "primaryPct": 21.84
+      }
+    ]
+  },
+  {
+    "name": "Kellyville",
+    "slug": "kellyville",
+    "winner2023": {
+      "display": "Ray Williams",
+      "party": "LIB",
+      "finalPct": 60.96,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Alex Karki",
+      "party": "ALP",
+      "finalPct": 39.04,
+      "elected": false
+    },
+    "margin2023": 10.96,
+    "primary2023": 55.36,
+    "enrolled2023": 58999,
+    "turnout2023": 92.32,
+    "informal2023": 2.34,
+    "candidates2023": [
+      {
+        "name": "Thelma Ghayyem",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4235,
+        "primaryPct": 7.96
+      },
+      {
+        "name": "Ray Williams",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 29450,
+        "primaryPct": 55.36
+      },
+      {
+        "name": "Alex Karki",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 16571,
+        "primaryPct": 31.15
+      },
+      {
+        "name": "Ingrid Akkari",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1368,
+        "primaryPct": 2.57
+      },
+      {
+        "name": "Heather Boyd",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1569,
+        "primaryPct": 2.95
+      }
+    ]
+  },
+  {
+    "name": "Kiama",
+    "slug": "kiama",
+    "winner2023": {
+      "display": "Gareth Ward",
+      "party": "IND",
+      "finalPct": 50.76,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Katelin McInerney",
+      "party": "ALP",
+      "finalPct": 49.24,
+      "elected": false
+    },
+    "margin2023": 0.76,
+    "primary2023": 38.79,
+    "enrolled2023": 60174,
+    "turnout2023": 89.82,
+    "informal2023": 3.1,
+    "candidates2023": [
+      {
+        "name": "John Gill",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1911,
+        "primaryPct": 3.65
+      },
+      {
+        "name": "Tonia Gray",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 5833,
+        "primaryPct": 11.14
+      },
+      {
+        "name": "Melanie Gibbons",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 6301,
+        "primaryPct": 12.03
+      },
+      {
+        "name": "Gareth Ward",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 20316,
+        "primaryPct": 38.79
+      },
+      {
+        "name": "Katelin McInerney",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 18010,
+        "primaryPct": 34.39
+      }
+    ]
+  },
+  {
+    "name": "Kogarah",
+    "slug": "kogarah",
+    "winner2023": {
+      "display": "Chris Minns",
+      "party": "ALP",
+      "finalPct": 68.27,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Craig Chung",
+      "party": "LIB",
+      "finalPct": 31.73,
+      "elected": false
+    },
+    "margin2023": 18.27,
+    "primary2023": 60.63,
+    "enrolled2023": 59593,
+    "turnout2023": 89.17,
+    "informal2023": 4.04,
+    "candidates2023": [
+      {
+        "name": "Chris Minns",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 30916,
+        "primaryPct": 60.63
+      },
+      {
+        "name": "Tracy Yuen",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3511,
+        "primaryPct": 6.89
+      },
+      {
+        "name": "Troy Stolz",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 2186,
+        "primaryPct": 4.29
+      },
+      {
+        "name": "Craig Chung",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 14380,
+        "primaryPct": 28.2
+      }
+    ]
+  },
+  {
+    "name": "Lake Macquarie",
+    "slug": "lake-macquarie",
+    "winner2023": {
+      "display": "Greg Piper",
+      "party": "IND",
+      "finalPct": 74.12,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Steve Ryan",
+      "party": "ALP",
+      "finalPct": 25.88,
+      "elected": false
+    },
+    "margin2023": 24.12,
+    "primary2023": 57.49,
+    "enrolled2023": 59020,
+    "turnout2023": 88.1,
+    "informal2023": 2.67,
+    "candidates2023": [
+      {
+        "name": "Jason Lesage",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 3203,
+        "primaryPct": 6.33
+      },
+      {
+        "name": "Greg Piper",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 29093,
+        "primaryPct": 57.49
+      },
+      {
+        "name": "Felipe Gore-Escalante",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 761,
+        "primaryPct": 1.5
+      },
+      {
+        "name": "Joshua Beer",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 5091,
+        "primaryPct": 10.06
+      },
+      {
+        "name": "Steve Ryan",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 10031,
+        "primaryPct": 19.82
+      },
+      {
+        "name": "Kim Grierson",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2430,
+        "primaryPct": 4.8
+      }
+    ]
+  },
+  {
+    "name": "Lane Cove",
+    "slug": "lane-cove",
+    "winner2023": {
+      "display": "Anthony Roberts",
+      "party": "LIB",
+      "finalPct": 55.5,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Penelope Pedersen",
+      "party": "ALP",
+      "finalPct": 44.5,
+      "elected": false
+    },
+    "margin2023": 5.5,
+    "primary2023": 45.07,
+    "enrolled2023": 58580,
+    "turnout2023": 90.62,
+    "informal2023": 1.93,
+    "candidates2023": [
+      {
+        "name": "Victoria Davidson",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 10608,
+        "primaryPct": 20.38
+      },
+      {
+        "name": "Anthony Roberts",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 23463,
+        "primaryPct": 45.07
+      },
+      {
+        "name": "Penelope Pedersen",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 12469,
+        "primaryPct": 23.95
+      },
+      {
+        "name": "Heather Armstrong",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4331,
+        "primaryPct": 8.32
+      },
+      {
+        "name": "Ben Wise",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1189,
+        "primaryPct": 2.28
+      }
+    ]
+  },
+  {
+    "name": "Leppington",
+    "slug": "leppington",
+    "winner2023": {
+      "display": "Nathan Hagarty",
+      "party": "ALP",
+      "finalPct": 58.87,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Therese Fedeli",
+      "party": "LIB",
+      "finalPct": 41.13,
+      "elected": false
+    },
+    "margin2023": 8.87,
+    "primary2023": 50.33,
+    "enrolled2023": 60776,
+    "turnout2023": 87.71,
+    "informal2023": 4.95,
+    "candidates2023": [
+      {
+        "name": "Therese Fedeli",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 17570,
+        "primaryPct": 34.68
+      },
+      {
+        "name": "Danica Sajn",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1254,
+        "primaryPct": 2.48
+      },
+      {
+        "name": "Apurva Shukla",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2536,
+        "primaryPct": 5.01
+      },
+      {
+        "name": "Mandar Tamhankar",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 3807,
+        "primaryPct": 7.51
+      },
+      {
+        "name": "Nathan Hagarty",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 25499,
+        "primaryPct": 50.33
+      }
+    ]
+  },
+  {
+    "name": "Lismore",
+    "slug": "lismore",
+    "winner2023": {
+      "display": "Janelle Saffin",
+      "party": "ALP",
+      "finalPct": 64.99,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Alex Rubin",
+      "party": "NAT",
+      "finalPct": 35.01,
+      "elected": false
+    },
+    "margin2023": 14.99,
+    "primary2023": 44.4,
+    "enrolled2023": 57384,
+    "turnout2023": 87.13,
+    "informal2023": 2.62,
+    "candidates2023": [
+      {
+        "name": "Matthew Bertalli",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 3347,
+        "primaryPct": 6.87
+      },
+      {
+        "name": "Janelle Saffin",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 21615,
+        "primaryPct": 44.4
+      },
+      {
+        "name": "James McKenzie",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 791,
+        "primaryPct": 1.62
+      },
+      {
+        "name": "Allen Crosthwaite",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 511,
+        "primaryPct": 1.05
+      },
+      {
+        "name": "Vanessa Rosayro",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1196,
+        "primaryPct": 2.46
+      },
+      {
+        "name": "Ross Honniball",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 666,
+        "primaryPct": 1.37
+      },
+      {
+        "name": "Adam Guise",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 6979,
+        "primaryPct": 14.33
+      },
+      {
+        "name": "Alex Rubin",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 13581,
+        "primaryPct": 27.9
+      }
+    ]
+  },
+  {
+    "name": "Liverpool",
+    "slug": "liverpool",
+    "winner2023": {
+      "display": "Charishma Kaliyanda",
+      "party": "ALP",
+      "finalPct": 58.35,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Richard Ammoun",
+      "party": "LIB",
+      "finalPct": 41.65,
+      "elected": false
+    },
+    "margin2023": 8.35,
+    "primary2023": 47.19,
+    "enrolled2023": 60552,
+    "turnout2023": 84.41,
+    "informal2023": 5.96,
+    "candidates2023": [
+      {
+        "name": "Charishma Kaliyanda",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 22681,
+        "primaryPct": 47.19
+      },
+      {
+        "name": "Richard Ammoun",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 16409,
+        "primaryPct": 34.14
+      },
+      {
+        "name": "Amy Croft",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3039,
+        "primaryPct": 6.32
+      },
+      {
+        "name": "Gabriel Hancock",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1446,
+        "primaryPct": 3.01
+      },
+      {
+        "name": "Linda Harris",
+        "partyName": "",
+        "party": "",
+        "votes": 982,
+        "primaryPct": 2.04
+      },
+      {
+        "name": "Milomir (Michael) Andjelkovic",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 3508,
+        "primaryPct": 7.3
+      }
+    ]
+  },
+  {
+    "name": "Londonderry",
+    "slug": "londonderry",
+    "winner2023": {
+      "display": "Prue Car",
+      "party": "ALP",
+      "finalPct": 63.72,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Snigdha (Samantha) Talakola",
+      "party": "LIB",
+      "finalPct": 36.28,
+      "elected": false
+    },
+    "margin2023": 13.72,
+    "primary2023": 54.29,
+    "enrolled2023": 61482,
+    "turnout2023": 87.48,
+    "informal2023": 3.83,
+    "candidates2023": [
+      {
+        "name": "Prue Car",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 28079,
+        "primaryPct": 54.29
+      },
+      {
+        "name": "Snigdha (Samantha) Talakola",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 15525,
+        "primaryPct": 30.01
+      },
+      {
+        "name": "David Maurice",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2611,
+        "primaryPct": 5.05
+      },
+      {
+        "name": "Luke Tester",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 4228,
+        "primaryPct": 8.17
+      },
+      {
+        "name": "David Bowen",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1282,
+        "primaryPct": 2.48
+      }
+    ]
+  },
+  {
+    "name": "Macquarie Fields",
+    "slug": "macquarie-fields",
+    "winner2023": {
+      "display": "Anoulack Chanthivong",
+      "party": "ALP",
+      "finalPct": 69.87,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Khairul Chowdhury",
+      "party": "LIB",
+      "finalPct": 30.13,
+      "elected": false
+    },
+    "margin2023": 19.87,
+    "primary2023": 57.1,
+    "enrolled2023": 59641,
+    "turnout2023": 86.28,
+    "informal2023": 4.4,
+    "candidates2023": [
+      {
+        "name": "Donna Wilson",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 2346,
+        "primaryPct": 4.77
+      },
+      {
+        "name": "Michael Clark",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1606,
+        "primaryPct": 3.26
+      },
+      {
+        "name": "Gemma Noiosi",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 4122,
+        "primaryPct": 8.38
+      },
+      {
+        "name": "Khairul Chowdhury",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 10682,
+        "primaryPct": 21.71
+      },
+      {
+        "name": "Seamus Lee",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2349,
+        "primaryPct": 4.77
+      },
+      {
+        "name": "Anoulack Chanthivong",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 28089,
+        "primaryPct": 57.1
+      }
+    ]
+  },
+  {
+    "name": "Maitland",
+    "slug": "maitland",
+    "winner2023": {
+      "display": "Jenny Aitchison",
+      "party": "ALP",
+      "finalPct": 68.62,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Michael Cooper",
+      "party": "LIB",
+      "finalPct": 31.38,
+      "elected": false
+    },
+    "margin2023": 18.62,
+    "primary2023": 51.89,
+    "enrolled2023": 60409,
+    "turnout2023": 88.6,
+    "informal2023": 3.53,
+    "candidates2023": [
+      {
+        "name": "Campbell Knox",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3725,
+        "primaryPct": 7.21
+      },
+      {
+        "name": "Michael Cooper",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 11745,
+        "primaryPct": 22.75
+      },
+      {
+        "name": "Neil Turner",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 4404,
+        "primaryPct": 8.53
+      },
+      {
+        "name": "Sam Ferguson",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 861,
+        "primaryPct": 1.67
+      },
+      {
+        "name": "Alex Lee",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1200,
+        "primaryPct": 2.32
+      },
+      {
+        "name": "Daniel Dryden",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 2906,
+        "primaryPct": 5.63
+      },
+      {
+        "name": "Jenny Aitchison",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 26792,
+        "primaryPct": 51.89
+      }
+    ]
+  },
+  {
+    "name": "Manly",
+    "slug": "manly",
+    "winner2023": {
+      "display": "James Griffin",
+      "party": "LIB",
+      "finalPct": 54.85,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Joeline Hackman",
+      "party": "IND",
+      "finalPct": 45.15,
+      "elected": false
+    },
+    "margin2023": 4.85,
+    "primary2023": 44.99,
+    "enrolled2023": 61062,
+    "turnout2023": 88.46,
+    "informal2023": 2.2,
+    "candidates2023": [
+      {
+        "name": "Phillip Altman",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1395,
+        "primaryPct": 2.64
+      },
+      {
+        "name": "Joeline Hackman",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 14365,
+        "primaryPct": 27.19
+      },
+      {
+        "name": "Roux Terry Le",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4734,
+        "primaryPct": 8.96
+      },
+      {
+        "name": "Emanuele Paletto",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 711,
+        "primaryPct": 1.35
+      },
+      {
+        "name": "Bailey Mason",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1062,
+        "primaryPct": 2.01
+      },
+      {
+        "name": "Jasper Thatcher",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 6794,
+        "primaryPct": 12.86
+      },
+      {
+        "name": "James Griffin",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 23764,
+        "primaryPct": 44.99
+      }
+    ]
+  },
+  {
+    "name": "Maroubra",
+    "slug": "maroubra",
+    "winner2023": {
+      "display": "Michael Daley",
+      "party": "ALP",
+      "finalPct": 68.71,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Bill Burst",
+      "party": "LIB",
+      "finalPct": 31.29,
+      "elected": false
+    },
+    "margin2023": 18.71,
+    "primary2023": 54.38,
+    "enrolled2023": 59449,
+    "turnout2023": 86.3,
+    "informal2023": 2.95,
+    "candidates2023": [
+      {
+        "name": "Roderick Aguilar",
+        "partyName": "Informed Medical Options Party (IMOP)",
+        "party": "Informed Medical Options Party (IMOP)",
+        "votes": 1554,
+        "primaryPct": 3.12
+      },
+      {
+        "name": "Kym Chapple",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 5835,
+        "primaryPct": 11.72
+      },
+      {
+        "name": "Monique Isenheim",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 850,
+        "primaryPct": 1.71
+      },
+      {
+        "name": "Michael Daley",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 27076,
+        "primaryPct": 54.38
+      },
+      {
+        "name": "Holly Williamson",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1096,
+        "primaryPct": 2.2
+      },
+      {
+        "name": "Bill Burst",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 13378,
+        "primaryPct": 26.87
+      }
+    ]
+  },
+  {
+    "name": "Miranda",
+    "slug": "miranda",
+    "winner2023": {
+      "display": "Eleni Petinos",
+      "party": "LIB",
+      "finalPct": 52.35,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Simon Earle",
+      "party": "ALP",
+      "finalPct": 47.65,
+      "elected": false
+    },
+    "margin2023": 2.35,
+    "primary2023": 45.43,
+    "enrolled2023": 59774,
+    "turnout2023": 91.12,
+    "informal2023": 2.94,
+    "candidates2023": [
+      {
+        "name": "Nick Hughes",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 2512,
+        "primaryPct": 4.75
+      },
+      {
+        "name": "Eleni Petinos",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 24017,
+        "primaryPct": 45.43
+      },
+      {
+        "name": "Martin Moore",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3842,
+        "primaryPct": 7.27
+      },
+      {
+        "name": "Simon Earle",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 19781,
+        "primaryPct": 37.42
+      },
+      {
+        "name": "Gaye Cameron",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 2712,
+        "primaryPct": 5.13
+      }
+    ]
+  },
+  {
+    "name": "Monaro",
+    "slug": "monaro",
+    "winner2023": {
+      "display": "Steven Whan",
+      "party": "ALP",
+      "finalPct": 52.29,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Nichole Overall",
+      "party": "NAT",
+      "finalPct": 47.71,
+      "elected": false
+    },
+    "margin2023": 2.29,
+    "primary2023": 38.15,
+    "enrolled2023": 59514,
+    "turnout2023": 87.66,
+    "informal2023": 2.52,
+    "candidates2023": [
+      {
+        "name": "Steven Whan",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 19401,
+        "primaryPct": 38.15
+      },
+      {
+        "name": "Andrew Thaler",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1855,
+        "primaryPct": 3.65
+      },
+      {
+        "name": "Chris Pryor",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 3077,
+        "primaryPct": 6.05
+      },
+      {
+        "name": "James Holgate",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 987,
+        "primaryPct": 1.94
+      },
+      {
+        "name": "Jenny Goldie",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3924,
+        "primaryPct": 7.72
+      },
+      {
+        "name": "Josie Tanson",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 1722,
+        "primaryPct": 3.39
+      },
+      {
+        "name": "Nichole Overall",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 19890,
+        "primaryPct": 39.11
+      }
+    ]
+  },
+  {
+    "name": "Mount Druitt",
+    "slug": "mount-druitt",
+    "winner2023": {
+      "display": "Edmond Atalla",
+      "party": "ALP",
+      "finalPct": 72.39,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Jayadevan Kandathil Sunil",
+      "party": "LIB",
+      "finalPct": 27.61,
+      "elected": false
+    },
+    "margin2023": 22.39,
+    "primary2023": 60.95,
+    "enrolled2023": 62334,
+    "turnout2023": 82.63,
+    "informal2023": 5.36,
+    "candidates2023": [
+      {
+        "name": "Jayadevan Kandathil Sunil",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 11470,
+        "primaryPct": 23.53
+      },
+      {
+        "name": "Andrew Dudas",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 3393,
+        "primaryPct": 6.96
+      },
+      {
+        "name": "Edmond Atalla",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 29710,
+        "primaryPct": 60.95
+      },
+      {
+        "name": "Asm Morshed",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4173,
+        "primaryPct": 8.56
+      }
+    ]
+  },
+  {
+    "name": "Murray",
+    "slug": "murray",
+    "winner2023": {
+      "display": "Helen Dalton",
+      "party": "IND",
+      "finalPct": 66.01,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Peta Betts",
+      "party": "NAT",
+      "finalPct": 33.99,
+      "elected": false
+    },
+    "margin2023": 16.01,
+    "primary2023": 50.24,
+    "enrolled2023": 59138,
+    "turnout2023": 86.32,
+    "informal2023": 3.2,
+    "candidates2023": [
+      {
+        "name": "Adrian Carle",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 1840,
+        "primaryPct": 3.72
+      },
+      {
+        "name": "Mirsad (Max) Buljubasic",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 4124,
+        "primaryPct": 8.35
+      },
+      {
+        "name": "Michael Florance",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 404,
+        "primaryPct": 0.82
+      },
+      {
+        "name": "Peta Betts",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 12974,
+        "primaryPct": 26.26
+      },
+      {
+        "name": "Kevin Farrell",
+        "partyName": "Public Education Party",
+        "party": "Public Education Party",
+        "votes": 446,
+        "primaryPct": 0.9
+      },
+      {
+        "name": "Desiree Gregory",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 2369,
+        "primaryPct": 4.79
+      },
+      {
+        "name": "Amelia King",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 913,
+        "primaryPct": 1.85
+      },
+      {
+        "name": "Helen Dalton",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 24824,
+        "primaryPct": 50.24
+      },
+      {
+        "name": "Greg Adamson",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 314,
+        "primaryPct": 0.64
+      },
+      {
+        "name": "David Landini",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1207,
+        "primaryPct": 2.44
+      }
+    ]
+  },
+  {
+    "name": "Myall Lakes",
+    "slug": "myall-lakes",
+    "winner2023": {
+      "display": "Tanya Thompson",
+      "party": "NAT",
+      "finalPct": 65.82,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Mark Vanstone",
+      "party": "ALP",
+      "finalPct": 34.18,
+      "elected": false
+    },
+    "margin2023": 15.82,
+    "primary2023": 47.09,
+    "enrolled2023": 61336,
+    "turnout2023": 88.81,
+    "informal2023": 3.28,
+    "candidates2023": [
+      {
+        "name": "Keys Manley",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 4747,
+        "primaryPct": 9.01
+      },
+      {
+        "name": "Eleanor Spence",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2843,
+        "primaryPct": 5.4
+      },
+      {
+        "name": "Mark Vanstone",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 9460,
+        "primaryPct": 17.96
+      },
+      {
+        "name": "Jason Bendall",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 9567,
+        "primaryPct": 18.16
+      },
+      {
+        "name": "Tanya Thompson",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 24809,
+        "primaryPct": 47.09
+      },
+      {
+        "name": "Maree McDonald-Pritchard",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1260,
+        "primaryPct": 2.39
+      }
+    ]
+  },
+  {
+    "name": "Newcastle",
+    "slug": "newcastle",
+    "winner2023": {
+      "display": "Tim Crakanthorp",
+      "party": "ALP",
+      "finalPct": 72.59,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Thomas Triebsees",
+      "party": "LIB",
+      "finalPct": 27.41,
+      "elected": false
+    },
+    "margin2023": 22.59,
+    "primary2023": 49.43,
+    "enrolled2023": 59443,
+    "turnout2023": 87.31,
+    "informal2023": 2.24,
+    "candidates2023": [
+      {
+        "name": "John Mackenzie",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 9487,
+        "primaryPct": 18.7
+      },
+      {
+        "name": "Thomas Triebsees",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 11348,
+        "primaryPct": 22.37
+      },
+      {
+        "name": "Niko Leka",
+        "partyName": "Socialist Alliance",
+        "party": "Socialist Alliance",
+        "votes": 586,
+        "primaryPct": 1.15
+      },
+      {
+        "name": "Tim Claydon",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 3042,
+        "primaryPct": 6.0
+      },
+      {
+        "name": "Tim Crakanthorp",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 25078,
+        "primaryPct": 49.43
+      },
+      {
+        "name": "Freya Taylor",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1195,
+        "primaryPct": 2.36
+      }
+    ]
+  },
+  {
+    "name": "Newtown",
+    "slug": "newtown",
+    "winner2023": {
+      "display": "Jenny Leong",
+      "party": "GRN",
+      "finalPct": 62.11,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "David Hetherington",
+      "party": "ALP",
+      "finalPct": 37.89,
+      "elected": false
+    },
+    "margin2023": 12.11,
+    "primary2023": 54.05,
+    "enrolled2023": 59588,
+    "turnout2023": 84.36,
+    "informal2023": 1.53,
+    "candidates2023": [
+      {
+        "name": "Jenny Leong",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 26758,
+        "primaryPct": 54.05
+      },
+      {
+        "name": "David Hetherington",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 15104,
+        "primaryPct": 30.51
+      },
+      {
+        "name": "Christopher Thomas",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1275,
+        "primaryPct": 2.58
+      },
+      {
+        "name": "Fiona Douskou",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 6365,
+        "primaryPct": 12.86
+      }
+    ]
+  },
+  {
+    "name": "North Shore",
+    "slug": "north-shore",
+    "winner2023": {
+      "display": "Felicity Wilson",
+      "party": "LIB",
+      "finalPct": 55.69,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Helen Conway",
+      "party": "IND",
+      "finalPct": 44.31,
+      "elected": false
+    },
+    "margin2023": 5.69,
+    "primary2023": 44.23,
+    "enrolled2023": 56443,
+    "turnout2023": 87.03,
+    "informal2023": 1.92,
+    "candidates2023": [
+      {
+        "name": "Michael Antares",
+        "partyName": "Informed Medical Options Party (IMOP)",
+        "party": "Informed Medical Options Party (IMOP)",
+        "votes": 790,
+        "primaryPct": 1.64
+      },
+      {
+        "name": "Helen Conway",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 10527,
+        "primaryPct": 21.85
+      },
+      {
+        "name": "Godfrey Santer",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 8239,
+        "primaryPct": 17.1
+      },
+      {
+        "name": "Lachlan Commins",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 901,
+        "primaryPct": 1.87
+      },
+      {
+        "name": "James Mullan",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 5305,
+        "primaryPct": 11.01
+      },
+      {
+        "name": "Felicity Wilson",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 21308,
+        "primaryPct": 44.23
+      },
+      {
+        "name": "Victoria Walker",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1107,
+        "primaryPct": 2.3
+      }
+    ]
+  },
+  {
+    "name": "Northern Tablelands",
+    "slug": "northern-tablelands",
+    "winner2023": {
+      "display": "Adam Marshall",
+      "party": "NAT",
+      "finalPct": 83.85,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Yvonne Langenberg",
+      "party": "ALP",
+      "finalPct": 16.15,
+      "elected": false
+    },
+    "margin2023": 33.85,
+    "primary2023": 71.64,
+    "enrolled2023": 57880,
+    "turnout2023": 87.58,
+    "informal2023": 2.05,
+    "candidates2023": [
+      {
+        "name": "Alan Crowe",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 595,
+        "primaryPct": 1.2
+      },
+      {
+        "name": "Peter O'Loghlin",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 1148,
+        "primaryPct": 2.31
+      },
+      {
+        "name": "Darshan (Billy) Wood",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 980,
+        "primaryPct": 1.97
+      },
+      {
+        "name": "Adam Marshall",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 35575,
+        "primaryPct": 71.64
+      },
+      {
+        "name": "Gary Hampton",
+        "partyName": "Public Education Party",
+        "party": "Public Education Party",
+        "votes": 425,
+        "primaryPct": 0.86
+      },
+      {
+        "name": "Yvonne Langenberg",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 5045,
+        "primaryPct": 10.16
+      },
+      {
+        "name": "Natasha Ledger",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 496,
+        "primaryPct": 1.0
+      },
+      {
+        "name": "Elizabeth O'Hara",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2369,
+        "primaryPct": 4.77
+      },
+      {
+        "name": "Margaret Hammond",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 783,
+        "primaryPct": 1.58
+      },
+      {
+        "name": "Michael Hay",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 2239,
+        "primaryPct": 4.51
+      }
+    ]
+  },
+  {
+    "name": "Oatley",
+    "slug": "oatley",
+    "winner2023": {
+      "display": "Mark Coure",
+      "party": "LIB",
+      "finalPct": 50.8,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Ash Ambihaipahar",
+      "party": "ALP",
+      "finalPct": 49.2,
+      "elected": false
+    },
+    "margin2023": 0.8,
+    "primary2023": 45.58,
+    "enrolled2023": 57351,
+    "turnout2023": 90.36,
+    "informal2023": 3.14,
+    "candidates2023": [
+      {
+        "name": "Glenn Hunt",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1690,
+        "primaryPct": 3.37
+      },
+      {
+        "name": "Natalie Mort",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 2677,
+        "primaryPct": 5.33
+      },
+      {
+        "name": "Ash Ambihaipahar",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 19851,
+        "primaryPct": 39.55
+      },
+      {
+        "name": "Mark Coure",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 22877,
+        "primaryPct": 45.58
+      },
+      {
+        "name": "Taylor Vandijk",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3101,
+        "primaryPct": 6.18
+      }
+    ]
+  },
+  {
+    "name": "Orange",
+    "slug": "orange",
+    "winner2023": {
+      "display": "Philip Donato",
+      "party": "IND",
+      "finalPct": 71.86,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Tony Mileto",
+      "party": "NAT",
+      "finalPct": 28.14,
+      "elected": false
+    },
+    "margin2023": 21.86,
+    "primary2023": 53.08,
+    "enrolled2023": 57960,
+    "turnout2023": 89.54,
+    "informal2023": 2.65,
+    "candidates2023": [
+      {
+        "name": "George Bate",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 785,
+        "primaryPct": 1.55
+      },
+      {
+        "name": "Gillian Bramley",
+        "partyName": "Public Education Party",
+        "party": "Public Education Party",
+        "votes": 354,
+        "primaryPct": 0.7
+      },
+      {
+        "name": "Patricia Holt",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 1601,
+        "primaryPct": 3.17
+      },
+      {
+        "name": "Philip Donato",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 26815,
+        "primaryPct": 53.08
+      },
+      {
+        "name": "David Mallard",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2149,
+        "primaryPct": 4.25
+      },
+      {
+        "name": "Aaron Kelly",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 2752,
+        "primaryPct": 5.45
+      },
+      {
+        "name": "Heather Dunn",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 4939,
+        "primaryPct": 9.78
+      },
+      {
+        "name": "Tony Mileto",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 11123,
+        "primaryPct": 22.02
+      }
+    ]
+  },
+  {
+    "name": "Oxley",
+    "slug": "oxley",
+    "winner2023": {
+      "display": "Michael Kemp",
+      "party": "NAT",
+      "finalPct": 62.84,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Gregory Vigors",
+      "party": "ALP",
+      "finalPct": 37.16,
+      "elected": false
+    },
+    "margin2023": 12.84,
+    "primary2023": 47.5,
+    "enrolled2023": 62816,
+    "turnout2023": 86.74,
+    "informal2023": 3.45,
+    "candidates2023": [
+      {
+        "name": "Dominic King",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 7420,
+        "primaryPct": 14.1
+      },
+      {
+        "name": "Bianca Drain",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1400,
+        "primaryPct": 2.66
+      },
+      {
+        "name": "Megan Mathew",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 4708,
+        "primaryPct": 8.95
+      },
+      {
+        "name": "Gregory Vigors",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 9899,
+        "primaryPct": 18.82
+      },
+      {
+        "name": "Joshua Fairhall",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 2878,
+        "primaryPct": 5.47
+      },
+      {
+        "name": "Troy Irwin",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1316,
+        "primaryPct": 2.5
+      },
+      {
+        "name": "Michael Kemp",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 24987,
+        "primaryPct": 47.5
+      }
+    ]
+  },
+  {
+    "name": "Parramatta",
+    "slug": "parramatta",
+    "winner2023": {
+      "display": "Donna Davis",
+      "party": "ALP",
+      "finalPct": 58.55,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Katie Mullens",
+      "party": "LIB",
+      "finalPct": 41.45,
+      "elected": false
+    },
+    "margin2023": 8.55,
+    "primary2023": 47.02,
+    "enrolled2023": 57995,
+    "turnout2023": 85.87,
+    "informal2023": 3.05,
+    "candidates2023": [
+      {
+        "name": "Donna Davis",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 22704,
+        "primaryPct": 47.02
+      },
+      {
+        "name": "Ben Hammond",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4852,
+        "primaryPct": 10.05
+      },
+      {
+        "name": "Katie Mullens",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 17152,
+        "primaryPct": 35.53
+      },
+      {
+        "name": "Mritunjay Singh",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 2464,
+        "primaryPct": 5.1
+      },
+      {
+        "name": "David Moll",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1109,
+        "primaryPct": 2.3
+      }
+    ]
+  },
+  {
+    "name": "Penrith",
+    "slug": "penrith",
+    "winner2023": {
+      "display": "Karen McKeown",
+      "party": "ALP",
+      "finalPct": 51.63,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Stuart Ayres",
+      "party": "LIB",
+      "finalPct": 48.37,
+      "elected": false
+    },
+    "margin2023": 1.63,
+    "primary2023": 38.26,
+    "enrolled2023": 59658,
+    "turnout2023": 87.82,
+    "informal2023": 3.91,
+    "candidates2023": [
+      {
+        "name": "Vanessa Blazi",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1840,
+        "primaryPct": 3.65
+      },
+      {
+        "name": "Timothy Pateman",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 2467,
+        "primaryPct": 4.9
+      },
+      {
+        "name": "Fatemeh (Minoo) Toussi",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2643,
+        "primaryPct": 5.25
+      },
+      {
+        "name": "Stuart Ayres",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 19266,
+        "primaryPct": 38.27
+      },
+      {
+        "name": "Geoff Brown",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 744,
+        "primaryPct": 1.48
+      },
+      {
+        "name": "Karen McKeown",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 19262,
+        "primaryPct": 38.26
+      },
+      {
+        "name": "Belinda McWilliams",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 4122,
+        "primaryPct": 8.19
+      }
+    ]
+  },
+  {
+    "name": "Pittwater",
+    "slug": "pittwater",
+    "winner2023": {
+      "display": "Roderick (Rory) Amon",
+      "party": "LIB",
+      "finalPct": 50.66,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Jacqui Scruby",
+      "party": "IND",
+      "finalPct": 49.34,
+      "elected": false
+    },
+    "margin2023": 0.66,
+    "primary2023": 44.71,
+    "enrolled2023": 56181,
+    "turnout2023": 90.16,
+    "informal2023": 2.25,
+    "candidates2023": [
+      {
+        "name": "Roderick (Rory) Amon",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 22137,
+        "primaryPct": 44.71
+      },
+      {
+        "name": "Jacqui Scruby",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 17754,
+        "primaryPct": 35.86
+      },
+      {
+        "name": "Hilary Green",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3386,
+        "primaryPct": 6.84
+      },
+      {
+        "name": "Craig Law",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1195,
+        "primaryPct": 2.41
+      },
+      {
+        "name": "Jeffrey Quinn",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 5039,
+        "primaryPct": 10.18
+      }
+    ]
+  },
+  {
+    "name": "Port Macquarie",
+    "slug": "port-macquarie",
+    "winner2023": {
+      "display": "Leslie Williams",
+      "party": "LIB",
+      "finalPct": 60.77,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Peta Pinson",
+      "party": "NAT",
+      "finalPct": 39.23,
+      "elected": false
+    },
+    "margin2023": 10.77,
+    "primary2023": 39.46,
+    "enrolled2023": 61078,
+    "turnout2023": 89.87,
+    "informal2023": 2.84,
+    "candidates2023": [
+      {
+        "name": "Silvia Mogorovich",
+        "partyName": "Informed Medical Options Party (IMOP)",
+        "party": "Informed Medical Options Party (IMOP)",
+        "votes": 1229,
+        "primaryPct": 2.3
+      },
+      {
+        "name": "Stuart Watson",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3473,
+        "primaryPct": 6.51
+      },
+      {
+        "name": "Leslie Williams",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 21044,
+        "primaryPct": 39.46
+      },
+      {
+        "name": "Keith McMullen",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 10265,
+        "primaryPct": 19.25
+      },
+      {
+        "name": "Vivian McMahon",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 2212,
+        "primaryPct": 4.15
+      },
+      {
+        "name": "Peta Pinson",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 13675,
+        "primaryPct": 25.64
+      },
+      {
+        "name": "Edward Coleman",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 809,
+        "primaryPct": 1.52
+      },
+      {
+        "name": "Benjamin Read",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 623,
+        "primaryPct": 1.17
+      }
+    ]
+  },
+  {
+    "name": "Port Stephens",
+    "slug": "port-stephens",
+    "winner2023": {
+      "display": "Kate Washington",
+      "party": "ALP",
+      "finalPct": 69.02,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Nathan Errington",
+      "party": "LIB",
+      "finalPct": 30.98,
+      "elected": false
+    },
+    "margin2023": 19.02,
+    "primary2023": 53.6,
+    "enrolled2023": 60278,
+    "turnout2023": 89.04,
+    "informal2023": 2.82,
+    "candidates2023": [
+      {
+        "name": "Michelle Buckmaster",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1569,
+        "primaryPct": 3.01
+      },
+      {
+        "name": "Jordan Jensen",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2511,
+        "primaryPct": 4.81
+      },
+      {
+        "name": "Angela Ketas",
+        "partyName": "Informed Medical Options Party (IMOP)",
+        "party": "Informed Medical Options Party (IMOP)",
+        "votes": 769,
+        "primaryPct": 1.47
+      },
+      {
+        "name": "Kate Washington",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 27957,
+        "primaryPct": 53.6
+      },
+      {
+        "name": "Nathan Errington",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 11883,
+        "primaryPct": 22.78
+      },
+      {
+        "name": "Mark Watson",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 6720,
+        "primaryPct": 12.88
+      },
+      {
+        "name": "Beverley Jelfs",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 752,
+        "primaryPct": 1.44
+      }
+    ]
+  },
+  {
+    "name": "Prospect",
+    "slug": "prospect",
+    "winner2023": {
+      "display": "Hugh McDermott",
+      "party": "ALP",
+      "finalPct": 58.68,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Kalvin Biag",
+      "party": "LIB",
+      "finalPct": 41.32,
+      "elected": false
+    },
+    "margin2023": 8.68,
+    "primary2023": 49.33,
+    "enrolled2023": 58840,
+    "turnout2023": 88.5,
+    "informal2023": 4.56,
+    "candidates2023": [
+      {
+        "name": "Kalvin Biag",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 17903,
+        "primaryPct": 36.02
+      },
+      {
+        "name": "Sujan Selventhiran",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3610,
+        "primaryPct": 7.26
+      },
+      {
+        "name": "Emily Walsh",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1775,
+        "primaryPct": 3.57
+      },
+      {
+        "name": "Hugh McDermott",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 24519,
+        "primaryPct": 49.33
+      },
+      {
+        "name": "Peter Shafer",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1892,
+        "primaryPct": 3.81
+      }
+    ]
+  },
+  {
+    "name": "Riverstone",
+    "slug": "riverstone",
+    "winner2023": {
+      "display": "Warren Kirby",
+      "party": "ALP",
+      "finalPct": 53.7,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Mohit Kumar",
+      "party": "LIB",
+      "finalPct": 46.3,
+      "elected": false
+    },
+    "margin2023": 3.7,
+    "primary2023": 44.23,
+    "enrolled2023": 63427,
+    "turnout2023": 90.45,
+    "informal2023": 3.13,
+    "candidates2023": [
+      {
+        "name": "Rob Vail",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3969,
+        "primaryPct": 7.14
+      },
+      {
+        "name": "Anthony Belcastro",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 1816,
+        "primaryPct": 3.27
+      },
+      {
+        "name": "Tim Horan",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1282,
+        "primaryPct": 2.31
+      },
+      {
+        "name": "Mohit Kumar",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 22167,
+        "primaryPct": 39.89
+      },
+      {
+        "name": "Tabitha Ponnambalam",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 1761,
+        "primaryPct": 3.17
+      },
+      {
+        "name": "Warren Kirby",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 24580,
+        "primaryPct": 44.23
+      }
+    ]
+  },
+  {
+    "name": "Rockdale",
+    "slug": "rockdale",
+    "winner2023": {
+      "display": "Steve Kamper",
+      "party": "ALP",
+      "finalPct": 65.36,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Muhammad Rana",
+      "party": "LIB",
+      "finalPct": 34.64,
+      "elected": false
+    },
+    "margin2023": 15.36,
+    "primary2023": 52.88,
+    "enrolled2023": 56797,
+    "turnout2023": 87.06,
+    "informal2023": 4.81,
+    "candidates2023": [
+      {
+        "name": "Muhammad Rana",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 13942,
+        "primaryPct": 29.62
+      },
+      {
+        "name": "James Morris",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 3127,
+        "primaryPct": 6.64
+      },
+      {
+        "name": "Steve Kamper",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 24893,
+        "primaryPct": 52.88
+      },
+      {
+        "name": "Peter Strong",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 5109,
+        "primaryPct": 10.85
+      }
+    ]
+  },
+  {
+    "name": "Ryde *",
+    "slug": "ryde",
+    "winner2023": {
+      "display": "Jordan Lane",
+      "party": "LIB",
+      "finalPct": 50.05,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Lyndal Howison",
+      "party": "ALP",
+      "finalPct": 49.95,
+      "elected": false
+    },
+    "margin2023": 0.05,
+    "primary2023": 45.29,
+    "enrolled2023": 61829,
+    "turnout2023": 89.41,
+    "informal2023": 2.61,
+    "candidates2023": [
+      {
+        "name": "Jordan Lane",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 24383,
+        "primaryPct": 45.29
+      },
+      {
+        "name": "Barry Devine",
+        "partyName": "Informed Medical Options Party (IMOP)",
+        "party": "Informed Medical Options Party (IMOP)",
+        "votes": 1324,
+        "primaryPct": 2.46
+      },
+      {
+        "name": "Bradley Jelfs",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1357,
+        "primaryPct": 2.52
+      },
+      {
+        "name": "Lyndal Howison",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 21004,
+        "primaryPct": 39.01
+      },
+      {
+        "name": "Sophie Edington",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 5772,
+        "primaryPct": 10.72
+      }
+    ]
+  },
+  {
+    "name": "Shellharbour",
+    "slug": "shellharbour",
+    "winner2023": {
+      "display": "Anna Watson",
+      "party": "ALP",
+      "finalPct": 67.14,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Chris Homer",
+      "party": "IND",
+      "finalPct": 32.86,
+      "elected": false
+    },
+    "margin2023": 17.14,
+    "primary2023": 50.42,
+    "enrolled2023": 60799,
+    "turnout2023": 89.55,
+    "informal2023": 3.76,
+    "candidates2023": [
+      {
+        "name": "Kenneth Davis",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1306,
+        "primaryPct": 2.49
+      },
+      {
+        "name": "Chris Homer",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 10656,
+        "primaryPct": 20.34
+      },
+      {
+        "name": "Anna Watson",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 26418,
+        "primaryPct": 50.42
+      },
+      {
+        "name": "Rita Granata",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 1574,
+        "primaryPct": 3.0
+      },
+      {
+        "name": "Mia Willmott",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 2246,
+        "primaryPct": 4.29
+      },
+      {
+        "name": "Jamie Dixon",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3189,
+        "primaryPct": 6.09
+      },
+      {
+        "name": "Mikayla Barnes",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 7006,
+        "primaryPct": 13.37
+      }
+    ]
+  },
+  {
+    "name": "South Coast",
+    "slug": "south-coast",
+    "winner2023": {
+      "display": "Liza Butler",
+      "party": "ALP",
+      "finalPct": 53.77,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Luke Sikora",
+      "party": "LIB",
+      "finalPct": 46.23,
+      "elected": false
+    },
+    "margin2023": 3.77,
+    "primary2023": 33.96,
+    "enrolled2023": 60624,
+    "turnout2023": 87.56,
+    "informal2023": 3.39,
+    "candidates2023": [
+      {
+        "name": "Robert Korten",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 3996,
+        "primaryPct": 7.79
+      },
+      {
+        "name": "Luke Sikora",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 17806,
+        "primaryPct": 34.72
+      },
+      {
+        "name": "Liza Butler",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 17414,
+        "primaryPct": 33.96
+      },
+      {
+        "name": "Nina Digiglio",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 3284,
+        "primaryPct": 6.4
+      },
+      {
+        "name": "Deanna Buffier",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 764,
+        "primaryPct": 1.49
+      },
+      {
+        "name": "Amanda Findley",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 8021,
+        "primaryPct": 15.64
+      }
+    ]
+  },
+  {
+    "name": "Strathfield",
+    "slug": "strathfield",
+    "winner2023": {
+      "display": "Jason Yat-Sen Li",
+      "party": "ALP",
+      "finalPct": 63.05,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "John-Paul Baladi",
+      "party": "LIB",
+      "finalPct": 36.95,
+      "elected": false
+    },
+    "margin2023": 13.05,
+    "primary2023": 51.86,
+    "enrolled2023": 58791,
+    "turnout2023": 88.64,
+    "informal2023": 2.87,
+    "candidates2023": [
+      {
+        "name": "John-Paul Baladi",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 16775,
+        "primaryPct": 33.14
+      },
+      {
+        "name": "Jason Yat-Sen Li",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 26249,
+        "primaryPct": 51.86
+      },
+      {
+        "name": "Courtney Buckley",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4749,
+        "primaryPct": 9.38
+      },
+      {
+        "name": "Maurie Saidi",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1257,
+        "primaryPct": 2.48
+      },
+      {
+        "name": "Wally Crocker",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1588,
+        "primaryPct": 3.14
+      }
+    ]
+  },
+  {
+    "name": "Summer Hill",
+    "slug": "summer-hill",
+    "winner2023": {
+      "display": "Jo Haylen",
+      "party": "ALP",
+      "finalPct": 66.3,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Izabella Antoniou",
+      "party": "GRN",
+      "finalPct": 33.7,
+      "elected": false
+    },
+    "margin2023": 16.3,
+    "primary2023": 52.1,
+    "enrolled2023": 57642,
+    "turnout2023": 88.54,
+    "informal2023": 2.5,
+    "candidates2023": [
+      {
+        "name": "Jo Haylen",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 25922,
+        "primaryPct": 52.1
+      },
+      {
+        "name": "Michael Swan",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1333,
+        "primaryPct": 2.68
+      },
+      {
+        "name": "Bowen Cheng",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 8340,
+        "primaryPct": 16.76
+      },
+      {
+        "name": "Sandra Haddad",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1567,
+        "primaryPct": 3.15
+      },
+      {
+        "name": "Izabella Antoniou",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 12596,
+        "primaryPct": 25.31
+      }
+    ]
+  },
+  {
+    "name": "Swansea",
+    "slug": "swansea",
+    "winner2023": {
+      "display": "Yasmin Catley",
+      "party": "ALP",
+      "finalPct": 65.45,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Megan Anderson",
+      "party": "LIB",
+      "finalPct": 34.55,
+      "elected": false
+    },
+    "margin2023": 15.45,
+    "primary2023": 53.56,
+    "enrolled2023": 60916,
+    "turnout2023": 88.94,
+    "informal2023": 3.71,
+    "candidates2023": [
+      {
+        "name": "Alan Ellis",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 3253,
+        "primaryPct": 6.24
+      },
+      {
+        "name": "Heather Foord",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4463,
+        "primaryPct": 8.56
+      },
+      {
+        "name": "Megan Anderson",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 14590,
+        "primaryPct": 27.97
+      },
+      {
+        "name": "Yasmin Catley",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 27943,
+        "primaryPct": 53.56
+      },
+      {
+        "name": "Paul Jackson",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 1918,
+        "primaryPct": 3.68
+      }
+    ]
+  },
+  {
+    "name": "Sydney",
+    "slug": "sydney",
+    "winner2023": {
+      "display": "Alex Greenwich",
+      "party": "IND",
+      "finalPct": 65.64,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Skye Tito",
+      "party": "ALP",
+      "finalPct": 34.36,
+      "elected": false
+    },
+    "margin2023": 15.64,
+    "primary2023": 41.09,
+    "enrolled2023": 62489,
+    "turnout2023": 79.44,
+    "informal2023": 1.81,
+    "candidates2023": [
+      {
+        "name": "Skye Tito",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 10575,
+        "primaryPct": 21.7
+      },
+      {
+        "name": "Alex Greenwich",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 20025,
+        "primaryPct": 41.09
+      },
+      {
+        "name": "Mark Whitton",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 972,
+        "primaryPct": 1.99
+      },
+      {
+        "name": "Nick Ward",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 5949,
+        "primaryPct": 12.21
+      },
+      {
+        "name": "Phyllisse Stanton",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 11219,
+        "primaryPct": 23.02
+      }
+    ]
+  },
+  {
+    "name": "Tamworth",
+    "slug": "tamworth",
+    "winner2023": {
+      "display": "Kevin Anderson",
+      "party": "NAT",
+      "finalPct": 65.79,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Mark Rodda",
+      "party": "IND",
+      "finalPct": 34.21,
+      "elected": false
+    },
+    "margin2023": 15.79,
+    "primary2023": 51.69,
+    "enrolled2023": 60747,
+    "turnout2023": 89.3,
+    "informal2023": 2.53,
+    "candidates2023": [
+      {
+        "name": "Ryan Brooke",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 1786,
+        "primaryPct": 3.38
+      },
+      {
+        "name": "Rebecca McCredie",
+        "partyName": "Informed Medical Options Party (IMOP)",
+        "party": "Informed Medical Options Party (IMOP)",
+        "votes": 887,
+        "primaryPct": 1.68
+      },
+      {
+        "name": "Sue Raye",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 1554,
+        "primaryPct": 2.94
+      },
+      {
+        "name": "Mark Rodda",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 10418,
+        "primaryPct": 19.7
+      },
+      {
+        "name": "Kevin Anderson",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 27333,
+        "primaryPct": 51.69
+      },
+      {
+        "name": "Colin Drain",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 328,
+        "primaryPct": 0.62
+      },
+      {
+        "name": "Kate McGrath",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 6864,
+        "primaryPct": 12.98
+      },
+      {
+        "name": "Matthew Scanlan",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 3705,
+        "primaryPct": 7.01
+      }
+    ]
+  },
+  {
+    "name": "Terrigal",
+    "slug": "terrigal",
+    "winner2023": {
+      "display": "Adam Crouch",
+      "party": "LIB",
+      "finalPct": 51.22,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Sam Boughton",
+      "party": "ALP",
+      "finalPct": 48.78,
+      "elected": false
+    },
+    "margin2023": 1.22,
+    "primary2023": 46.58,
+    "enrolled2023": 58056,
+    "turnout2023": 89.12,
+    "informal2023": 2.45,
+    "candidates2023": [
+      {
+        "name": "Wayne Rigg",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 2392,
+        "primaryPct": 4.74
+      },
+      {
+        "name": "Adam Crouch",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 23507,
+        "primaryPct": 46.58
+      },
+      {
+        "name": "Silva Imogen Da",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4868,
+        "primaryPct": 9.65
+      },
+      {
+        "name": "Sam Boughton",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 19703,
+        "primaryPct": 39.04
+      }
+    ]
+  },
+  {
+    "name": "The Entrance",
+    "slug": "the-entrance",
+    "winner2023": {
+      "display": "David Mehan",
+      "party": "ALP",
+      "finalPct": 57.84,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Nathan Bracken",
+      "party": "LIB",
+      "finalPct": 42.16,
+      "elected": false
+    },
+    "margin2023": 7.84,
+    "primary2023": 45.03,
+    "enrolled2023": 58657,
+    "turnout2023": 86.74,
+    "informal2023": 3.32,
+    "candidates2023": [
+      {
+        "name": "Georgia Lamb",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 2131,
+        "primaryPct": 4.33
+      },
+      {
+        "name": "David Mehan",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 22153,
+        "primaryPct": 45.03
+      },
+      {
+        "name": "Fardin Pelarek",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1896,
+        "primaryPct": 3.85
+      },
+      {
+        "name": "Nathan Bracken",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 17433,
+        "primaryPct": 35.44
+      },
+      {
+        "name": "Ralph Stephenson",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4206,
+        "primaryPct": 8.55
+      },
+      {
+        "name": "Bentley Logan",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 1372,
+        "primaryPct": 2.79
+      }
+    ]
+  },
+  {
+    "name": "Tweed",
+    "slug": "tweed",
+    "winner2023": {
+      "display": "Geoff Provest",
+      "party": "NAT",
+      "finalPct": 53.58,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Craig Elliot",
+      "party": "ALP",
+      "finalPct": 46.42,
+      "elected": false
+    },
+    "margin2023": 3.58,
+    "primary2023": 43.89,
+    "enrolled2023": 57646,
+    "turnout2023": 84.08,
+    "informal2023": 3.67,
+    "candidates2023": [
+      {
+        "name": "Ronald McDonald",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 2298,
+        "primaryPct": 4.92
+      },
+      {
+        "name": "Marc Selan",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 2534,
+        "primaryPct": 5.43
+      },
+      {
+        "name": "Geoff Provest",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 20494,
+        "primaryPct": 43.89
+      },
+      {
+        "name": "Craig Elliot",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 14425,
+        "primaryPct": 30.9
+      },
+      {
+        "name": "Ciara Denham",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 5517,
+        "primaryPct": 11.82
+      },
+      {
+        "name": "Susie Hearder",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1422,
+        "primaryPct": 3.05
+      }
+    ]
+  },
+  {
+    "name": "Upper Hunter",
+    "slug": "upper-hunter",
+    "winner2023": {
+      "display": "Dave Layzell",
+      "party": "NAT",
+      "finalPct": 53.78,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Peree Watson",
+      "party": "ALP",
+      "finalPct": 46.22,
+      "elected": false
+    },
+    "margin2023": 3.78,
+    "primary2023": 37.03,
+    "enrolled2023": 62282,
+    "turnout2023": 89.16,
+    "informal2023": 3.37,
+    "candidates2023": [
+      {
+        "name": "Tony Lonergan",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3207,
+        "primaryPct": 5.98
+      },
+      {
+        "name": "James White",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 6302,
+        "primaryPct": 11.74
+      },
+      {
+        "name": "Dave Layzell",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 19868,
+        "primaryPct": 37.03
+      },
+      {
+        "name": "Dale McNamara",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 5190,
+        "primaryPct": 9.67
+      },
+      {
+        "name": "Peree Watson",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 15488,
+        "primaryPct": 28.86
+      },
+      {
+        "name": "Tom Lillicrap",
+        "partyName": "Legalise Cannabis NSW Party",
+        "party": "LCP",
+        "votes": 2743,
+        "primaryPct": 5.11
+      },
+      {
+        "name": "Calum Blair",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 862,
+        "primaryPct": 1.61
+      }
+    ]
+  },
+  {
+    "name": "Vaucluse",
+    "slug": "vaucluse",
+    "winner2023": {
+      "display": "Kellie Sloane",
+      "party": "LIB",
+      "finalPct": 62.88,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Karen Freyer",
+      "party": "IND",
+      "finalPct": 37.12,
+      "elected": false
+    },
+    "margin2023": 12.88,
+    "primary2023": 50.11,
+    "enrolled2023": 59352,
+    "turnout2023": 83.09,
+    "informal2023": 2.14,
+    "candidates2023": [
+      {
+        "name": "Kay Dunne",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 863,
+        "primaryPct": 1.79
+      },
+      {
+        "name": "Edward Cameron",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 846,
+        "primaryPct": 1.75
+      },
+      {
+        "name": "Dominic Wy Kanak",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 5632,
+        "primaryPct": 11.67
+      },
+      {
+        "name": "Margaret Merten",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 7336,
+        "primaryPct": 15.2
+      },
+      {
+        "name": "Karen Freyer",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 8236,
+        "primaryPct": 17.06
+      },
+      {
+        "name": "Gail Stevens",
+        "partyName": "Liberal Democratic Party",
+        "party": "Liberal Democratic Party",
+        "votes": 1166,
+        "primaryPct": 2.42
+      },
+      {
+        "name": "Kellie Sloane",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 24184,
+        "primaryPct": 50.11
+      }
+    ]
+  },
+  {
+    "name": "Wagga Wagga",
+    "slug": "wagga-wagga",
+    "winner2023": {
+      "display": "Joe McGirr",
+      "party": "IND",
+      "finalPct": 72.39,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Andrianna Benjamin",
+      "party": "NAT",
+      "finalPct": 27.61,
+      "elected": false
+    },
+    "margin2023": 22.39,
+    "primary2023": 44.18,
+    "enrolled2023": 57413,
+    "turnout2023": 88.88,
+    "informal2023": 3.37,
+    "candidates2023": [
+      {
+        "name": "Ray Goodlass",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2764,
+        "primaryPct": 5.61
+      },
+      {
+        "name": "Raymond Gentles",
+        "partyName": "Public Education Party",
+        "party": "Public Education Party",
+        "votes": 464,
+        "primaryPct": 0.94
+      },
+      {
+        "name": "Christopher Smith",
+        "partyName": "Shooters, Fishers and Farmers Party (NSW) Incorporated",
+        "party": "SFF",
+        "votes": 3777,
+        "primaryPct": 7.66
+      },
+      {
+        "name": "Julia Ham",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 6526,
+        "primaryPct": 13.23
+      },
+      {
+        "name": "Keryn Foley",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 6729,
+        "primaryPct": 13.65
+      },
+      {
+        "name": "Joe McGirr",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 21783,
+        "primaryPct": 44.18
+      },
+      {
+        "name": "Andrianna Benjamin",
+        "partyName": "National Party of Australia - NSW",
+        "party": "NAT",
+        "votes": 7267,
+        "primaryPct": 14.74
+      }
+    ]
+  },
+  {
+    "name": "Wahroonga",
+    "slug": "wahroonga",
+    "winner2023": {
+      "display": "Alister Henskens",
+      "party": "LIB",
+      "finalPct": 60.56,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Parsia Abedini",
+      "party": "ALP",
+      "finalPct": 39.44,
+      "elected": false
+    },
+    "margin2023": 10.56,
+    "primary2023": 50.47,
+    "enrolled2023": 59086,
+    "turnout2023": 91.52,
+    "informal2023": 2.06,
+    "candidates2023": [
+      {
+        "name": "Parsia Abedini",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 12242,
+        "primaryPct": 23.12
+      },
+      {
+        "name": "Alister Henskens",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 26727,
+        "primaryPct": 50.47
+      },
+      {
+        "name": "Stephen Molloy",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1676,
+        "primaryPct": 3.16
+      },
+      {
+        "name": "Kristyn Haywood",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 4927,
+        "primaryPct": 9.3
+      },
+      {
+        "name": "Tim Dashwood",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 7387,
+        "primaryPct": 13.95
+      }
+    ]
+  },
+  {
+    "name": "Wakehurst",
+    "slug": "wakehurst",
+    "winner2023": {
+      "display": "Michael Regan",
+      "party": "IND",
+      "finalPct": 54.47,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Toby Williams",
+      "party": "LIB",
+      "finalPct": 45.53,
+      "elected": false
+    },
+    "margin2023": 4.47,
+    "primary2023": 35.9,
+    "enrolled2023": 58085,
+    "turnout2023": 90.71,
+    "informal2023": 2.57,
+    "candidates2023": [
+      {
+        "name": "Sue Wright",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 7617,
+        "primaryPct": 14.84
+      },
+      {
+        "name": "Greg Mawson",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1127,
+        "primaryPct": 2.2
+      },
+      {
+        "name": "Susan Sorensen",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1220,
+        "primaryPct": 2.38
+      },
+      {
+        "name": "Ethan Hrnjak",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4000,
+        "primaryPct": 7.79
+      },
+      {
+        "name": "Toby Williams",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 18940,
+        "primaryPct": 36.9
+      },
+      {
+        "name": "Michael Regan",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 18430,
+        "primaryPct": 35.9
+      }
+    ]
+  },
+  {
+    "name": "Wallsend",
+    "slug": "wallsend",
+    "winner2023": {
+      "display": "Sonia Hornery",
+      "party": "ALP",
+      "finalPct": 81.76,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Callum Pull",
+      "party": "LIB",
+      "finalPct": 18.24,
+      "elected": false
+    },
+    "margin2023": 31.76,
+    "primary2023": 63.94,
+    "enrolled2023": 60138,
+    "turnout2023": 88.42,
+    "informal2023": 2.57,
+    "candidates2023": [
+      {
+        "name": "Rebecca Watkins",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 5545,
+        "primaryPct": 10.7
+      },
+      {
+        "name": "Anna Nolan",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 1088,
+        "primaryPct": 2.1
+      },
+      {
+        "name": "Girolamo Pietro Di",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 3532,
+        "primaryPct": 6.82
+      },
+      {
+        "name": "Sonia Hornery",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 33127,
+        "primaryPct": 63.94
+      },
+      {
+        "name": "Joshua Starrett",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 811,
+        "primaryPct": 1.57
+      },
+      {
+        "name": "Callum Pull",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 6988,
+        "primaryPct": 13.49
+      },
+      {
+        "name": "Paul Akers",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 717,
+        "primaryPct": 1.38
+      }
+    ]
+  },
+  {
+    "name": "Willoughby",
+    "slug": "willoughby",
+    "winner2023": {
+      "display": "Tim James",
+      "party": "LIB",
+      "finalPct": 52.61,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Larissa Penn",
+      "party": "IND",
+      "finalPct": 47.39,
+      "elected": false
+    },
+    "margin2023": 2.61,
+    "primary2023": 43.6,
+    "enrolled2023": 60285,
+    "turnout2023": 89.32,
+    "informal2023": 1.88,
+    "candidates2023": [
+      {
+        "name": "Sarah Griffin",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 10577,
+        "primaryPct": 20.02
+      },
+      {
+        "name": "Edmund McGrath",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4190,
+        "primaryPct": 7.93
+      },
+      {
+        "name": "Larissa Penn",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 14064,
+        "primaryPct": 26.62
+      },
+      {
+        "name": "Michael Want",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 967,
+        "primaryPct": 1.83
+      },
+      {
+        "name": "Tim James",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 23032,
+        "primaryPct": 43.6
+      }
+    ]
+  },
+  {
+    "name": "Winston Hills",
+    "slug": "winston-hills",
+    "winner2023": {
+      "display": "Mark Taylor",
+      "party": "LIB",
+      "finalPct": 51.8,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Sameer Pandey",
+      "party": "ALP",
+      "finalPct": 48.2,
+      "elected": false
+    },
+    "margin2023": 1.8,
+    "primary2023": 47.45,
+    "enrolled2023": 61457,
+    "turnout2023": 89.53,
+    "informal2023": 3.29,
+    "candidates2023": [
+      {
+        "name": "Mark Taylor",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 25251,
+        "primaryPct": 47.45
+      },
+      {
+        "name": "Anthony Chadszinow",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 2262,
+        "primaryPct": 4.25
+      },
+      {
+        "name": "Sameer Pandey",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 21030,
+        "primaryPct": 39.52
+      },
+      {
+        "name": "Damien Atkins",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 4669,
+        "primaryPct": 8.77
+      }
+    ]
+  },
+  {
+    "name": "Wollondilly",
+    "slug": "wollondilly",
+    "winner2023": {
+      "display": "Judy Hannan",
+      "party": "IND",
+      "finalPct": 51.52,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Nathaniel Smith",
+      "party": "LIB",
+      "finalPct": 48.48,
+      "elected": false
+    },
+    "margin2023": 1.52,
+    "primary2023": 25.94,
+    "enrolled2023": 59758,
+    "turnout2023": 90.48,
+    "informal2023": 3.14,
+    "candidates2023": [
+      {
+        "name": "Angus Braiden",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 11505,
+        "primaryPct": 21.97
+      },
+      {
+        "name": "Ildiko Haag",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 792,
+        "primaryPct": 1.51
+      },
+      {
+        "name": "Judy Hannan",
+        "partyName": "Independent",
+        "party": "IND",
+        "votes": 13586,
+        "primaryPct": 25.94
+      },
+      {
+        "name": "Rebecca Thompson",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 6158,
+        "primaryPct": 11.76
+      },
+      {
+        "name": "Nathaniel Smith",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 17712,
+        "primaryPct": 33.82
+      },
+      {
+        "name": "Jason Webster",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 2616,
+        "primaryPct": 5.0
+      }
+    ]
+  },
+  {
+    "name": "Wollongong",
+    "slug": "wollongong",
+    "winner2023": {
+      "display": "Paul Scully",
+      "party": "ALP",
+      "finalPct": 74.33,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Joel Johnson",
+      "party": "LIB",
+      "finalPct": 25.67,
+      "elected": false
+    },
+    "margin2023": 24.33,
+    "primary2023": 56.51,
+    "enrolled2023": 58845,
+    "turnout2023": 86.79,
+    "informal2023": 3.94,
+    "candidates2023": [
+      {
+        "name": "Joel Johnson",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 10776,
+        "primaryPct": 21.96
+      },
+      {
+        "name": "Paul Scully",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 27723,
+        "primaryPct": 56.51
+      },
+      {
+        "name": "Cath Blakey",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 8216,
+        "primaryPct": 16.75
+      },
+      {
+        "name": "Kristen Nelson",
+        "partyName": "Animal Justice Party",
+        "party": "AJP",
+        "votes": 2347,
+        "primaryPct": 4.78
+      }
+    ]
+  },
+  {
+    "name": "Wyong",
+    "slug": "wyong",
+    "winner2023": {
+      "display": "David Harris",
+      "party": "ALP",
+      "finalPct": 69.84,
+      "elected": true
+    },
+    "opponent2023": {
+      "display": "Matt Squires",
+      "party": "LIB",
+      "finalPct": 30.16,
+      "elected": false
+    },
+    "margin2023": 19.84,
+    "primary2023": 52.24,
+    "enrolled2023": 56809,
+    "turnout2023": 86.28,
+    "informal2023": 4.02,
+    "candidates2023": [
+      {
+        "name": "Matt Squires",
+        "partyName": "The Liberal Party of Australia, New South Wales Division",
+        "party": "LIB",
+        "votes": 9929,
+        "primaryPct": 21.1
+      },
+      {
+        "name": "Doug Williamson",
+        "partyName": "The Greens NSW",
+        "party": "GRN",
+        "votes": 3795,
+        "primaryPct": 8.07
+      },
+      {
+        "name": "Susan Newbury",
+        "partyName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+        "party": "SAP",
+        "votes": 1897,
+        "primaryPct": 4.03
+      },
+      {
+        "name": "David Harris",
+        "partyName": "Australian Labor Party (NSW Branch)",
+        "party": "ALP",
+        "votes": 24575,
+        "primaryPct": 52.24
+      },
+      {
+        "name": "Martin Stevenson",
+        "partyName": "Pauline Hanson's One Nation",
+        "party": "ON",
+        "votes": 6850,
+        "primaryPct": 14.56
+      }
+    ]
+  }
+]

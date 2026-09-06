@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+dist/
+.env
+.env.*
+*.pem
+*.key
+*progress*.json
+.local/
+
+# Original private request: local only
+docs/product-brief.md

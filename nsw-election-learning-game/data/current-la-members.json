@@ -1,0 +1,1066 @@
+[
+  {
+    "electorate": "Maitland",
+    "house": "Legislative Assembly",
+    "memberId": "120",
+    "ministry": [
+      "Minister for Roads",
+      "Minister for Regional Transport"
+    ],
+    "name": "Jenny Aitchison",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Tamworth",
+    "house": "Legislative Assembly",
+    "memberId": "81",
+    "ministry": [
+      "Shadow Minister for Hospitality and Gaming",
+      "Shadow Minister for Tourism",
+      "Shadow Minister for Western NSW",
+      "Shadow Minister for Seniors"
+    ],
+    "name": "Kevin Anderson",
+    "office": [
+      "Deputy Leader of the Nationals"
+    ],
+    "party": "The Nationals"
+  },
+  {
+    "electorate": "Mount Druitt",
+    "house": "Legislative Assembly",
+    "memberId": "104",
+    "ministry": [],
+    "name": "Edmond Atalla",
+    "office": [
+      "Parliamentary Secretary for Police and Counter-terrorism"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Holsworthy",
+    "house": "Legislative Assembly",
+    "memberId": "2273",
+    "ministry": [],
+    "name": "Tina Ayyad",
+    "office": [
+      "Shadow Parliamentary Secretary for Education",
+      "Shadow Parliamentary Secretary for Families & Communities",
+      "Shadow Parliamentary Secretary for South Western Sydney",
+      "Shadow Parliamentary Secretary for Youth"
+    ],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Blacktown",
+    "house": "Legislative Assembly",
+    "memberId": "2233",
+    "ministry": [],
+    "name": "Stephen Bali",
+    "office": [
+      "Parliamentary Secretary for Planning and Public Spaces"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Cessnock",
+    "house": "Legislative Assembly",
+    "memberId": "60",
+    "ministry": [],
+    "name": "Clayton Barr",
+    "office": [
+      "Temporary Speaker"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Barwon",
+    "house": "Legislative Assembly",
+    "memberId": "2239",
+    "ministry": [],
+    "name": "Roy Butler",
+    "office": [],
+    "party": "Independent"
+  },
+  {
+    "electorate": "South Coast",
+    "house": "Legislative Assembly",
+    "memberId": "2274",
+    "ministry": [],
+    "name": "Liza Butler",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Londonderry",
+    "house": "Legislative Assembly",
+    "memberId": "105",
+    "ministry": [
+      "Deputy Premier",
+      "Minister for Education and Early Learning",
+      "Minister for Western Sydney"
+    ],
+    "name": "Prue Car",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Swansea",
+    "house": "Legislative Assembly",
+    "memberId": "128",
+    "ministry": [
+      "Minister for Police and Counter-terrorism",
+      "Minister for the Hunter"
+    ],
+    "name": "Yasmin Catley",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Macquarie Fields",
+    "house": "Legislative Assembly",
+    "memberId": "117",
+    "ministry": [
+      "Minister for Better Regulation and Fair Trading",
+      "Minister for Industry and Trade",
+      "Minister for Innovation, Science and Technology",
+      "Minister for Building",
+      "Minister for Corrections"
+    ],
+    "name": "Anoulack Chanthivong",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Albury",
+    "house": "Legislative Assembly",
+    "memberId": "2238",
+    "ministry": [
+      "Shadow Minister for Skills, TAFE and Tertiary Education",
+      "Shadow Minister for Medical Research"
+    ],
+    "name": "Justin Clancy",
+    "office": [
+      "Deputy Leader of the Liberals in the Legislative Assembly"
+    ],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Cootamundra",
+    "house": "Legislative Assembly",
+    "memberId": "2235",
+    "ministry": [
+      "Shadow Minister for Water",
+      "Shadow Minister for Crown Lands"
+    ],
+    "name": "Steph Cooke",
+    "office": [],
+    "party": "The Nationals"
+  },
+  {
+    "electorate": "Canterbury",
+    "house": "Legislative Assembly",
+    "memberId": "53",
+    "ministry": [
+      "Minister for Industrial Relations",
+      "Minister for Work Health and Safety"
+    ],
+    "name": "Sophie Cotsis",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Oatley",
+    "house": "Legislative Assembly",
+    "memberId": "83",
+    "ministry": [
+      "Shadow Minister for Roads",
+      "Shadow Minister for Multiculturalism",
+      "Shadow Minister for South Western Sydney"
+    ],
+    "name": "Mark Coure",
+    "office": [],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Newcastle",
+    "house": "Legislative Assembly",
+    "memberId": "103",
+    "ministry": [],
+    "name": "Tim Crakanthorp",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Davidson",
+    "house": "Legislative Assembly",
+    "memberId": "2275",
+    "ministry": [
+      "Shadow Cabinet Secretary"
+    ],
+    "name": "Matt Cross",
+    "office": [
+      "Shadow Parliamentary Secretary for Government Accountability",
+      "Shadow Parliamentary Secretary for Men's Health"
+    ],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Terrigal",
+    "house": "Legislative Assembly",
+    "memberId": "112",
+    "ministry": [],
+    "name": "Adam Crouch",
+    "office": [
+      "Opposition Whip"
+    ],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Maroubra",
+    "house": "Legislative Assembly",
+    "memberId": "27",
+    "ministry": [
+      "Attorney General"
+    ],
+    "name": "Michael Daley",
+    "office": [
+      "Legislative Assembly Trustee, Parliamentary Contributory Superannuation Fund"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Murray",
+    "house": "Legislative Assembly",
+    "memberId": "2245",
+    "ministry": [],
+    "name": "Helen Dalton",
+    "office": [],
+    "party": "Independent"
+  },
+  {
+    "electorate": "Badgerys Creek",
+    "house": "Legislative Assembly",
+    "memberId": "57",
+    "ministry": [],
+    "name": "Tanya Davies",
+    "office": [],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Parramatta",
+    "house": "Legislative Assembly",
+    "memberId": "2276",
+    "ministry": [],
+    "name": "Donna Davis",
+    "office": [
+      "Temporary Speaker"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Drummoyne",
+    "house": "Legislative Assembly",
+    "memberId": "2277",
+    "ministry": [],
+    "name": "Stephanie Di Pasqua",
+    "office": [
+      "Shadow Parliamentary Secretary for Health",
+      "Shadow Parliamentary Secretary for Jobs & Small Business",
+      "Temporary Speaker"
+    ],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Bankstown",
+    "house": "Legislative Assembly",
+    "memberId": "110",
+    "ministry": [
+      "Minister for Customer Service and Digital Government",
+      "Minister for Emergency Services",
+      "Minister for Youth Justice"
+    ],
+    "name": "Jihad Dib",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Orange",
+    "house": "Legislative Assembly",
+    "memberId": "2226",
+    "ministry": [],
+    "name": "Philip Donato",
+    "office": [],
+    "party": "Independent"
+  },
+  {
+    "electorate": "Blue Mountains",
+    "house": "Legislative Assembly",
+    "memberId": "123",
+    "ministry": [],
+    "name": "Trish Doyle",
+    "office": [
+      "Parliamentary Secretary for Climate Change",
+      "Parliamentary Secretary for Energy",
+      "Parliamentary Secretary for Heritage",
+      "Parliamentary Secretary for the Environment"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Port Macquarie",
+    "house": "Legislative Assembly",
+    "memberId": "2310",
+    "ministry": [],
+    "name": "Robert Dwyer",
+    "office": [
+      "Shadow Parliamentary Secretary for Regional Roads"
+    ],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Granville",
+    "house": "Legislative Assembly",
+    "memberId": "126",
+    "ministry": [],
+    "name": "Julia Finn",
+    "office": [
+      "Parliamentary Secretary for the Arts",
+      "Parliamentary Secretary to the Premier"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Sydney",
+    "house": "Legislative Assembly",
+    "memberId": "98",
+    "ministry": [],
+    "name": "Alex Greenwich",
+    "office": [
+      "Temporary Speaker"
+    ],
+    "party": "Independent"
+  },
+  {
+    "electorate": "Manly",
+    "house": "Legislative Assembly",
+    "memberId": "2229",
+    "ministry": [
+      "Shadow Minister for Energy and Climate Change",
+      "Shadow Minister for Digital, Artificial Intelligence and Investment",
+      "Shadow Minister for Customer Service"
+    ],
+    "name": "James Griffin",
+    "office": [
+      "Manager of Opposition Business in the Legislative Assembly"
+    ],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Leppington",
+    "house": "Legislative Assembly",
+    "memberId": "2278",
+    "ministry": [],
+    "name": "Nathan Hagarty",
+    "office": [
+      "Government Whip"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Wollondilly",
+    "house": "Legislative Assembly",
+    "memberId": "2279",
+    "ministry": [],
+    "name": "Judy Hannan",
+    "office": [],
+    "party": "Independent"
+  },
+  {
+    "electorate": "Wyong",
+    "house": "Legislative Assembly",
+    "memberId": "31",
+    "ministry": [
+      "Minister for Aboriginal Affairs and Treaty",
+      "Minister for Gaming and Racing",
+      "Minister for Veterans",
+      "Minister for Medical Research",
+      "Minister for the Central Coast"
+    ],
+    "name": "David Harris",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Charlestown",
+    "house": "Legislative Assembly",
+    "memberId": "102",
+    "ministry": [
+      "Minister for Women",
+      "Minister for Seniors",
+      "Minister for the Prevention of Domestic Violence and Sexual Assault"
+    ],
+    "name": "Jodie Harrison",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Summer Hill",
+    "house": "Legislative Assembly",
+    "memberId": "111",
+    "ministry": [],
+    "name": "Jo Haylen",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Wahroonga",
+    "house": "Legislative Assembly",
+    "memberId": "118",
+    "ministry": [
+      "Shadow Special Minister of State",
+      "Shadow Minister for Government Accountability"
+    ],
+    "name": "Alister Henskens",
+    "office": [],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Castle Hill",
+    "house": "Legislative Assembly",
+    "memberId": "2280",
+    "ministry": [],
+    "name": "Mark Hodges",
+    "office": [
+      "Shadow Parliamentary Secretary for Planning and Public Spaces",
+      "Shadow Parliamentary Secretary for Police and Counter-terrorism",
+      "Shadow Parliamentary Secretary for Western Sydney",
+      "Temporary Speaker"
+    ],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Heffron",
+    "house": "Legislative Assembly",
+    "memberId": "97",
+    "ministry": [
+      "Minister for Local Government"
+    ],
+    "name": "Ron Hoenig",
+    "office": [
+      "Leader of the House",
+      "Vice-President of the Executive Council"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Bega",
+    "house": "Legislative Assembly",
+    "memberId": "2264",
+    "ministry": [],
+    "name": "Michael Holland",
+    "office": [
+      "Parliamentary Secretary for Health",
+      "Parliamentary Secretary for Regional Health"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Wallsend",
+    "house": "Legislative Assembly",
+    "memberId": "33",
+    "ministry": [],
+    "name": "Sonia Hornery",
+    "office": [
+      "Deputy Speaker"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Willoughby",
+    "house": "Legislative Assembly",
+    "memberId": "2265",
+    "ministry": [
+      "Shadow Minister for Fair Trading, Work Health and Safety and Building",
+      "Shadow Minister for Local Government",
+      "Shadow Minister for Veterans"
+    ],
+    "name": "Tim James",
+    "office": [],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Liverpool",
+    "house": "Legislative Assembly",
+    "memberId": "2281",
+    "ministry": [],
+    "name": "Charishma Kaliyanda",
+    "office": [
+      "Parliamentary Secretary for Customer Service and Digital Government",
+      "Parliamentary Secretary for Emergency Services",
+      "Parliamentary Secretary for Youth Justice"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Rockdale",
+    "house": "Legislative Assembly",
+    "memberId": "124",
+    "ministry": [
+      "Minister for Lands and Property",
+      "Minister for Multiculturalism",
+      "Minister for Sport",
+      "Minister for Jobs and Tourism"
+    ],
+    "name": "Stephen Kamper",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Oxley",
+    "house": "Legislative Assembly",
+    "memberId": "2282",
+    "ministry": [],
+    "name": "Michael Kemp",
+    "office": [
+      "Shadow Parliamentary Secretary for Agriculture",
+      "Shadow Parliamentary Secretary for Emergency Services",
+      "Shadow Parliamentary Secretary for the Prevention of Regional Crime",
+      "Temporary Speaker"
+    ],
+    "party": "The Nationals"
+  },
+  {
+    "electorate": "Riverstone",
+    "house": "Legislative Assembly",
+    "memberId": "2293",
+    "ministry": [],
+    "name": "Warren Kirby",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Ryde",
+    "house": "Legislative Assembly",
+    "memberId": "2283",
+    "ministry": [],
+    "name": "Jordan Lane",
+    "office": [
+      "Shadow Parliamentary Secretary for Home Ownership and Rental Affordability",
+      "Shadow Parliamentary Secretary for Multiculturalism",
+      "Shadow Parliamentary Secretary for the Cost of Living"
+    ],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Upper Hunter",
+    "house": "Legislative Assembly",
+    "memberId": "2261",
+    "ministry": [
+      "Shadow Minister for Mining and Natural Resources",
+      "Shadow Minister for Racing"
+    ],
+    "name": "Dave Layzell",
+    "office": [],
+    "party": "The Nationals"
+  },
+  {
+    "electorate": "Newtown",
+    "house": "Legislative Assembly",
+    "memberId": "107",
+    "ministry": [],
+    "name": "Jenny Leong",
+    "office": [],
+    "party": "The Greens"
+  },
+  {
+    "electorate": "Strathfield",
+    "house": "Legislative Assembly",
+    "memberId": "2263",
+    "ministry": [],
+    "name": "Jason Li",
+    "office": [
+      "Assistant Speaker"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Prospect",
+    "house": "Legislative Assembly",
+    "memberId": "129",
+    "ministry": [],
+    "name": "Hugh McDermott",
+    "office": [
+      "Parliamentary Secretary to the Attorney General"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Wagga Wagga",
+    "house": "Legislative Assembly",
+    "memberId": "2237",
+    "ministry": [],
+    "name": "Joe McGirr",
+    "office": [],
+    "party": "Independent"
+  },
+  {
+    "electorate": "Kiama",
+    "house": "Legislative Assembly",
+    "memberId": "2311",
+    "ministry": [],
+    "name": "Katelin McInerney",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Penrith",
+    "house": "Legislative Assembly",
+    "memberId": "2285",
+    "ministry": [],
+    "name": "Karen McKeown",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "The Entrance",
+    "house": "Legislative Assembly",
+    "memberId": "113",
+    "ministry": [],
+    "name": "David Mehan",
+    "office": [
+      "Parliamentary Secretary to the Treasurer"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Kogarah",
+    "house": "Legislative Assembly",
+    "memberId": "108",
+    "ministry": [
+      "Premier"
+    ],
+    "name": "Chris Minns",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Northern Tablelands",
+    "house": "Legislative Assembly",
+    "memberId": "2306",
+    "ministry": [
+      "Shadow Minister for Agriculture",
+      "Shadow Minister for Prevention of Regional Crime"
+    ],
+    "name": "Brendan Moylan",
+    "office": [],
+    "party": "The Nationals"
+  },
+  {
+    "electorate": "Coogee",
+    "house": "Legislative Assembly",
+    "memberId": "2246",
+    "ministry": [],
+    "name": "Marjorie O'Neill",
+    "office": [
+      "Parliamentary Secretary for Transport"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Keira",
+    "house": "Legislative Assembly",
+    "memberId": "58",
+    "ministry": [
+      "Minister for Health",
+      "Minister for Regional Health",
+      "Minister for the Illawarra and the South Coast"
+    ],
+    "name": "Ryan Park",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Miranda",
+    "house": "Legislative Assembly",
+    "memberId": "109",
+    "ministry": [
+      "Shadow Minister for Jobs",
+      "Shadow Minister for Industry and Domestic Manufacturing"
+    ],
+    "name": "Eleni Petinos",
+    "office": [],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Lake Macquarie",
+    "house": "Legislative Assembly",
+    "memberId": "41",
+    "ministry": [],
+    "name": "Greg Piper",
+    "office": [
+      "Speaker"
+    ],
+    "party": "Independent"
+  },
+  {
+    "electorate": "Hawkesbury",
+    "house": "Legislative Assembly",
+    "memberId": "2249",
+    "ministry": [],
+    "name": "Robyn Preston",
+    "office": [],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Tweed",
+    "house": "Legislative Assembly",
+    "memberId": "36",
+    "ministry": [],
+    "name": "Geoff Provest",
+    "office": [
+      "Shadow Parliamentary Secretary for Hospitality and Gaming",
+      "Shadow Parliamentary Secretary for Tourism"
+    ],
+    "party": "The Nationals"
+  },
+  {
+    "electorate": "Camden",
+    "house": "Legislative Assembly",
+    "memberId": "2284",
+    "ministry": [],
+    "name": "Sally Quinnell",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Wakehurst",
+    "house": "Legislative Assembly",
+    "memberId": "2286",
+    "ministry": [],
+    "name": "Michael Regan",
+    "office": [],
+    "party": "Independent"
+  },
+  {
+    "electorate": "Lane Cove",
+    "house": "Legislative Assembly",
+    "memberId": "20",
+    "ministry": [
+      "Shadow Minister for Police and Counter-terrorism",
+      "Shadow Minister for Corrections"
+    ],
+    "name": "Anthony Roberts",
+    "office": [
+      "Legislative Assembly Trustee, Parliamentary Contributory Superannuation Fund"
+    ],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Lismore",
+    "house": "Legislative Assembly",
+    "memberId": "2085",
+    "ministry": [
+      "Minister for Small Business",
+      "Minister for Recovery",
+      "Minister for the North Coast"
+    ],
+    "name": "Janelle Saffin",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Fairfield",
+    "house": "Legislative Assembly",
+    "memberId": "2287",
+    "ministry": [],
+    "name": "David Saliba",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Dubbo",
+    "house": "Legislative Assembly",
+    "memberId": "2242",
+    "ministry": [],
+    "name": "Dugald Saunders",
+    "office": [],
+    "party": "The Nationals"
+  },
+  {
+    "electorate": "Pittwater",
+    "house": "Legislative Assembly",
+    "memberId": "2309",
+    "ministry": [],
+    "name": "Jacqui Scruby",
+    "office": [],
+    "party": "Independent"
+  },
+  {
+    "electorate": "Wollongong",
+    "house": "Legislative Assembly",
+    "memberId": "2225",
+    "ministry": [
+      "Minister for Planning and Public Spaces"
+    ],
+    "name": "Paul Scully",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Balmain",
+    "house": "Legislative Assembly",
+    "memberId": "2270",
+    "ministry": [],
+    "name": "Kobi Shetty",
+    "office": [],
+    "party": "The Greens"
+  },
+  {
+    "electorate": "Coffs Harbour",
+    "house": "Legislative Assembly",
+    "memberId": "2244",
+    "ministry": [
+      "Shadow Minister for Regional NSW",
+      "Shadow Minister for Small Business",
+      "Shadow Minister for Trade",
+      "Shadow Minister for the North Coast"
+    ],
+    "name": "Gurmesh Singh",
+    "office": [
+      "Leader of the Nationals"
+    ],
+    "party": "The Nationals"
+  },
+  {
+    "electorate": "Vaucluse",
+    "house": "Legislative Assembly",
+    "memberId": "2288",
+    "ministry": [
+      "Leader of the Opposition"
+    ],
+    "name": "Kellie Sloane",
+    "office": [
+      "Leader of the Liberals"
+    ],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Ballina",
+    "house": "Legislative Assembly",
+    "memberId": "119",
+    "ministry": [],
+    "name": "Tamara Smith",
+    "office": [],
+    "party": "The Greens"
+  },
+  {
+    "electorate": "Cronulla",
+    "house": "Legislative Assembly",
+    "memberId": "63",
+    "ministry": [
+      "Shadow Minister for Education"
+    ],
+    "name": "Mark Speakman",
+    "office": [],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Heathcote",
+    "house": "Legislative Assembly",
+    "memberId": "2289",
+    "ministry": [],
+    "name": "Maryanne Stuart",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Winston Hills",
+    "house": "Legislative Assembly",
+    "memberId": "116",
+    "ministry": [],
+    "name": "Mark Taylor",
+    "office": [],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Gosford",
+    "house": "Legislative Assembly",
+    "memberId": "2228",
+    "ministry": [],
+    "name": "Liesl Tesch",
+    "office": [
+      "Deputy Government Whip",
+      "Parliamentary Secretary for Disability Inclusion",
+      "Parliamentary Secretary for Families and Communities"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Myall Lakes",
+    "house": "Legislative Assembly",
+    "memberId": "2290",
+    "ministry": [
+      "Shadow Minister for Emergency Services",
+      "Shadow Minister for Disaster Recovery"
+    ],
+    "name": "Tanya Thompson",
+    "office": [],
+    "party": "The Nationals"
+  },
+  {
+    "electorate": "Bathurst",
+    "house": "Legislative Assembly",
+    "memberId": "62",
+    "ministry": [
+      "Shadow Minister for Regional Transport and Roads"
+    ],
+    "name": "Paul Toole",
+    "office": [],
+    "party": "The Nationals"
+  },
+  {
+    "electorate": "Goulburn",
+    "house": "Legislative Assembly",
+    "memberId": "2240",
+    "ministry": [],
+    "name": "Wendy Tuckerman",
+    "office": [],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Epping",
+    "house": "Legislative Assembly",
+    "memberId": "2307",
+    "ministry": [
+      "Shadow Minister for Finance",
+      "Shadow Minister for Western Sydney"
+    ],
+    "name": "Monica Tudehope",
+    "office": [],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Cabramatta",
+    "house": "Legislative Assembly",
+    "memberId": "2271",
+    "ministry": [],
+    "name": "Tri Vo",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Auburn",
+    "house": "Legislative Assembly",
+    "memberId": "42",
+    "ministry": [],
+    "name": "Lynda Voltz",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Hornsby",
+    "house": "Legislative Assembly",
+    "memberId": "2308",
+    "ministry": [
+      "Shadow Minister for Industrial Relations",
+      "Shadow Minister for Government Procurement"
+    ],
+    "name": "James Wallace",
+    "office": [],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Campbelltown",
+    "house": "Legislative Assembly",
+    "memberId": "127",
+    "ministry": [],
+    "name": "Greg Warren",
+    "office": [
+      "Parliamentary Secretary for Education and Early Learning",
+      "Parliamentary Secretary for Western Sydney",
+      "Parliamentary Secretary to the Deputy Premier"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Port Stephens",
+    "house": "Legislative Assembly",
+    "memberId": "106",
+    "ministry": [
+      "Minister for Families and Communities",
+      "Minister for Disability Inclusion"
+    ],
+    "name": "Kate Washington",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Shellharbour",
+    "house": "Legislative Assembly",
+    "memberId": "72",
+    "ministry": [],
+    "name": "Anna Watson",
+    "office": [
+      "Parliamentary Secretary for Regional Transport and Roads",
+      "Parliamentary Secretary for Roads"
+    ],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Monaro",
+    "house": "Legislative Assembly",
+    "memberId": "2176",
+    "ministry": [
+      "Minister for Skills, TAFE and Tertiary Education"
+    ],
+    "name": "Steve Whan",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "East Hills",
+    "house": "Legislative Assembly",
+    "memberId": "2291",
+    "ministry": [],
+    "name": "Kylie Wilkinson",
+    "office": [],
+    "party": "Australian Labor Party"
+  },
+  {
+    "electorate": "Kellyville",
+    "house": "Legislative Assembly",
+    "memberId": "39",
+    "ministry": [],
+    "name": "Ray Williams",
+    "office": [],
+    "party": "Liberal Party"
+  },
+  {
+    "electorate": "Clarence",
+    "house": "Legislative Assembly",
+    "memberId": "2292",
+    "ministry": [],
+    "name": "Richie Williamson",
+    "office": [
+      "Shadow Parliamentary Secretary for Local Government",
+      "Shadow Parliamentary Secretary for Regional NSW",
+      "The Nationals Whip"
+    ],
+    "party": "The Nationals"
+  },
+  {
+    "electorate": "North Shore",
+    "house": "Legislative Assembly",
+    "memberId": "2230",
+    "ministry": [
+      "Shadow Minister for Women",
+      "Shadow Minister for Aboriginal Affairs",
+      "Shadow Minister for Early Education"
+    ],
+    "name": "Felicity Wilson",
+    "office": [],
+    "party": "Liberal Party"
+  }
+]

@@ -1,0 +1,1274 @@
+{
+  "meta": {
+    "title": "NSW Election Desk",
+    "contentAsOf": "2026-09-03",
+    "electionDate": "2027-03-13",
+    "electionName": "2027 NSW State election",
+    "parliamentNumber": "59th Parliament of New South Wales",
+    "note": "A private revision tool for newsroom preparation. Fast-moving claims are dated and kept separate from official results and parliamentary records."
+  },
+  "sources": [
+    {
+      "id": "nswec-2027",
+      "label": "NSW Electoral Commission — 2027 NSW State election",
+      "url": "https://elections.nsw.gov.au/elections/state-elections/2027-nsw-state-election",
+      "type": "official"
+    },
+    {
+      "id": "nswec-voting",
+      "label": "NSW Electoral Commission — how to cast a state election vote",
+      "url": "https://elections.nsw.gov.au/elections/how-voting-works/voting-in-new-south-wales/how-to-cast-your-vote-in-a-state-election",
+      "type": "official"
+    },
+    {
+      "id": "nswec-counting",
+      "label": "NSW Electoral Commission — how state election votes are counted",
+      "url": "https://elections.nsw.gov.au/elections/how-counting-works/how-votes-are-counted-in-a-state-election",
+      "type": "official"
+    },
+    {
+      "id": "nswec-results-2023",
+      "label": "NSW Electoral Commission — 2023 Legislative Assembly results",
+      "url": "https://pastvtr.elections.nsw.gov.au/SG2301/LA/results",
+      "type": "official"
+    },
+    {
+      "id": "parliament-members",
+      "label": "Parliament of NSW — current members and electorates",
+      "url": "https://www.parliament.nsw.gov.au/members-and-electorates",
+      "type": "official"
+    },
+    {
+      "id": "parliament-assembly",
+      "label": "Parliament of NSW — role of the Legislative Assembly",
+      "url": "https://www.parliament.nsw.gov.au/parliamentary-business/legislative-assembly/role-and-history-of-the-legislative-assembly/role-of-the-legislative-assembly",
+      "type": "official"
+    },
+    {
+      "id": "parliament-council",
+      "label": "Parliament of NSW — role of the Legislative Council",
+      "url": "https://www.parliament.nsw.gov.au/parliamentary-business/legislative-council/role-and-history-of-the-council",
+      "type": "official"
+    },
+    {
+      "id": "parliament-analysis-2023",
+      "label": "NSW Parliamentary Research Service — 2023 election analysis",
+      "url": "https://www.parliament.nsw.gov.au/parliamentary-business/research-and-library/research-publications-data/2023-nsw-election-analysis-with-supplement-2025",
+      "type": "official"
+    },
+    {
+      "id": "spatial-boundaries",
+      "label": "Spatial Services NSW — State Electoral District boundaries",
+      "url": "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Administrative_Boundaries_Theme_multiCRS/FeatureServer/4",
+      "type": "official"
+    },
+    {
+      "id": "nswec-disclosures",
+      "label": "NSW Electoral Commission — view political disclosures",
+      "url": "https://elections.nsw.gov.au/electoral-funding/disclosures/view-disclosures",
+      "type": "official"
+    },
+    {
+      "id": "nswec-bulletin-5",
+      "label": "NSW Electoral Commission — 2027 election bulletin No. 5",
+      "url": "https://elections.nsw.gov.au/bulletins/2027-nsw-state-election-bulletin-no-5",
+      "type": "official"
+    },
+    {
+      "id": "tallyroom-pendulum",
+      "label": "The Tally Room — NSW 2027 electoral pendulum",
+      "url": "https://www.tallyroom.com.au/nsw2027/pendulumnsw2027",
+      "type": "analysis"
+    },
+    {
+      "id": "nsw-budget-2026",
+      "label": "NSW Government — 2026–27 Budget highlights",
+      "url": "https://www.nsw.gov.au/business-and-economy/nsw-budget/2026-27-budget-papers/overview/budget-highlights",
+      "type": "government"
+    },
+    {
+      "id": "abc-coalition-budget-reply",
+      "label": "ABC News — NSW opposition budget reply",
+      "url": "https://www.abc.net.au/news/2026-06-25/nsw-opposition-leader-kellie-sloane-budget-reply-speech/106839734",
+      "type": "media"
+    },
+    {
+      "id": "abc-one-nation-2026",
+      "label": "ABC News — One Nation NSW leader and energy pitch",
+      "url": "https://www.abc.net.au/news/2026-08-28/nsw-one-nation-leader-mike-newman-coal-nuclear-energy/107088390",
+      "type": "media"
+    },
+    {
+      "id": "abc-minns-one-nation",
+      "label": "ABC News — One Nation and the NSW contest",
+      "url": "https://www.abc.net.au/news/2026-06-06/nsw-premier-chris-minns-on-one-nation-labor-threat-and-his-seat/106765628",
+      "type": "media"
+    },
+    {
+      "id": "abc-qld-2024",
+      "label": "ABC News — Queensland election 2024 results",
+      "url": "https://www.abc.net.au/news/elections/qld/2024/results",
+      "type": "media"
+    },
+    {
+      "id": "abc-wa-2025",
+      "label": "ABC News — WA Labor wins a third term in 2025",
+      "url": "https://www.abc.net.au/news/2025-03-08/wa-labor-wins-2025-election-in-comfortable-victory/105025568",
+      "type": "media"
+    },
+    {
+      "id": "abc-wa-council-2025",
+      "label": "ABC News — final WA Legislative Council result 2025",
+      "url": "https://www.abc.net.au/news/2025-04-16/wa-upper-house-final-election-results-revealed/105185376",
+      "type": "media"
+    },
+    {
+      "id": "abc-tas-2025",
+      "label": "ABC News — final Tasmanian lower-house result 2025",
+      "url": "https://www.abc.net.au/news/2025-08-02/george-razay-result-finalised-in-tasmanian-seat-of-bass/105604472",
+      "type": "media"
+    },
+    {
+      "id": "abc-sa-2026",
+      "label": "ABC News — South Australia election 2026 results",
+      "url": "https://www.abc.net.au/news/elections/sa/2026/results",
+      "type": "media"
+    }
+  ],
+  "campaignLedger": [
+    {
+      "id": "labor-transport-affordability-2026",
+      "date": "2026-06-23",
+      "actor": "Minns Labor Government",
+      "party": "ALP",
+      "status": "Budget measure",
+      "title": "$100 registration relief and a $50 weekly toll cap",
+      "summary": "The 2026–27 Budget included a 12-month transport affordability package: $100 off private vehicle registration, a lower $50 weekly toll cap and Opal fares held at 2025 prices.",
+      "costing": "$561.4 million package stated in the Budget material.",
+      "geography": "Statewide registration and public transport measures; toll relief is concentrated among eligible Sydney motorway users.",
+      "verification": "Funded Budget measure. Check commencement, eligibility, take-up and whether any element is extended beyond the stated 12 months.",
+      "sourceIds": [
+        "nsw-budget-2026"
+      ]
+    },
+    {
+      "id": "labor-services-budget-2026",
+      "date": "2026-06-23",
+      "actor": "Minns Labor Government",
+      "party": "ALP",
+      "status": "Budget measure",
+      "title": "Health, schools and Western Sydney infrastructure package",
+      "summary": "Budget highlights list $10.3 billion for increased health services, including higher wages, 9,000 additional workers and 2,900 extra surgeries a year; $9.2 billion for more than 260 new or upgraded schools; and $3.5 billion extra for Western Sydney transport and roads.",
+      "costing": "Headline multi-year Budget allocations; do not add them without checking time periods and overlaps.",
+      "geography": "Statewide services with explicit Western Sydney and regional project components.",
+      "verification": "Build a project-level ledger: new versus previously announced money, delivery year, output target and electorate footprint.",
+      "sourceIds": [
+        "nsw-budget-2026"
+      ]
+    },
+    {
+      "id": "coalition-payroll-tax-2026",
+      "date": "2026-06-25",
+      "actor": "Liberal–National Coalition",
+      "party": "LIB",
+      "status": "Election pitch",
+      "title": "Payroll tax threshold and rate changes",
+      "summary": "Opposition Leader Kellie Sloane proposed lifting the payroll tax threshold from $1.2 million to $1.5 million and cutting the rate from 5.45% to 4.75% for businesses with payrolls below $10 million.",
+      "costing": "The ABC report said a total state-budget cost was not provided in the speech; the opposition said an eligible business could save up to $75,850.",
+      "geography": "Statewide, with effects varying by employer payroll and location.",
+      "verification": "Seek Treasury-style aggregate costings, interaction with existing thresholds, number of eligible firms and implementation date.",
+      "sourceIds": [
+        "abc-coalition-budget-reply"
+      ]
+    },
+    {
+      "id": "coalition-housing-transport-2026",
+      "date": "2026-06-25",
+      "actor": "Liberal–National Coalition",
+      "party": "LIB",
+      "status": "Election pitch",
+      "title": "South-west Metro planning, contribution freeze and Long Bay housing",
+      "summary": "The opposition outlined a new city deal with Canberra and a south-west Sydney Metro plan, repeated a proposal to freeze developer contributions on new houses until mid-2029, and proposed closing Long Bay Correctional Complex to pursue 12,000 homes while relocating prisoners to regional NSW.",
+      "costing": "Funding and delivery detail remained incomplete in the cited report.",
+      "geography": "South-west Sydney, Long Bay and regional correctional locations; statewide housing-market implications.",
+      "verification": "Separate planning target from delivered dwellings; test land, remediation, transport, prison-capacity and Commonwealth dependencies.",
+      "sourceIds": [
+        "abc-coalition-budget-reply"
+      ]
+    },
+    {
+      "id": "coalition-rez-2026",
+      "date": "2026-06-25",
+      "actor": "Liberal–National Coalition",
+      "party": "LIB",
+      "status": "Election pitch",
+      "title": "Renewable Energy Zone redesign",
+      "summary": "The opposition proposed city Renewable Energy Zones around Sydney, Newcastle and Wollongong plus a far-west zone, while scaling back the New England zone.",
+      "costing": "No complete transition cost was stated in the cited report.",
+      "geography": "New England, far-west NSW, Sydney, Newcastle and Wollongong.",
+      "verification": "Test transmission contracts, sunk costs, generation capacity, reliability modelling, landholder effects and delivery timelines.",
+      "sourceIds": [
+        "abc-coalition-budget-reply"
+      ]
+    },
+    {
+      "id": "one-nation-energy-2026",
+      "date": "2026-08-28",
+      "actor": "One Nation NSW",
+      "party": "ON",
+      "status": "Election pitch",
+      "title": "Coal, nuclear and uranium policy shift",
+      "summary": "New NSW leader Mike Newman argued for continued coal generation, nuclear investment, reversing uranium-mining restrictions and abandoning Renewable Energy Zones.",
+      "costing": "No full fiscal, regulatory or project timetable was reported with the announcement.",
+      "geography": "Newman plans to contest Cessnock; the energy proposals have statewide and regional impacts.",
+      "verification": "Check state and federal legal powers, plant lead times, grid modelling, waste arrangements, private investment assumptions and affected communities.",
+      "sourceIds": [
+        "abc-one-nation-2026"
+      ]
+    },
+    {
+      "id": "one-nation-payroll-2026",
+      "date": "2026-08-28",
+      "actor": "One Nation NSW",
+      "party": "ON",
+      "status": "Election pitch",
+      "title": "Regional payroll tax removal and metropolitan rate cut",
+      "summary": "One Nation proposed removing payroll tax in regional NSW and halving it in metropolitan areas.",
+      "costing": "No comprehensive cost or boundary definition was reported with the announcement.",
+      "geography": "Depends critically on how regional and metropolitan employers and payrolls are defined.",
+      "verification": "Request the revenue cost, anti-avoidance rules, treatment of multi-location employers and the exact geographic classification.",
+      "sourceIds": [
+        "abc-one-nation-2026"
+      ]
+    }
+  ],
+  "interstateLens": [
+    {
+      "id": "qld-2024",
+      "date": "2024-10-26",
+      "title": "Queensland 2024: change of government with a regional path",
+      "facts": "The LNP won 52 of 93 seats, Labor 36, Katter's Australian Party 3, the Greens 1 and an independent 1.",
+      "nswLens": "The result shows how geographically concentrated issue salience can produce a change of government. For NSW, test regional and outer-suburban issue maps rather than assuming one statewide swing.",
+      "caveat": "Queensland uses compulsory preferential voting, unlike NSW Assembly optional preferential voting.",
+      "sourceIds": [
+        "abc-qld-2024"
+      ]
+    },
+    {
+      "id": "wa-2025",
+      "date": "2025-03-08",
+      "title": "Western Australia 2025: a government can win comfortably while losing altitude",
+      "facts": "WA Labor won a third term despite a large swing away from its 2021 landslide. In the upper house it fell to 16 of 37 seats and lost sole control.",
+      "nswLens": "Separate the binary question of who wins from mandate, swing, chamber control and the rebuilding capacity of an opposition.",
+      "caveat": "WA changed its Legislative Council system before this election; institutional comparisons require care.",
+      "sourceIds": [
+        "abc-wa-2025",
+        "abc-wa-council-2025"
+      ]
+    },
+    {
+      "id": "tas-2025",
+      "date": "2025-07-19",
+      "title": "Tasmania 2025: fragmented chambers and negotiation",
+      "facts": "The final 35-member lower house comprised 14 Liberals, 10 Labor, 5 Greens, 1 Shooters, Fishers and Farmers member and 5 independents.",
+      "nswLens": "Minority arithmetic is not merely a seat total: confidence, supply, issue-by-issue support and relationships with individual crossbenchers matter.",
+      "caveat": "Tasmania uses multi-member Hare–Clark electorates, so candidate and party dynamics are not directly transferable to NSW.",
+      "sourceIds": [
+        "abc-tas-2025"
+      ]
+    },
+    {
+      "id": "sa-2026",
+      "date": "2026-03-21",
+      "title": "South Australia 2026: major-party disruption on the right",
+      "facts": "Labor won 34 of 47 lower-house seats, Liberal 5, One Nation 4 and others 4. One Nation recorded 22.9% of the primary vote statewide.",
+      "nswLens": "Watch whether a rising minor-party primary vote changes final pairings, preference exhaustion and Coalition resource choices in NSW — particularly outside inner Sydney.",
+      "caveat": "Do not transplant SA vote shares into NSW; parties, electoral systems, candidates and local political conditions differ.",
+      "sourceIds": [
+        "abc-sa-2026",
+        "abc-minns-one-nation"
+      ]
+    }
+  ],
+  "reportingDomains": [
+    {
+      "id": "seat-baseline",
+      "title": "Seat baseline",
+      "why": "Know what normal looks like before calling change.",
+      "metrics": [
+        "2023 primary and TCP result",
+        "current holder and contest pairing",
+        "margin on a clearly named basis",
+        "turnout and informality",
+        "boundary and notional-history caveats",
+        "by-election and member-status changes"
+      ],
+      "reporterQuestions": [
+        "Is the comparison on the same boundaries?",
+        "Is this TCP, TPP or primary vote?",
+        "Has the candidate field changed the contest?"
+      ]
+    },
+    {
+      "id": "campaign-intensity",
+      "title": "Campaign intensity",
+      "why": "Party behaviour can reveal priorities before public declarations do.",
+      "metrics": [
+        "leader and minister visits",
+        "candidate announcement date",
+        "paid advertising and direct mail",
+        "staff and volunteer deployment",
+        "localised policy announcements",
+        "opponent response and defensive visits"
+      ],
+      "reporterQuestions": [
+        "Is activity sustained or a one-off?",
+        "Which nearby seats share the same announcement?",
+        "What scarce resource is the party moving here?"
+      ]
+    },
+    {
+      "id": "people-networks",
+      "title": "People and power networks",
+      "why": "Formal titles explain only part of how decisions move.",
+      "metrics": [
+        "ministers and shadow ministers",
+        "party and parliamentary office holders",
+        "factions and preselection blocs",
+        "chiefs of staff and campaign directors",
+        "union, donor and industry links",
+        "crossbench confidence and legislative relationships"
+      ],
+      "reporterQuestions": [
+        "Who can authorise this?",
+        "Who carries the relationship?",
+        "Whose absence from the announcement is notable?"
+      ]
+    },
+    {
+      "id": "demography",
+      "title": "Demography and electoral change",
+      "why": "A seat name hides communities moving at different speeds.",
+      "metrics": [
+        "population and enrolment growth",
+        "age and household type",
+        "income and occupation",
+        "housing tenure and mortgage stress",
+        "language and country of birth",
+        "education, commute and industry"
+      ],
+      "reporterQuestions": [
+        "Which booths contain the change?",
+        "Is enrolment growth outpacing turnout?",
+        "Does the campaign's target audience live in the affected area?"
+      ]
+    },
+    {
+      "id": "service-delivery",
+      "title": "Service delivery",
+      "why": "State elections are fought through lived experience of state systems.",
+      "metrics": [
+        "emergency and elective-surgery waits",
+        "school enrolments, staffing and capital works",
+        "transport reliability and project milestones",
+        "housing approvals, commencements and social-housing stock",
+        "recorded crime and court delay",
+        "disaster recovery and insurance access"
+      ],
+      "reporterQuestions": [
+        "Is this an input, output or outcome?",
+        "What is the per-capita trend?",
+        "Which level of government controls delivery?"
+      ]
+    },
+    {
+      "id": "budget-costing",
+      "title": "Budget and promise costing",
+      "why": "A headline dollar figure can combine years, old money and uncertain dependencies.",
+      "metrics": [
+        "capital versus recurrent spending",
+        "new versus previously announced money",
+        "forward-estimates profile",
+        "funding source and offsets",
+        "Commonwealth or private-sector dependency",
+        "unit cost, target and delivery date"
+      ],
+      "reporterQuestions": [
+        "How much is genuinely new?",
+        "When is the cash spent?",
+        "What would prove delivery rather than announcement?"
+      ]
+    },
+    {
+      "id": "integrity-funding",
+      "title": "Integrity, donations and lobbying",
+      "why": "Election-period disclosures create a time-sensitive accountability trail.",
+      "metrics": [
+        "reportable political donations",
+        "fundraising events",
+        "third-party campaigners",
+        "lobbyist register and diaries",
+        "procurement and grants",
+        "ministerial-code and conflict disclosures"
+      ],
+      "reporterQuestions": [
+        "Who gave what, when and to whom?",
+        "What decision or access followed?",
+        "Is a legal disclosure threshold being mistaken for an ethical test?"
+      ]
+    },
+    {
+      "id": "legislative-record",
+      "title": "Legislative and accountability record",
+      "why": "Campaign positions can be tested against conduct in Parliament.",
+      "metrics": [
+        "votes and amendments",
+        "committee reports",
+        "budget estimates evidence",
+        "questions and answers",
+        "auditor-general and ombudsman findings",
+        "bill commencement and regulation"
+      ],
+      "reporterQuestions": [
+        "Did the law commence?",
+        "Who amended or blocked it?",
+        "What did the responsible minister previously tell Parliament?"
+      ]
+    },
+    {
+      "id": "polling-preferences",
+      "title": "Polling, preferences and modelling",
+      "why": "Precision can outrun what the sample and electoral system support.",
+      "metrics": [
+        "field dates and sample size",
+        "mode and weighting",
+        "primary vote before TPP",
+        "undecided treatment",
+        "regional subsamples",
+        "preference assumptions and exhaustion"
+      ],
+      "reporterQuestions": [
+        "Is the movement outside sampling error?",
+        "Who supplied the preferences?",
+        "Does the model allow non-classic contests?"
+      ]
+    },
+    {
+      "id": "election-night",
+      "title": "Election-night readiness",
+      "why": "Good calls depend on preparation before the first booth reports.",
+      "metrics": [
+        "benchmark booths and vote types",
+        "candidate and scrutineer contacts",
+        "prepoll share",
+        "postal-vote history",
+        "indicative TCP pairing risk",
+        "paths to 47 and crossbench scenarios"
+      ],
+      "reporterQuestions": [
+        "Which result would falsify the working hypothesis?",
+        "Could the selected TCP pair be wrong?",
+        "What late votes could reverse the apparent leader?"
+      ]
+    }
+  ],
+  "newsroomScenarios": [
+    {
+      "id": "scenario-uniform-swing",
+      "category": "Numbers",
+      "prompt": "A colleague says a statewide 4-point swing means every seat below 4% will change hands. What is your correction?",
+      "answer": "A uniform swing is a benchmark, not a forecast. Check regional variation, the actual final pairing, optional-preference exhaustion, incumbency, candidates, local issues and uncertainty before naming likely gains.",
+      "checklist": [
+        "Name the vote measure",
+        "Separate benchmark from prediction",
+        "Identify non-classic contests",
+        "State uncertainty"
+      ]
+    },
+    {
+      "id": "scenario-costing",
+      "category": "Accountability",
+      "prompt": "A party announces a $3 billion transport plan at a marginal-seat event. What goes into the first filing note?",
+      "answer": "Record the exact commitment, years covered, capital/recurrent split, funding source, new-versus-recycled money, delivery milestones, dependencies, affected electorates, source document and unanswered questions.",
+      "checklist": [
+        "Exact wording",
+        "Time profile",
+        "Funding source",
+        "Geographic beneficiaries",
+        "Independent verification"
+      ]
+    },
+    {
+      "id": "scenario-internal-poll",
+      "category": "Polling",
+      "prompt": "A campaign gives you an internal poll showing its candidate ahead by two points. What must you establish before reporting it?",
+      "answer": "Commissioner, pollster, sample, field dates, method, question order and wording, undecided treatment, full primary figures, preference assumptions, whether other results were withheld and why it was released now.",
+      "checklist": [
+        "Provenance",
+        "Method",
+        "Full tables",
+        "Strategic motive",
+        "Uncertainty"
+      ]
+    },
+    {
+      "id": "scenario-tcp-pair",
+      "category": "Election night",
+      "prompt": "The indicative election-night TCP is Labor–Liberal, but an independent is running second on primaries. What is the danger?",
+      "answer": "The selected indicative pair may be wrong. A later three-candidate-preferred or full distribution can produce a different final pair, so the displayed TCP swing may not describe the real contest.",
+      "checklist": [
+        "Flag pairing risk",
+        "Watch exclusion order",
+        "Avoid false swing comparison",
+        "Wait for fuller preference data"
+      ]
+    },
+    {
+      "id": "scenario-booth-swing",
+      "category": "Election night",
+      "prompt": "One early booth shows a 12-point swing. What do you compare before treating it as a seat trend?",
+      "answer": "Match the booth and boundaries, compare vote type and count completeness, inspect turnout and candidate field, then look for similar movement across demographically and geographically comparable booths.",
+      "checklist": [
+        "Like-for-like booth",
+        "Count completeness",
+        "Turnout",
+        "Comparable booths"
+      ]
+    },
+    {
+      "id": "scenario-news-claim",
+      "category": "Campaign craft",
+      "prompt": "A party labels a seat its number-one target. How do you test whether behaviour matches the claim?",
+      "answer": "Track repeated leader visits, candidate timing, staffing, volunteer shifts, paid and direct advertising, local policy work, fundraising and whether the opponent diverts resources defensively.",
+      "checklist": [
+        "Sustained activity",
+        "Scarce resources",
+        "Localisation",
+        "Opponent response"
+      ]
+    },
+    {
+      "id": "scenario-jurisdiction",
+      "category": "Seat craft",
+      "prompt": "Residents blame the state MP for a council development approval and a federal migration setting. What is the reporting move?",
+      "answer": "Map each decision to the responsible level of government, then report any genuine state levers or political advocacy without collapsing distinct jurisdictions and boundaries.",
+      "checklist": [
+        "Decision-maker",
+        "Legal power",
+        "Funding role",
+        "Boundary overlap"
+      ]
+    },
+    {
+      "id": "scenario-margin-change",
+      "category": "Seat craft",
+      "prompt": "A seat's official 2023 winner differs from its current member's party. Which baseline belongs in copy?",
+      "answer": "State both with dates: the official 2023 result for historical comparison and the current holder/current analyst margin for today's political position, explaining the event that changed it.",
+      "checklist": [
+        "Date each fact",
+        "Name the change event",
+        "Keep official and analyst figures distinct",
+        "Avoid a blended margin"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "id": "core-election-day",
+      "domain": "Election mechanics",
+      "explanation": "It elects the 59th Parliament of New South Wales.",
+      "sourceIds": [
+        "nswec-2027"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "Saturday, 13 March 2027.",
+      "learning": {
+        "prompt": "When is the 2027 NSW State election?",
+        "priority": 5,
+        "distractors": [
+          "Saturday, 27 March 2027.",
+          "Saturday, 13 March 2028.",
+          "Saturday, 28 March 2026."
+        ]
+      }
+    },
+    {
+      "id": "core-la-size",
+      "domain": "Parliament",
+      "explanation": "Each Assembly member represents one electoral district.",
+      "sourceIds": [
+        "parliament-assembly"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "93 seats.",
+      "learning": {
+        "prompt": "How many seats are in the NSW Legislative Assembly?",
+        "priority": 5,
+        "distractors": [
+          "42 seats.",
+          "47 seats.",
+          "151 seats."
+        ]
+      }
+    },
+    {
+      "id": "core-majority",
+      "domain": "Parliament",
+      "explanation": "A party or grouping needs support from at least 47 Assembly members to command a majority.",
+      "sourceIds": [
+        "parliament-assembly"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "47 members.",
+      "learning": {
+        "prompt": "What is the working majority line in the 93-seat Legislative Assembly?",
+        "priority": 5,
+        "distractors": [
+          "45 seats.",
+          "46 seats.",
+          "48 seats."
+        ]
+      }
+    },
+    {
+      "id": "core-government-house",
+      "domain": "Parliament",
+      "explanation": "The Governor commissions the leader able to command confidence in the Assembly.",
+      "sourceIds": [
+        "parliament-assembly"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "The Legislative Assembly, or lower house.",
+      "learning": {
+        "prompt": "In which house is the NSW Government formed?",
+        "priority": 5,
+        "distractors": [
+          "The Legislative Council, or upper house.",
+          "Both houses must give identical confidence votes.",
+          "The largest statewide primary vote forms government automatically."
+        ]
+      }
+    },
+    {
+      "id": "core-la-term",
+      "domain": "Parliament",
+      "explanation": "NSW general elections operate on fixed four-year cycles, subject to limited constitutional exceptions.",
+      "sourceIds": [
+        "parliament-assembly",
+        "nswec-voting"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "Four years.",
+      "learning": {
+        "prompt": "What is the ordinary term for a NSW Legislative Assembly member?",
+        "priority": 4,
+        "distractors": [
+          "Three years.",
+          "Eight years.",
+          "Six years."
+        ]
+      }
+    },
+    {
+      "id": "core-lc-size",
+      "domain": "Parliament",
+      "explanation": "The Council is the upper house.",
+      "sourceIds": [
+        "parliament-council"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "42 members.",
+      "learning": {
+        "prompt": "How many members are in the NSW Legislative Council?",
+        "priority": 5,
+        "distractors": [
+          "21 members.",
+          "93 members.",
+          "47 members."
+        ]
+      }
+    },
+    {
+      "id": "core-lc-periodic",
+      "domain": "Parliament",
+      "explanation": "Half the Council is elected at each ordinary general election.",
+      "sourceIds": [
+        "parliament-council"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "21 of the 42 positions.",
+      "learning": {
+        "prompt": "How many Legislative Council positions are ordinarily contested at each NSW general election?",
+        "priority": 5,
+        "distractors": [
+          "All 42 positions.",
+          "14 of the 42 positions.",
+          "31 of the 42 positions."
+        ]
+      }
+    },
+    {
+      "id": "core-lc-term",
+      "domain": "Parliament",
+      "explanation": "This staggered system means only half the Council faces voters at a general election.",
+      "sourceIds": [
+        "parliament-council"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "Eight years — two Assembly terms.",
+      "learning": {
+        "prompt": "How long is a NSW Legislative Council member's ordinary term?",
+        "priority": 4,
+        "distractors": [
+          "Four years — one Assembly term.",
+          "Six years — two federal terms.",
+          "Three years."
+        ]
+      }
+    },
+    {
+      "id": "core-lc-electorate",
+      "domain": "Parliament",
+      "explanation": "Council members are elected by proportional representation statewide, not from local districts.",
+      "sourceIds": [
+        "parliament-council"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "The whole state is one electorate.",
+      "learning": {
+        "prompt": "What electorate does a NSW Legislative Council member represent?",
+        "priority": 5,
+        "distractors": [
+          "One local state district.",
+          "One federal electoral division.",
+          "One local-government ward."
+        ]
+      }
+    },
+    {
+      "id": "core-la-voting",
+      "domain": "Election mechanics",
+      "explanation": "A voter must mark a first preference and may number further candidates.",
+      "sourceIds": [
+        "nswec-voting"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "Optional preferential voting in single-member electorates.",
+      "learning": {
+        "prompt": "What voting system is used for the NSW Legislative Assembly?",
+        "priority": 5,
+        "distractors": [
+          "Compulsory preferential voting in single-member electorates.",
+          "Proportional representation in a statewide electorate.",
+          "First past the post in single-member electorates."
+        ]
+      }
+    },
+    {
+      "id": "core-la-formal",
+      "domain": "Election mechanics",
+      "explanation": "Further preferences are optional, so some ballot papers exhaust before the final contest.",
+      "sourceIds": [
+        "nswec-voting"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "A number 1 for one candidate.",
+      "learning": {
+        "prompt": "What is the minimum mark needed for a formal Legislative Assembly vote?",
+        "priority": 5,
+        "distractors": [
+          "Number every candidate consecutively.",
+          "Number at least 15 candidates.",
+          "Number at least six candidates."
+        ]
+      }
+    },
+    {
+      "id": "core-la-win",
+      "domain": "Election mechanics",
+      "explanation": "The lowest candidates are excluded and available preferences distributed until someone passes that point.",
+      "sourceIds": [
+        "nswec-counting"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "More than half the continuing formal votes — 50% plus one.",
+      "learning": {
+        "prompt": "What must an Assembly candidate reach during the preference count to be elected?",
+        "priority": 4
+      }
+    },
+    {
+      "id": "core-lc-above",
+      "domain": "Election mechanics",
+      "explanation": "Voters may number more groups if they wish.",
+      "sourceIds": [
+        "nswec-voting"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "A number 1 in one group voting square.",
+      "learning": {
+        "prompt": "What is the minimum formal above-the-line vote for the Legislative Council?",
+        "priority": 4,
+        "distractors": [
+          "Number at least six group squares.",
+          "Number every group voting square.",
+          "Number at least 15 group squares."
+        ]
+      }
+    },
+    {
+      "id": "core-lc-below",
+      "domain": "Election mechanics",
+      "explanation": "Further preferences from 16 onward are optional.",
+      "sourceIds": [
+        "nswec-voting"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "At least 15 candidates.",
+      "learning": {
+        "prompt": "How many candidates must a voter number below the line for the NSW Legislative Council?",
+        "priority": 5,
+        "distractors": [
+          "At least 6 candidates.",
+          "At least 21 candidates.",
+          "Every candidate."
+        ]
+      }
+    },
+    {
+      "id": "core-lc-power",
+      "domain": "Parliament",
+      "explanation": "That makes the Council and its crossbench central to scrutiny, amendments and negotiations.",
+      "sourceIds": [
+        "parliament-council"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "The houses broadly share equal legislative power, with exceptions for some money bills.",
+      "learning": {
+        "prompt": "How does the Legislative Council's law-making power compare with the Assembly's?",
+        "priority": 4
+      }
+    },
+    {
+      "id": "core-lc-no-majority",
+      "domain": "Parliament",
+      "explanation": "The long-running lack of an upper-house government majority amplifies crossbench influence.",
+      "sourceIds": [
+        "parliament-council"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "Since 1988.",
+      "learning": {
+        "prompt": "Since when has no NSW government held a Legislative Council majority?",
+        "priority": 3
+      }
+    },
+    {
+      "id": "core-tcp",
+      "domain": "Numbers",
+      "explanation": "TCP is not always Labor versus Coalition; independent, Green or minor-party candidates can make the final pair.",
+      "sourceIds": [
+        "nswec-results-2023"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "structural",
+      "statement": "Two-candidate preferred: the final count between the last two candidates.",
+      "learning": {
+        "prompt": "What does TCP mean in an electorate result?",
+        "priority": 5,
+        "distractors": [
+          "The notional Labor-versus-Coalition count in every seat.",
+          "The top two primary-vote totals before preferences.",
+          "The total count of all formal and informal votes."
+        ]
+      }
+    },
+    {
+      "id": "core-tpp",
+      "domain": "Numbers",
+      "explanation": "In non-classic seats, quoting TCP as if it were TPP can misdescribe the contest.",
+      "sourceIds": [
+        "parliament-analysis-2023"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "structural",
+      "statement": "TPP is the notional Labor-versus-Coalition count; TCP is the actual final pair in a seat.",
+      "learning": {
+        "prompt": "How is TPP different from TCP?",
+        "priority": 5,
+        "distractors": [
+          "TPP is the actual final pair; TCP is always Labor versus Coalition.",
+          "TPP measures primary votes; TCP measures turnout.",
+          "They always mean exactly the same count."
+        ]
+      }
+    },
+    {
+      "id": "core-margin",
+      "domain": "Numbers",
+      "explanation": "A 51.6% final share corresponds to a 1.6-point margin, not a 3.2-point margin.",
+      "sourceIds": [
+        "nswec-results-2023"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "structural",
+      "statement": "How far the winner's final share sits above 50% in the relevant final contest.",
+      "learning": {
+        "prompt": "What does a seat margin measure?",
+        "priority": 5,
+        "distractors": [
+          "The difference between both finalists' shares.",
+          "The winning candidate’s first-preference percentage.",
+          "The percentage of enrolled electors who did not vote."
+        ]
+      }
+    },
+    {
+      "id": "core-swing",
+      "domain": "Numbers",
+      "explanation": "Always state whether the swing is primary, TCP or TPP, and whether redistribution estimates affect the comparison.",
+      "sourceIds": [
+        "parliament-analysis-2023"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "structural",
+      "statement": "The percentage-point change in a party or candidate's vote between comparable contests.",
+      "learning": {
+        "prompt": "What is an electoral swing?",
+        "priority": 5
+      }
+    },
+    {
+      "id": "core-uniform-swing",
+      "domain": "Numbers",
+      "explanation": "A pendulum is an ordering device, not a prediction model.",
+      "sourceIds": [
+        "tallyroom-pendulum"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "structural",
+      "statement": "Swings vary by region, candidate, contest type, demographics and local issue.",
+      "learning": {
+        "prompt": "Why is a uniform swing only a starting point for a seat forecast?",
+        "priority": 5
+      }
+    },
+    {
+      "id": "core-primary",
+      "domain": "Numbers",
+      "explanation": "A primary-vote movement can be politically important even when the final seat holder does not change.",
+      "sourceIds": [
+        "nswec-results-2023"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "structural",
+      "statement": "Their first-preference support before exclusions and preference transfers.",
+      "learning": {
+        "prompt": "What does a candidate's primary vote tell you?",
+        "priority": 4,
+        "distractors": [
+          "Their vote after all preference distributions.",
+          "Their share of all enrolled voters, including non-voters.",
+          "Their share of only the last two candidates’ votes."
+        ]
+      }
+    },
+    {
+      "id": "core-turnout",
+      "domain": "Numbers",
+      "explanation": "Compare like with like and check enrolment growth, vote type and boundary changes before drawing conclusions.",
+      "sourceIds": [
+        "nswec-results-2023"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "structural",
+      "statement": "They can change the size and composition of the counted vote and expose participation patterns.",
+      "learning": {
+        "prompt": "Why compare turnout and informality at seat and booth level?",
+        "priority": 3
+      }
+    },
+    {
+      "id": "core-redistribution",
+      "domain": "Seat craft",
+      "explanation": "Raw past margins can become misleading after a redistribution.",
+      "sourceIds": [
+        "spatial-boundaries",
+        "parliament-analysis-2023"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "Whether its boundaries or name changed, and what the notional result is on the new boundaries.",
+      "learning": {
+        "prompt": "What must be checked before comparing an electorate across elections?",
+        "priority": 5
+      }
+    },
+    {
+      "id": "core-boundaries-2027",
+      "domain": "Seat craft",
+      "explanation": "A fresh redistribution is not scheduled between the 2023 and 2027 general elections.",
+      "sourceIds": [
+        "spatial-boundaries",
+        "nswec-2027"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "The boundaries determined in the 2021 redistribution, also used in 2023.",
+      "learning": {
+        "prompt": "Which state district boundaries are scheduled to apply at the 2027 NSW election?",
+        "priority": 4
+      }
+    },
+    {
+      "id": "core-by-election",
+      "domain": "Seat craft",
+      "explanation": "The game labels official 2023 figures separately from the dated analyst snapshot.",
+      "sourceIds": [
+        "nswec-results-2023",
+        "tallyroom-pendulum"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "By-elections, member changes and altered contest pairings can make the current political baseline differ from the general-election result.",
+      "learning": {
+        "prompt": "Why keep a 2023 margin and a current pendulum margin as separate fields?",
+        "priority": 5
+      }
+    },
+    {
+      "id": "core-2023-result",
+      "domain": "History",
+      "explanation": "Labor returned to government but finished two seats short of the 47-seat majority line.",
+      "sourceIds": [
+        "parliament-analysis-2023"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "structural",
+      "statement": "Labor 45 seats; Coalition 36; independents 9; Greens 3.",
+      "learning": {
+        "prompt": "What was the broad Legislative Assembly result at the 2023 NSW election?",
+        "priority": 5,
+        "distractors": [
+          "Labor 47 seats; Coalition 34; independents 9; Greens 3.",
+          "Labor 45 seats; Coalition 39; independents 6; Greens 3.",
+          "Labor 48 seats; Coalition 36; independents 6; Greens 3."
+        ]
+      }
+    },
+    {
+      "id": "core-2019-result",
+      "domain": "History",
+      "explanation": "It was the Coalition's third consecutive term and a reminder that late counting can determine majority status.",
+      "sourceIds": [
+        "parliament-analysis-2023"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "structural",
+      "statement": "The Coalition won 48 seats and Labor 36, giving the Coalition a narrow majority.",
+      "learning": {
+        "prompt": "What was the broad Legislative Assembly result at the 2019 NSW election?",
+        "priority": 3
+      }
+    },
+    {
+      "id": "core-donations-window",
+      "domain": "Accountability",
+      "explanation": "That creates a live reporting trail for donors, recipients, timing and potential policy intersections.",
+      "sourceIds": [
+        "nswec-bulletin-5",
+        "nswec-disclosures"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "Election-period reportable donations must be disclosed within seven days.",
+      "learning": {
+        "prompt": "What changes for reportable political donations from 1 October 2026 to election day?",
+        "priority": 4
+      }
+    },
+    {
+      "id": "core-budget-promise",
+      "domain": "Accountability",
+      "explanation": "Record cost, funding source, delivery date, geography, eligibility and implementation dependency separately.",
+      "sourceIds": [
+        "nsw-budget-2026",
+        "abc-coalition-budget-reply"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "Whether it is a funded budget measure, a formal election commitment, a policy intention or only political rhetoric.",
+      "learning": {
+        "prompt": "What is the first distinction to make when recording an election promise?",
+        "priority": 5
+      }
+    },
+    {
+      "id": "core-seat-intensity",
+      "domain": "Campaign craft",
+      "explanation": "Track observable resource allocation over time, not just public spin.",
+      "sourceIds": [],
+      "verificationStatus": "inference",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "Repeated leader visits, candidate timing, staff and volunteer deployment, localised ads, direct mail, policy geography and opponent response.",
+      "learning": {
+        "prompt": "What evidence is stronger than a party simply calling a seat 'key'?",
+        "priority": 4
+      }
+    },
+    {
+      "id": "core-poll-to-seats",
+      "domain": "Polling",
+      "explanation": "Report the poll's field dates, sample, mode and uncertainty before modelling seat effects.",
+      "sourceIds": [],
+      "verificationStatus": "inference",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "Seats depend on geographic vote distribution, contest pairings, preferences, incumbency and sampling uncertainty.",
+      "learning": {
+        "prompt": "Why can't a statewide primary-vote poll be translated directly into a seat tally?",
+        "priority": 5
+      }
+    },
+    {
+      "id": "core-local-federal",
+      "domain": "Seat craft",
+      "explanation": "Geocode an issue to the correct jurisdiction before attributing political responsibility.",
+      "sourceIds": [
+        "spatial-boundaries"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "They overlap imperfectly and assign different responsibilities, representatives and electorates.",
+      "learning": {
+        "prompt": "Why should a state political reporter avoid treating council, state and federal boundaries as interchangeable?",
+        "priority": 4
+      }
+    },
+    {
+      "id": "core-election-night",
+      "domain": "Election mechanics",
+      "explanation": "Postal, declaration and other vote types can also alter close contests after election night.",
+      "sourceIds": [
+        "nswec-counting"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "Initial first preferences and indicative TCP counts are provisional; the check count and full preference distribution determine the official result.",
+      "learning": {
+        "prompt": "What is the key caveat about election-night Assembly counts?",
+        "priority": 5
+      }
+    },
+    {
+      "id": "core-power-chain",
+      "domain": "Parliament",
+      "explanation": "The Council, opposition, crossbench, committees, courts and independent bodies apply different forms of scrutiny.",
+      "sourceIds": [
+        "parliament-assembly",
+        "parliament-council"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "Assembly confidence enables a Premier and ministry; ministers set portfolio direction and departments and agencies administer laws and deliver programs.",
+      "learning": {
+        "prompt": "What is the basic NSW government delivery chain after electors choose Parliament?",
+        "priority": 4
+      }
+    },
+    {
+      "id": "core-political-public-service",
+      "domain": "Parliament",
+      "explanation": "The distinction matters for authority, records, accountability and attribution.",
+      "sourceIds": [
+        "parliament-assembly"
+      ],
+      "verificationStatus": "single-source",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "A ministerial office is political; a department is part of the non-partisan public service that advises government and administers programs.",
+      "learning": {
+        "prompt": "Why distinguish a ministerial office from a department?",
+        "priority": 4
+      }
+    },
+    {
+      "id": "core-party-wings",
+      "domain": "Campaign craft",
+      "explanation": "The exact balance of power and formal rules differs by party.",
+      "sourceIds": [],
+      "verificationStatus": "inference",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "The parliamentary wing consists of elected members and their leadership; the organisational wing manages membership, rules, conferences, administration and aspects of preselection and campaigning.",
+      "learning": {
+        "prompt": "What is the difference between a party's parliamentary and organisational wings?",
+        "priority": 3
+      }
+    },
+    {
+      "id": "core-public-promise-owner",
+      "domain": "Accountability",
+      "explanation": "Map dependencies before treating an announcement date as a delivery date.",
+      "sourceIds": [],
+      "verificationStatus": "inference",
+      "asOf": "2026-09-03",
+      "freshnessClass": "term-relevant",
+      "statement": "The responsible minister, department and agencies — sometimes with Parliament, Treasury, regulators, councils, the Commonwealth or private partners.",
+      "learning": {
+        "prompt": "When a party announces a policy, which organisations may need to deliver it?",
+        "priority": 4
+      }
+    }
+  ]
+}

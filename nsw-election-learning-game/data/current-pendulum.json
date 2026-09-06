@@ -1,0 +1,839 @@
+[
+  {
+    "name": "Albury",
+    "holderParty": "LIB",
+    "margin": 16.3,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Auburn",
+    "holderParty": "ALP",
+    "margin": 24.0,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Badgerys Creek",
+    "holderParty": "LIB",
+    "margin": 10.5,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Ballina",
+    "holderParty": "GRN",
+    "margin": 7.7,
+    "vsParty": "NAT",
+    "basis": "GRN vs NAT",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Balmain",
+    "holderParty": "GRN",
+    "margin": 1.8,
+    "vsParty": "ALP",
+    "basis": "GRN vs ALP",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Bankstown",
+    "holderParty": "ALP",
+    "margin": 20.3,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Barwon",
+    "holderParty": "IND",
+    "margin": 16.0,
+    "vsParty": "NAT",
+    "basis": "IND vs NAT",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Bathurst",
+    "holderParty": "NAT",
+    "margin": 23.6,
+    "vsParty": null,
+    "basis": "NAT vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Bega",
+    "holderParty": "ALP",
+    "margin": 10.4,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Blacktown",
+    "holderParty": "ALP",
+    "margin": 19.1,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Blue Mountains",
+    "holderParty": "ALP",
+    "margin": 21.9,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Cabramatta",
+    "holderParty": "ALP",
+    "margin": 11.8,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Camden",
+    "holderParty": "ALP",
+    "margin": 3.0,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Campbelltown",
+    "holderParty": "ALP",
+    "margin": 23.3,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Canterbury",
+    "holderParty": "ALP",
+    "margin": 25.8,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Castle Hill",
+    "holderParty": "LIB",
+    "margin": 10.9,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Cessnock",
+    "holderParty": "ALP",
+    "margin": 23.4,
+    "vsParty": "ON",
+    "basis": "ALP vs ON",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Charlestown",
+    "holderParty": "ALP",
+    "margin": 21.1,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Clarence",
+    "holderParty": "NAT",
+    "margin": 14.3,
+    "vsParty": null,
+    "basis": "NAT vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Coffs Harbour",
+    "holderParty": "NAT",
+    "margin": 13.2,
+    "vsParty": null,
+    "basis": "NAT vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Coogee",
+    "holderParty": "ALP",
+    "margin": 12.3,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Cootamundra",
+    "holderParty": "NAT",
+    "margin": 32.1,
+    "vsParty": null,
+    "basis": "NAT vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Cronulla",
+    "holderParty": "LIB",
+    "margin": 13.8,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Davidson",
+    "holderParty": "LIB",
+    "margin": 13.9,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Drummoyne",
+    "holderParty": "LIB",
+    "margin": 1.3,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Dubbo",
+    "holderParty": "NAT",
+    "margin": 18.6,
+    "vsParty": null,
+    "basis": "NAT vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "East Hills",
+    "holderParty": "ALP",
+    "margin": 1.7,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Epping",
+    "holderParty": "LIB",
+    "margin": 4.8,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Fairfield",
+    "holderParty": "ALP",
+    "margin": 20.9,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Gosford",
+    "holderParty": "ALP",
+    "margin": 15.4,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Goulburn",
+    "holderParty": "LIB",
+    "margin": 1.3,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Granville",
+    "holderParty": "ALP",
+    "margin": 21.5,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Hawkesbury",
+    "holderParty": "LIB",
+    "margin": 9.8,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Heathcote",
+    "holderParty": "ALP",
+    "margin": 9.9,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Heffron",
+    "holderParty": "ALP",
+    "margin": 23.3,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Holsworthy",
+    "holderParty": "LIB",
+    "margin": 0.4,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Hornsby",
+    "holderParty": "LIB",
+    "margin": 8.0,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Keira",
+    "holderParty": "ALP",
+    "margin": 24.2,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Kellyville",
+    "holderParty": "LIB",
+    "margin": 11.0,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Kiama",
+    "holderParty": "ALP",
+    "margin": 10.2,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Kogarah",
+    "holderParty": "ALP",
+    "margin": 18.3,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Lake Macquarie",
+    "holderParty": "IND",
+    "margin": 24.1,
+    "vsParty": "ALP",
+    "basis": "IND vs ALP",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Lane Cove",
+    "holderParty": "LIB",
+    "margin": 5.5,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Leppington",
+    "holderParty": "ALP",
+    "margin": 8.9,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Lismore",
+    "holderParty": "ALP",
+    "margin": 15.0,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Liverpool",
+    "holderParty": "ALP",
+    "margin": 8.3,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Londonderry",
+    "holderParty": "ALP",
+    "margin": 13.7,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Macquarie Fields",
+    "holderParty": "ALP",
+    "margin": 19.9,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Maitland",
+    "holderParty": "ALP",
+    "margin": 18.6,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Manly",
+    "holderParty": "LIB",
+    "margin": 4.8,
+    "vsParty": "IND",
+    "basis": "LIB vs IND",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Maroubra",
+    "holderParty": "ALP",
+    "margin": 18.7,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Miranda",
+    "holderParty": "LIB",
+    "margin": 2.3,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Monaro",
+    "holderParty": "ALP",
+    "margin": 2.3,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Mount Druitt",
+    "holderParty": "ALP",
+    "margin": 22.4,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Murray",
+    "holderParty": "IND",
+    "margin": 16.0,
+    "vsParty": "NAT",
+    "basis": "IND vs NAT",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Myall Lakes",
+    "holderParty": "NAT",
+    "margin": 15.8,
+    "vsParty": null,
+    "basis": "NAT vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Newcastle",
+    "holderParty": "ALP",
+    "margin": 22.6,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Newtown",
+    "holderParty": "GRN",
+    "margin": 12.1,
+    "vsParty": "ALP",
+    "basis": "GRN vs ALP",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "North Shore",
+    "holderParty": "LIB",
+    "margin": 5.7,
+    "vsParty": "IND",
+    "basis": "LIB vs IND",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Northern Tablelands",
+    "holderParty": "NAT",
+    "margin": 33.8,
+    "vsParty": null,
+    "basis": "NAT vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Oatley",
+    "holderParty": "LIB",
+    "margin": 0.8,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Orange",
+    "holderParty": "IND",
+    "margin": 21.9,
+    "vsParty": "NAT",
+    "basis": "IND vs NAT",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Oxley",
+    "holderParty": "NAT",
+    "margin": 12.8,
+    "vsParty": null,
+    "basis": "NAT vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Parramatta",
+    "holderParty": "ALP",
+    "margin": 8.6,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Penrith",
+    "holderParty": "ALP",
+    "margin": 1.6,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Pittwater",
+    "holderParty": "IND",
+    "margin": 5.9,
+    "vsParty": "LIB",
+    "basis": "IND vs LIB",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Port Macquarie",
+    "holderParty": "LIB",
+    "margin": 10.8,
+    "vsParty": "NAT",
+    "basis": "LIB vs NAT",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Port Stephens",
+    "holderParty": "ALP",
+    "margin": 19.0,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Prospect",
+    "holderParty": "ALP",
+    "margin": 8.7,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Riverstone",
+    "holderParty": "ALP",
+    "margin": 3.7,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Rockdale",
+    "holderParty": "ALP",
+    "margin": 15.4,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Ryde",
+    "holderParty": "LIB",
+    "margin": 0.1,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Shellharbour",
+    "holderParty": "ALP",
+    "margin": 17.1,
+    "vsParty": "IND",
+    "basis": "ALP vs IND",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "South Coast",
+    "holderParty": "ALP",
+    "margin": 3.8,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Strathfield",
+    "holderParty": "ALP",
+    "margin": 13.0,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Summer Hill",
+    "holderParty": "ALP",
+    "margin": 16.3,
+    "vsParty": "GRN",
+    "basis": "ALP vs GRN",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Swansea",
+    "holderParty": "ALP",
+    "margin": 15.4,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Sydney",
+    "holderParty": "IND",
+    "margin": 15.6,
+    "vsParty": "ALP",
+    "basis": "IND vs ALP",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Tamworth",
+    "holderParty": "NAT",
+    "margin": 15.8,
+    "vsParty": "IND",
+    "basis": "NAT vs IND",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Terrigal",
+    "holderParty": "LIB",
+    "margin": 1.2,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "The Entrance",
+    "holderParty": "ALP",
+    "margin": 7.8,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Tweed",
+    "holderParty": "NAT",
+    "margin": 3.6,
+    "vsParty": null,
+    "basis": "NAT vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Upper Hunter",
+    "holderParty": "NAT",
+    "margin": 3.8,
+    "vsParty": null,
+    "basis": "NAT vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Vaucluse",
+    "holderParty": "LIB",
+    "margin": 12.9,
+    "vsParty": "IND",
+    "basis": "LIB vs IND",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Wagga Wagga",
+    "holderParty": "IND",
+    "margin": 22.4,
+    "vsParty": "NAT",
+    "basis": "IND vs NAT",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Wahroonga",
+    "holderParty": "LIB",
+    "margin": 10.6,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Wakehurst",
+    "holderParty": "IND",
+    "margin": 4.5,
+    "vsParty": "LIB",
+    "basis": "IND vs LIB",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Wallsend",
+    "holderParty": "ALP",
+    "margin": 31.8,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Willoughby",
+    "holderParty": "LIB",
+    "margin": 2.6,
+    "vsParty": "IND",
+    "basis": "LIB vs IND",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Winston Hills",
+    "holderParty": "LIB",
+    "margin": 1.8,
+    "vsParty": null,
+    "basis": "LIB vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Wollondilly",
+    "holderParty": "IND",
+    "margin": 1.5,
+    "vsParty": "LIB",
+    "basis": "IND vs LIB",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Wollongong",
+    "holderParty": "ALP",
+    "margin": 24.3,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  },
+  {
+    "name": "Wyong",
+    "holderParty": "ALP",
+    "margin": 19.8,
+    "vsParty": null,
+    "basis": "ALP vs main opponent",
+    "sourceId": "tallyroom-pendulum",
+    "sourceAsOf": "2026-09-03"
+  }
+]
