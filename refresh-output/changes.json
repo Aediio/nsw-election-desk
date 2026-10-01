@@ -1,0 +1,65 @@
+{
+  "baseVersion": "ca06bd9f5db15726",
+  "proposedVersion": "ca06bd9f5db15726",
+  "generatedAt": "2026-10-01T00:36:41.406Z",
+  "adds": [],
+  "updates": [
+    {
+      "priority": "P1",
+      "dataset": "boundary source metadata",
+      "reason": "Official records modified after snapshot; retrieve and review geometry before updating",
+      "districts": [
+        "WAGGA WAGGA",
+        "COOTAMUNDRA",
+        "BARWON",
+        "ORANGE",
+        "LISMORE",
+        "BALLINA",
+        "HEFFRON",
+        "NEWTOWN",
+        "NEWCASTLE",
+        "PORT STEPHENS",
+        "WOLLONDILLY",
+        "MONARO",
+        "GOULBURN"
+      ],
+      "source": "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Administrative_Boundaries_Theme_multiCRS/FeatureServer/4"
+    }
+  ],
+  "closes": [],
+  "unchangedButReverified": [
+    {
+      "dataset": "boundary district names ONLY",
+      "source": "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Administrative_Boundaries_Theme_multiCRS/FeatureServer/4",
+      "count": 93
+    }
+  ],
+  "disputes": [],
+  "staleOrUnreachable": [
+    {
+      "priority": "P1",
+      "source": "https://www.parliament.nsw.gov.au/members-and-electorates",
+      "reason": "Parliament directory access challenge or HTTP 403"
+    },
+    {
+      "dataset": "current-la-members.json",
+      "priority": "P1",
+      "reason": "Snapshot exceeds review window",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "dataset": "current-lc-members.json",
+      "priority": "P1",
+      "reason": "Snapshot exceeds review window",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "dataset": "current-pendulum.json",
+      "priority": "P1",
+      "reason": "Snapshot exceeds review window",
+      "retrieved": "2026-09-03"
+    }
+  ],
+  "cardInvalidations": [],
+  "proposedCards": []
+}
